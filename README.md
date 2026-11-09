@@ -7,6 +7,8 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/jaanque/good-first-issue)
 [![GitHub last commit](https://img.shields.io/github/last-commit/jaanque/good-first-issue)](https://github.com/jaanque/good-first-issue/commits/main)
 
+##
+
 **Other languages? hell yeah.**
 
 <table>
