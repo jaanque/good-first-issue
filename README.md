@@ -27,9 +27,13 @@ I believe that the best way to learn is **by doing**, so I've created a simple p
 
 ## Basic material
 
-* **GitHub Account** (if you don't have one): [Sign up](https://github.com/signup)
-* **Git**: [Download](https://git-scm.com/downloads)
-* **VS Code**: [Download](https://code.visualstudio.com/download) *(or your favorite editor)*
+Before getting started, make sure you have the following basic tools ready:
+
+| Tool               |                                                               Logo                                                               | Description                                         | Link                                               |
+| :----------------- | :------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------- | :------------------------------------------------- |
+| **GitHub Account** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" alt="GitHub" />  | Create your account to host code and contribute     | [Sign up](https://github.com/signup)               |
+| **Git**            |      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />      | Version control tool to manage your code changes    | [Download](https://git-scm.com/downloads)          |
+| **VS Code**        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | Recommended code editor _(or your favorite editor)_ | [Download](https://code.visualstudio.com/download) |
 
 ## 1. Fork the repository
 
@@ -114,11 +118,12 @@ code .
 ```
 
 Alternatively, you can open it manually:
+
 1. Launch **Visual Studio Code**.
 2. Go to **File** > **Open Folder...** (or press `Ctrl + K, Ctrl + O` on Windows / `Cmd + O` on macOS).
 3. Select the `good-first-issue` folder.
 
-> 💡 *Don't have VS Code installed yet? You can download it for free from [code.visualstudio.com](https://code.visualstudio.com/).*
+> 💡 _Don't have VS Code installed yet? You can download it for free from [code.visualstudio.com](https://code.visualstudio.com/)._
 
 💻 **All set!** You now have the project open in your editor and you're ready to start editing.
 
@@ -128,7 +133,7 @@ Now comes the fun part: adding your own card to the project!
 
 Inside the `assets/cards/` directory, create a new file named with your GitHub username followed by `.json`:
 
-📄 `assets/cards/<your-username>.json` *(e.g. `octocat.json`)*
+📄 `assets/cards/<your-username>.json` _(e.g. `octocat.json`)_
 
 ### Structure
 
@@ -143,11 +148,12 @@ Your file must follow the exact same structure as `jan.json`:
 ```
 
 ### How to get your profile image URL (`img`):
+
 1. Open your GitHub profile page in your browser (`https://github.com/<your-username>`).
 2. Right-click on your profile picture and select **"Copy image address"** (or **"Copiar dirección de imagen"**).
 3. Paste that copied URL into the `"img"` field.
 
-> 💡 *Quick trick: You can also use `https://github.com/<your-username>.png` as your image URL!*
+> 💡 _Quick trick: You can also use `https://github.com/<your-username>.png` as your image URL!_
 
 ### Example
 
@@ -185,7 +191,7 @@ Before creating the Pull Request, you need to save your changes and upload your 
    git push origin <your-branch-name>
    ```
 
-   > 💡 *If prompted, you can also run `git push -u origin <your-branch-name>`.*
+   > 💡 _If prompted, you can also run `git push -u origin <your-branch-name>`._
 
 ## 7. Create the Pull Request
 
