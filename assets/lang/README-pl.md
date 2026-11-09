@@ -1,6 +1,6 @@
 <div align="center">
 
-# good first issue
+# GOOD FIRST ISSUE
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +10,7 @@
 ##
 
 <details>
-  <summary><b>Inne języki? Jasne, że tak!</b></summary>
+  <summary><b>INNE JĘZYKI? JASNE, ŻE TAK!</b></summary>
   <br/>
 
 <table>
@@ -215,7 +215,7 @@ Uważam, że najlepszym sposobem na naukę jest **praktyka**, dlatego przygotowa
 
 <div align="justify">
 
-## Podstawowe narzędzia
+## PODSTAWOWE NARZĘDZIA
 
 Zanim zaczniesz, upewnij się, że masz przygotowane następujące podstawowe narzędzia:
 
@@ -225,7 +225,7 @@ Zanim zaczniesz, upewnij się, że masz przygotowane następujące podstawowe na
 | **Git**           |      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />      | Narzędzie kontroli wersji do zarządzania zmianami w kodzie  | [Pobierz](https://git-scm.com/downloads)           |
 | **VS Code**       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | Polecany edytor kodu _(lub Twój ulubiony edytor)_           | [Pobierz](https://code.visualstudio.com/download)  |
 
-## 1. Sforkuj repozytorium
+## 1. SFORKUJ REPOZYTORIUM
 
 **Fork** to Twoja własna kopia tego repozytorium na Twoim koncie GitHub. Pozwala na bezpieczne wprowadzanie zmian bez wpływu na oryginalny projekt!
 
@@ -245,7 +245,7 @@ Zanim zaczniesz, upewnij się, że masz przygotowane następujące podstawowe na
 
 🎉 **Wspaniale!** Masz teraz własną roboczą kopię projektu.
 
-## 2. Sklonuj repozytorium
+## 2. SKLONUJ REPOZYTORIUM
 
 Teraz musisz pobrać sforkowane repozytorium na swój komputer, aby móc edytować pliki lokalnie.
 
@@ -274,7 +274,7 @@ Teraz musisz pobrać sforkowane repozytorium na swój komputer, aby móc edytowa
 
 🚀 **Dobra robota!** Masz pliki projektu na swoim lokalnym komputerze i możesz przystąpić do zmian.
 
-## 3. Utwórz nową gałąź (branch)
+## 3. UTWÓRZ NOWĄ GAŁĄŹ (BRANCH)
 
 Zanim dokonasz jakichkolwiek zmian, dobrą praktyką jest utworzenie nowej gałęzi. Praca na osobnej gałęzi pozwala zachować porządek i pozostawia gałąź `main` czystą.
 
@@ -298,7 +298,7 @@ Zanim dokonasz jakichkolwiek zmian, dobrą praktyką jest utworzenie nowej gał�
 
 🌿 **Wszystko gotowe!** Wszelkie zmiany od tej pory będą zapisywane na Twojej nowej gałęzi.
 
-## 4. Otwórz projekt w edytorze kodu
+## 4. OTWÓRZ PROJEKT W EDYTORZE KODU
 
 Teraz, gdy masz projekt lokalnie, a gałąź jest gotowa, czas otworzyć go w edytorze kodu. W tym poradniku korzystamy z **Visual Studio Code (VS Code)**, ale możesz użyć dowolnego edytora.
 
@@ -326,7 +326,7 @@ W eksploratorze powinieneś zobaczyć pliki projektu:
 
 💻 **Gotowe!** Projekt jest otwarty w edytorze i możesz przystąpić do edycji.
 
-## 5. Dodaj swoją kartę współtwórcy
+## 5. DODAJ SWOJĄ KARTĘ WSPÓŁTWÓRCY
 
 Teraz najprzyjemniejsza część: dodanie własnej karty do projektu!
 
@@ -334,7 +334,7 @@ W katalogu `assets/cards/` utwórz nowy plik o nazwie będącej Twoją nazwą u�
 
 📄 `assets/cards/<twoja-nazwa-uzytkownika>.json` _(np. `octocat.json`)_
 
-### Struktura
+### STRUKTURA
 
 Twój plik musi mieć dokładnie taką samą strukturę jak `jan.json`:
 
@@ -346,7 +346,7 @@ Twój plik musi mieć dokładnie taką samą strukturę jak `jan.json`:
 }
 ```
 
-### Jak pobrać adres URL zdjęcia profilowego (`img`):
+### JAK POBRAĆ ADRES URL ZDJĘCIA PROFILOWEGO (`IMG`):
 
 1. Otwórz stronę swojego profilu na GitHubie w przeglądarce (`https://github.com/<twoja-nazwa-uzytkownika>`).
 2. Kliknij prawym przyciskiem myszy na swoje zdjęcie profilowe i wybierz **"Kopiuj adres obrazu"** (lub **"Copy image address"**).
@@ -354,7 +354,7 @@ Twój plik musi mieć dokładnie taką samą strukturę jak `jan.json`:
 
 > 💡 _Szybka sztuczka: Jako URL zdjęcia możesz także użyć `https://github.com/<twoja-nazwa-uzytkownika>.png`!_
 
-### Przykład
+### PRZYKŁAD
 
 Jeśli Twoja nazwa użytkownika to `octocat`, tworzysz plik `assets/cards/octocat.json` o następującej zawartości:
 
@@ -368,7 +368,7 @@ Jeśli Twoja nazwa użytkownika to `octocat`, tworzysz plik `assets/cards/octoca
 
 Zapisz plik po zakończeniu edycji. Po jego utworzeniu możesz przejść do kolejnego kroku!
 
-## 6. Zatwierdź i wyślij zmiany (commit & push)
+## 6. ZATWIERDŹ I WYŚLIJ ZMIANY (COMMIT & PUSH)
 
 Przed utworzeniem Pull Requesta musisz zapisać zmiany i wysłać swoją gałąź na GitHuba.
 
@@ -392,7 +392,7 @@ Przed utworzeniem Pull Requesta musisz zapisać zmiany i wysłać swoją gałą�
 
    > 💡 _W razie potrzeby możesz także użyć `git push -u origin <nazwa-twojej-galezi>`._
 
-## 7. Utwórz Pull Request
+## 7. UTWÓRZ PULL REQUEST
 
 Gdy Twoja gałąź znajduje się już na GitHubie, czas zgłosić swój wkład do projektu!
 
@@ -413,7 +413,7 @@ Gdy Twoja gałąź znajduje się już na GitHubie, czas zgłosić swój wkład d
    - **Opis:** Napisz krótki opis wyjaśniający zmiany (np. że dodałeś swoją kartę współtwórcy w `assets/cards/<twoja-nazwa-uzytkownika>.json`).
 5. Kliknij zielony przycisk **Create pull request**!
 
-### Teraz wystarczy poczekać na sprawdzenie Twojego pull requesta. Po pozytywnej weryfikacji Twoja karta zostanie automatycznie dodana do galerii współtwórców.
+### TERAZ WYSTARCZY POCZEKAĆ NA SPRAWDZENIE TWOJEGO PULL REQUESTA. PO POZYTYWNEJ WERYFIKACJI TWOJA KARTA ZOSTANIE AUTOMATYCZNIE DODANA DO GALERII WSPÓŁTWÓRCÓW.
 
 Możesz zobaczyć wkład wszystkich uczestników na żywo tutaj:
 👉 **[Nasi Współtwórcy](https://jaanque.github.io/good-first-issue/)**
@@ -422,7 +422,7 @@ Możesz zobaczyć wkład wszystkich uczestników na żywo tutaj:
 
 Pamiętaj, że to dopiero początek! Tysiące projektów open source czeka na Twój wkład, a proces wygląda niemal identycznie wszędzie: sforkuj repozytorium, stwórz gałąź, wprowadź zmiany i wyślij pull request.
 
-## 🎉 **Gratulacje!**
+## 🎉 **GRATULACJE!**
 
 Właśnie zgłosiłeś swój pierwszy wkład w projekt Open Source! Po scaleniu zmian Twoja karta pojawi się automatycznie na liście współtwórców.
 

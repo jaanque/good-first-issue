@@ -1,6 +1,6 @@
 <div align="center">
 
-# good first issue
+# GOOD FIRST ISSUE
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -225,7 +225,7 @@
 | **Git** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" /> | כלי בקרת גרסאות לניהול ומעקב אחר שינויים | [הורדה](https://git-scm.com/downloads) |
 | **VS Code** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | עורך קוד מומלץ _(או העורך המועדף עליכם)_ | [הורדה](https://code.visualstudio.com/download) |
 
-## 1. בצעו Fork למאגר
+## 1. בצעו FORK למאגר
 
 **Fork** הוא עותק משלכם של מאגר זה בחשבון ה-GitHub שלכם. הוא מאפשר לכם לבצע שינויים בבטחה מבלי להשפיע על הפרויקט המקורי!
 
@@ -245,7 +245,7 @@
 
 🎉 **מצוין!** כעת יש לכם עותק עבודה אישי של הפרויקט.
 
-## 2. שכבלו (Clone) את המאגר
+## 2. שכבלו (CLONE) את המאגר
 
 כעת עליכם להוריד את המאגר המשוכפל למחשב שלכם כדי לערוך את הקבצים באופן מקומי.
 
@@ -274,7 +274,7 @@
 
 🚀 **עבודה מעולה!** קבצי הפרויקט נמצאים כעת במחשב שלכם ואתם מוכנים לבצע שינויים.
 
-## 3. צרו ענף (branch) חדש
+## 3. צרו ענף (BRANCH) חדש
 
 לפני ביצוע שינויים כלשהם, מומלץ ליצור ענף חדש. עבודה בענף נפרד שומרת על הסדר ומותירה את ענף ה-`main` נקי.
 
@@ -346,7 +346,7 @@ code .
 }
 ```
 
-### כיצד להשיג את כתובת ה-URL של תמונת הפרופיל שלכם (`img`):
+### כיצד להשיג את כתובת ה-URL של תמונת הפרופיל שלכם (`IMG`):
 
 1. פתחו את פרופיל ה-GitHub שלכם בדפדפן (`https://github.com/<your-username>`).
 2. לחצו לחיצה ימנית על תמונת הפרופיל שלכם ובחרו ב-**"העתק כתובת תמונה"** (או **"Copy image address"**).
@@ -368,7 +368,7 @@ code .
 
 שמרו את הקובץ בסיום. לאחר יצירתו, אתם מוכנים לשלב הבא!
 
-## 6. בצעו Commit ו-Push לשינויים שלכם
+## 6. בצעו COMMIT ו-PUSH לשינויים שלכם
 
 לפני יצירת ה-Pull Request, עליכם לשמור את השינויים ולהעלות את הענף שלכם ל-GitHub.
 
@@ -392,7 +392,7 @@ code .
 
    > 💡 _אם תתבקשו, תוכלו גם להריץ `git push -u origin <branch-name>`._
 
-## 7. צרו את ה-Pull Request
+## 7. צרו את ה-PULL REQUEST
 
 כעת, כשהענף שלכם עלה ל-GitHub, הגיע הזמן לשלוח את התרומה שלכם לפרויקט!
 
@@ -413,7 +413,7 @@ code .
    - **תיאור:** כתבו תיאור קצר המסביר מה עשיתם (למשל שהוספתם את כרטיס התורם שלכם ב-`assets/cards/<your-username>.json`).
 5. לחצו על הכפתור הירוק **Create pull request**!
 
-### כעת נותר רק להמתין לבדיקת ה-pull request שלכם. לאחר הבדיקה והאישור, הכרטיס שלכם יתווסף אוטומטית ללוח התורמים.
+### כעת נותר רק להמתין לבדיקת ה-PULL REQUEST שלכם. לאחר הבדיקה והאישור, הכרטיס שלכם יתווסף אוטומטית ללוח התורמים.
 
 תוכלו לצפות בתוצאה החיה של תרומות כולם כאן:
 👉 **[התורמים שלנו](https://jaanque.github.io/good-first-issue/)**

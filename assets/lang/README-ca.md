@@ -1,6 +1,6 @@
 <div align="center">
 
-# good first issue
+# GOOD FIRST ISSUE
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +10,7 @@
 ##
 
 <details>
-  <summary><b>Altres idiomes? I tant!</b></summary>
+  <summary><b>ALTRES IDIOMES? I TANT!</b></summary>
   <br/>
 
 <table>
@@ -215,7 +215,7 @@ Crec que la millor manera d'aprendre és **fent**, així que he creat un project
 
 <div align="justify">
 
-## Material bàsic
+## MATERIAL BÀSIC
 
 Abans de començar, assegura't de tenir a punt les següents eines bàsiques:
 
@@ -225,7 +225,7 @@ Abans de començar, assegura't de tenir a punt les següents eines bàsiques:
 | **Git**              |      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />      | Eina de control de versions per gestionar canvis al codi    | [Descarrega](https://git-scm.com/downloads)        |
 | **VS Code**          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | Editor de codi recomanat _(o el teu editor preferit)_       | [Descarrega](https://code.visualstudio.com/download) |
 
-## 1. Fes un fork del repositori
+## 1. FES UN FORK DEL REPOSITORI
 
 Un **fork** és la teva pròpia còpia d'aquest repositori al teu compte de GitHub. Et permet fer canvis amb seguretat sense afectar el projecte original!
 
@@ -245,7 +245,7 @@ Un **fork** és la teva pròpia còpia d'aquest repositori al teu compte de GitH
 
 🎉 **Genial!** Ara ja tens la teva pròpia còpia de treball del projecte.
 
-## 2. Clona el repositori
+## 2. CLONA EL REPOSITORI
 
 Ara has de descarregar el repositori forkejat al teu ordinador per poder editar els fitxers localment.
 
@@ -274,7 +274,7 @@ Ara has de descarregar el repositori forkejat al teu ordinador per poder editar 
 
 🚀 **Bona feina!** Ja tens els fitxers del projecte a la teva màquina local i estàs a punt per fer els teus canvis.
 
-## 3. Crea una nova branca (branch)
+## 3. CREA UNA NOVA BRANCA (BRANCH)
 
 Abans de fer cap canvi, és una bona pràctica crear una nova branca. Treballar en una branca separada manté la teva feina organitzada i deixa la branca `main` neta.
 
@@ -298,7 +298,7 @@ Abans de fer cap canvi, és una bona pràctica crear una nova branca. Treballar 
 
 🌿 **Tot a punt!** Qualsevol canvi que facis a partir d'ara es mantindrà a la teva nova branca.
 
-## 4. Obre el projecte al teu editor de codi
+## 4. OBRE EL PROJECTE AL TEU EDITOR DE CODI
 
 Ara que tens el projecte localment i la teva branca està a punt, és hora d'obrir-lo al teu editor de codi. En aquesta guia farem servir **Visual Studio Code (VS Code)**, però pots fer servir l'editor que prefereixis.
 
@@ -326,7 +326,7 @@ Hauries de veure els fitxers del projecte a l'explorador:
 
 💻 **Llest!** Ja tens el projecte obert al teu editor i estàs preparat per començar a editar.
 
-## 5. Afegeix la teva targeta de col·laborador
+## 5. AFEGEIX LA TEVA TARGETA DE COL·LABORADOR
 
 Ara arriba la part divertida: afegir la teva pròpia targeta al projecte!
 
@@ -334,7 +334,7 @@ Dins del directori `assets/cards/`, crea un nou fitxer anomenat amb el teu nom d
 
 📄 `assets/cards/<el-teu-usuari>.json` _(ex. `octocat.json`)_
 
-### Estructura
+### ESTRUCTURA
 
 El teu fitxer ha de seguir exactament la mateixa estructura que `jan.json`:
 
@@ -346,7 +346,7 @@ El teu fitxer ha de seguir exactament la mateixa estructura que `jan.json`:
 }
 ```
 
-### Com obtenir l'URL de la teva foto de perfil (`img`):
+### COM OBTENIR L'URL DE LA TEVA FOTO DE PERFIL (`IMG`):
 
 1. Obre el teu perfil de GitHub al teu navegador (`https://github.com/<el-teu-usuari>`).
 2. Fes clic dret a la teva foto de perfil i selecciona **"Copia l'adreça de la imatge"** (o **"Copy image address"**).
@@ -354,7 +354,7 @@ El teu fitxer ha de seguir exactament la mateixa estructura que `jan.json`:
 
 > 💡 _Truc ràpid: També pots fer servir `https://github.com/<el-teu-usuari>.png` com a URL de la teva imatge!_
 
-### Exemple
+### EXEMPLE
 
 Si el teu nom d'usuari és `octocat`, crearies `assets/cards/octocat.json` amb el següent contingut:
 
@@ -368,7 +368,7 @@ Si el teu nom d'usuari és `octocat`, crearies `assets/cards/octocat.json` amb e
 
 Desa el fitxer quan acabis. Un cop creat, ja estàs a punt per al següent pas!
 
-## 6. Fes commit i push dels teus canvis
+## 6. FES COMMIT I PUSH DELS TEUS CANVIS
 
 Abans de crear el Pull Request, has de desar els teus canvis i pujar la teva branca a GitHub.
 
@@ -392,7 +392,7 @@ Abans de crear el Pull Request, has de desar els teus canvis i pujar la teva bra
 
    > 💡 _Si t'ho demana, també pots executar `git push -u origin <nom-de-la-teva-branca>`._
 
-## 7. Crea el Pull Request
+## 7. CREA EL PULL REQUEST
 
 Ara que la teva branca està pujada a GitHub, és hora d'enviar la teva col·laboració al projecte!
 
@@ -413,7 +413,7 @@ Ara que la teva branca està pujada a GitHub, és hora d'enviar la teva col·lab
    - **Descripció:** Escriu una breu descripció explicant què has modificat (ex. que has afegit la teva targeta de col·laborador a `assets/cards/<el-teu-usuari>.json`).
 5. Fes clic al botó verd **Create pull request**!
 
-### Ara només queda esperar la revisió del teu pull request. Després de la revisió, si és acceptat, la teva targeta s'afegirà automàticament a la vitrina de col·laboradors.
+### ARA NOMÉS QUEDA ESPERAR LA REVISIÓ DEL TEU PULL REQUEST. DESPRÉS DE LA REVISIÓ, SI ÉS ACCEPTAT, LA TEVA TARGETA S'AFEGIRÀ AUTOMÀTICAMENT A LA VITRINA DE COL·LABORADORS.
 
 Pots veure el resultat en viu de les contribucions de tothom aquí:
 👉 **[Els nostres col·laboradors](https://jaanque.github.io/good-first-issue/)**
@@ -422,7 +422,7 @@ Pots veure el resultat en viu de les contribucions de tothom aquí:
 
 Recorda, això és només el començament! Hi ha milers de projectes de codi obert esperant la teva col·laboració, i el flux de treball és pràcticament el mateix a tot arreu: fes un fork del repositori, crea una branca, fes els teus canvis i envia un pull request.
 
-## 🎉 **Enhorabona!**
+## 🎉 **ENHORABONA!**
 
 Acabes d'enviar la teva primera col·laboració Open Source! Un cop fusionada, la teva targeta apareixerà automàticament a la vitrina de col·laboradors.
 

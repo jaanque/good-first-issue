@@ -1,6 +1,6 @@
 <div align="center">
 
-# good first issue
+# GOOD FIRST ISSUE
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +10,7 @@
 ##
 
 <details>
-  <summary><b>Jiné jazyky? Určitě!</b></summary>
+  <summary><b>JINÉ JAZYKY? URČITĚ!</b></summary>
   <br/>
 
 <table>
@@ -215,7 +215,7 @@ Věřím, že nejlepší způsob, jak se učit, je **praxí**, proto jsem vytvo�
 
 <div align="justify">
 
-## Základní vybavení
+## ZÁKLADNÍ VYBAVENÍ
 
 Než začnete, ujistěte se, že máte připraveny následující základní nástroje:
 
@@ -225,7 +225,7 @@ Než začnete, ujistěte se, že máte připraveny následující základní ná
 | **Git** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" /> | Nástroj pro správu verzí ke sledování změn | [Stáhnout](https://git-scm.com/downloads) |
 | **VS Code** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | Doporučený editor kódu _(nebo váš oblíbený editor)_ | [Stáhnout](https://code.visualstudio.com/download) |
 
-## 1. Forkněte repozitář
+## 1. FORKNĚTE REPOZITÁŘ
 
 **Fork** je vaše vlastní kopie tohoto repozitáře na vašem účtu GitHub. Umožňuje vám bezpečně provádět změny bez ovlivnění původního projektu!
 
@@ -245,7 +245,7 @@ Než začnete, ujistěte se, že máte připraveny následující základní ná
 
 🎉 **Skvělé!** Nyní máte svou vlastní pracovní kopii projektu.
 
-## 2. Naklonujte repozitář
+## 2. NAKLONUJTE REPOZITÁŘ
 
 Nyní musíte stáhnout svůj forknutý repozitář do počítače, abyste mohli soubory upravovat lokálně.
 
@@ -274,7 +274,7 @@ Nyní musíte stáhnout svůj forknutý repozitář do počítače, abyste mohli
 
 🚀 **Dobrá práce!** Nyní máte soubory projektu na svém lokálním počítači a jste připraveni provádět změny.
 
-## 3. Vytvořte novou větev (branch)
+## 3. VYTVOŘTE NOVOU VĚTEV (BRANCH)
 
 Před provedením jakýchkoli změn je osvědčeným postupem vytvořit novou větev. Práce v oddělené větvi udržuje vaši práci organizovanou a větev `main` čistou.
 
@@ -298,7 +298,7 @@ Před provedením jakýchkoli změn je osvědčeným postupem vytvořit novou v�
 
 🌿 **Vše je připraveno!** Veškeré změny, které od této chvíle provedete, zůstanou ve vaší nové větvi.
 
-## 4. Otevřete projekt v editoru kódu
+## 4. OTEVŘETE PROJEKT V EDITORU KÓDU
 
 Nyní, když máte projekt lokálně a vaše větev je připravena, je čas jej otevřít v editoru kódu. V tomto návodu použijeme **Visual Studio Code (VS Code)**, ale můžete použít jakýkoli editor, který preferujete.
 
@@ -326,7 +326,7 @@ V průzkumníku byste měli vidět soubory projektu:
 
 💻 **Hotovo!** Nyní máte projekt otevřený v editoru a můžete začít upravovat.
 
-## 5. Přidejte svou kartu přispěvatele
+## 5. PŘIDEJTE SVOU KARTU PŘISPĚVATELE
 
 Nyní přichází ta zábavná část: přidání vlastní karty do projektu!
 
@@ -334,7 +334,7 @@ V adresáři `assets/cards/` vytvořte nový soubor se svým uživatelským jmé
 
 📄 `assets/cards/<vase-uzivatelske-jmeno>.json` _(např. `octocat.json`)_
 
-### Struktura
+### STRUKTURA
 
 Váš soubor musí mít přesně stejnou strukturu jako `jan.json`:
 
@@ -346,7 +346,7 @@ Váš soubor musí mít přesně stejnou strukturu jako `jan.json`:
 }
 ```
 
-### Jak získat URL vaší profilové fotografie (`img`):
+### JAK ZÍSKAT URL VAŠÍ PROFILOVÉ FOTOGRAFIE (`IMG`):
 
 1. Otevřete svůj profil na GitHubu v prohlížeči (`https://github.com/<vase-uzivatelske-jmeno>`).
 2. Klikněte pravým tlačítkem myši na svůj profilový obrázek a vyberte **"Kopírovat adresu obrázku"** (nebo **"Copy image address"**).
@@ -354,7 +354,7 @@ Váš soubor musí mít přesně stejnou strukturu jako `jan.json`:
 
 > 💡 _Rychlý tip: Jako URL obrázku můžete použít také `https://github.com/<vase-uzivatelske-jmeno>.png`!_
 
-### Příklad
+### PŘÍKLAD
 
 Pokud je vaše uživatelské jméno `octocat`, vytvoříte `assets/cards/octocat.json` s následujícím obsahem:
 
@@ -368,7 +368,7 @@ Pokud je vaše uživatelské jméno `octocat`, vytvoříte `assets/cards/octocat
 
 Po dokončení soubor uložte. Jakmile je vytvořen, jste připraveni na další krok!
 
-## 6. Proveďte commit a push vašich změn
+## 6. PROVEĎTE COMMIT A PUSH VAŠICH ZMĚN
 
 Před vytvořením Pull Requestu musíte uložit změny a odeslat větev na GitHub.
 
@@ -392,7 +392,7 @@ Před vytvořením Pull Requestu musíte uložit změny a odeslat větev na GitH
 
    > 💡 _Pokud vás k tomu systém vyzve, můžete také spustit `git push -u origin <nazev-vasi-vetve>`._
 
-## 7. Vytvořte Pull Request
+## 7. VYTVOŘTE PULL REQUEST
 
 Nyní, když je vaše větev na GitHubu, je čas odeslat váš příspěvek do projektu!
 
@@ -413,7 +413,7 @@ Nyní, když je vaše větev na GitHubu, je čas odeslat váš příspěvek do p
    - **Popis:** Napište stručný popis vysvětlující vaše úpravy (např. že jste přidali svou kartu přispěvatele do `assets/cards/<vase-uzivatelske-jmeno>.json`).
 5. Klikněte na zelené tlačítko **Create pull request**!
 
-### Nyní stačí počkat na kontrolu vašeho pull requestu. Po schválení bude vaše karta automaticky přidána do přehlídky přispěvatelů.
+### NYNÍ STAČÍ POČKAT NA KONTROLU VAŠEHO PULL REQUESTU. PO SCHVÁLENÍ BUDE VAŠE KARTA AUTOMATICKY PŘIDÁNA DO PŘEHLÍDKY PŘISPĚVATELŮ.
 
 Živý výsledek příspěvků všech účastníků si můžete prohlédnout zde:
 👉 **[Naši přispěvatelé](https://jaanque.github.io/good-first-issue/)**
@@ -422,7 +422,7 @@ Nyní, když je vaše větev na GitHubu, je čas odeslat váš příspěvek do p
 
 Pamatujte, toto je teprve začátek! Na vaše příspěvky čekají tisíce open source projektů a postup je všude v podstatě stejný: forknout repozitář, vytvořit větev, provést změny a poslat pull request.
 
-## 🎉 **Gratulujeme!**
+## 🎉 **GRATULUJEME!**
 
 Právě jste odeslali svůj první příspěvek do světa Open Source! Po sloučení bude vaše karta automaticky přidána do přehlídky přispěvatelů.
 

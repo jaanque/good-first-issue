@@ -1,6 +1,6 @@
 <div align="center">
 
-# good first issue
+# GOOD FIRST ISSUE
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +10,7 @@
 ##
 
 <details>
-  <summary><b>Andere Sprachen? Na klar!</b></summary>
+  <summary><b>ANDERE SPRACHEN? NA KLAR!</b></summary>
   <br/>
 
 <table>
@@ -215,7 +215,7 @@ Ich glaube, dass man am besten lernt, indem man **es selbst tut**. Deshalb habe 
 
 <div align="justify">
 
-## Grundlegende Werkzeuge
+## GRUNDLEGENDE WERKZEUGE
 
 Bevor du beginnst, stelle sicher, dass du folgende grundlegende Werkzeuge parat hast:
 
@@ -225,7 +225,7 @@ Bevor du beginnst, stelle sicher, dass du folgende grundlegende Werkzeuge parat 
 | **Git**            |      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />      | Versionskontroll-Tool zur Verwaltung deiner Codeänderungen  | [Herunterladen](https://git-scm.com/downloads)     |
 | **VS Code**        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | Empfohlener Code-Editor _(oder dein bevorzugter Editor)_    | [Herunterladen](https://code.visualstudio.com/download) |
 
-## 1. Forke das Repository
+## 1. FORKE DAS REPOSITORY
 
 Ein **Fork** ist deine eigene Kopie dieses Repositorys unter deinem GitHub-Konto. Damit kannst du sicher Änderungen vornehmen, ohne das Originalprojekt zu beeinträchtigen!
 
@@ -245,7 +245,7 @@ Ein **Fork** ist deine eigene Kopie dieses Repositorys unter deinem GitHub-Konto
 
 🎉 **Klasse!** Jetzt hast du deine eigene Arbeitskopie des Projekts.
 
-## 2. Klone das Repository
+## 2. KLONE DAS REPOSITORY
 
 Jetzt musst du dein geforktes Repository auf deinen Computer herunterladen, um die Dateien lokal bearbeiten zu können.
 
@@ -274,7 +274,7 @@ Jetzt musst du dein geforktes Repository auf deinen Computer herunterladen, um d
 
 🚀 **Großartige Arbeit!** Du hast die Projektdateien nun auf deinem lokalen Rechner und kannst mit den Änderungen beginnen.
 
-## 3. Erstelle einen neuen Branch
+## 3. ERSTELLE EINEN NEUEN BRANCH
 
 Bevor du Änderungen vornimmst, empfiehlt es sich, einen neuen Branch zu erstellen. Das Arbeiten in einem separaten Branch hält deine Arbeit übersichtlich und den `main`-Branch sauber.
 
@@ -298,7 +298,7 @@ Bevor du Änderungen vornimmst, empfiehlt es sich, einen neuen Branch zu erstell
 
 🌿 **Alles bereit!** Alle Änderungen, die du ab jetzt machst, bleiben in deinem neuen Branch.
 
-## 4. Öffne das Projekt in deinem Code-Editor
+## 4. ÖFFNE DAS PROJEKT IN DEINEM CODE-EDITOR
 
 Jetzt, wo du das Projekt lokal hast und dein Branch bereitsteht, kannst du es in deinem Code-Editor öffnen. In dieser Anleitung verwenden wir **Visual Studio Code (VS Code)**, aber du kannst jeden beliebigen Editor verwenden.
 
@@ -326,7 +326,7 @@ Die Projektdateien sollten nun im Explorer sichtbar sein:
 
 💻 **Alles startklar!** Das Projekt ist in deinem Editor geöffnet und du kannst mit dem Bearbeiten beginnen.
 
-## 5. Füge deine Contributor-Karte hinzu
+## 5. FÜGE DEINE CONTRIBUTOR-KARTE HINZU
 
 Jetzt kommt der beste Teil: Füge deine eigene Karte zum Projekt hinzu!
 
@@ -334,7 +334,7 @@ Erstelle im Verzeichnis `assets/cards/` eine neue Datei mit deinem GitHub-Benutz
 
 📄 `assets/cards/<dein-benutzername>.json` _(z. B. `octocat.json`)_
 
-### Struktur
+### STRUKTUR
 
 Deine Datei muss genau denselben Aufbau wie `jan.json` haben:
 
@@ -346,7 +346,7 @@ Deine Datei muss genau denselben Aufbau wie `jan.json` haben:
 }
 ```
 
-### So erhältst du die URL deines Profilbilds (`img`):
+### SO ERHÄLTST DU DIE URL DEINES PROFILBILDS (`IMG`):
 
 1. Öffne deine GitHub-Profilseite im Browser (`https://github.com/<dein-benutzername>`).
 2. Klicke mit der rechten Maustaste auf dein Profilbild und wähle **"Grafikadresse kopieren"** (bzw. **"Copy image address"**).
@@ -354,7 +354,7 @@ Deine Datei muss genau denselben Aufbau wie `jan.json` haben:
 
 > 💡 _Schneller Trick: Du kannst auch `https://github.com/<dein-benutzername>.png` als Bild-URL verwenden!_
 
-### Beispiel
+### BEISPIEL
 
 Wenn dein Benutzername `octocat` lautet, erstellst du `assets/cards/octocat.json` mit folgendem Inhalt:
 
@@ -368,7 +368,7 @@ Wenn dein Benutzername `octocat` lautet, erstellst du `assets/cards/octocat.json
 
 Speichere die Datei, wenn du fertig bist. Sobald sie erstellt ist, bist du bereit für den nächsten Schritt!
 
-## 6. Committe und pushe deine Änderungen
+## 6. COMMITTE UND PUSHE DEINE ÄNDERUNGEN
 
 Bevor du den Pull Request erstellst, musst du deine Änderungen speichern und deinen Branch zu GitHub hochladen.
 
@@ -392,7 +392,7 @@ Bevor du den Pull Request erstellst, musst du deine Änderungen speichern und de
 
    > 💡 _Falls aufgefordert, kannst du auch `git push -u origin <dein-branch-name>` ausführen._
 
-## 7. Erstelle den Pull Request
+## 7. ERSTELLE DEN PULL REQUEST
 
 Da dein Branch nun auf GitHub hochgeladen ist, kannst du deinen Beitrag zum Projekt einreichen!
 
@@ -413,7 +413,7 @@ Da dein Branch nun auf GitHub hochgeladen ist, kannst du deinen Beitrag zum Proj
    - **Beschreibung:** Schreibe eine kurze Beschreibung deiner Änderungen (z. B. dass du deine Contributor-Karte unter `assets/cards/<dein-benutzername>.json` hinzugefügt hast).
 5. Klicke auf den grünen Button **Create pull request**!
 
-### Jetzt musst du nur noch auf das Review deines Pull Requests warten. Nach erfolgreicher Prüfung wird deine Karte automatisch zur Contributor-Übersicht hinzugefügt.
+### JETZT MUSST DU NUR NOCH AUF DAS REVIEW DEINES PULL REQUESTS WARTEN. NACH ERFOLGREICHER PRÜFUNG WIRD DEINE KARTE AUTOMATISCH ZUR CONTRIBUTOR-ÜBERSICHT HINZUGEFÜGT.
 
 Hier kannst du das Live-Ergebnis aller Beiträge sehen:
 👉 **[Unsere Mitwirkenden](https://jaanque.github.io/good-first-issue/)**
@@ -422,7 +422,7 @@ Hier kannst du das Live-Ergebnis aller Beiträge sehen:
 
 Denk daran: Das ist erst der Anfang! Es gibt tausende Open-Source-Projekte, die sich über deine Mitarbeit freuen, und der Ablauf ist überall derselbe: Repository forken, Branch erstellen, Änderungen vornehmen und einen Pull Request einreichen.
 
-## 🎉 **Herzlichen Glückwunsch!**
+## 🎉 **HERZLICHEN GLÜCKWUNSCH!**
 
 Du hast soeben deinen ersten Open-Source-Beitrag eingereicht! Sobald der Pull Request gemergt wird, erscheint deine Karte automatisch in der Contributor-Galerie.
 

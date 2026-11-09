@@ -1,6 +1,6 @@
 <div align="center">
 
-# good first issue
+# GOOD FIRST ISSUE
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +10,7 @@
 ##
 
 <details>
-  <summary><b>Ngôn ngữ khác? Chắc chắn rồi!</b></summary>
+  <summary><b>NGÔN NGỮ KHÁC? CHẮC CHẮN RỒI!</b></summary>
   <br/>
 
 <table>
@@ -215,7 +215,7 @@ Tôi tin rằng cách học tốt nhất là **thực hành**, vì vậy tôi đ
 
 <div align="justify">
 
-## Công cụ cơ bản
+## CÔNG CỤ CƠ BẢN
 
 Trước khi bắt đầu, hãy đảm bảo bạn đã chuẩn bị sẵn các công cụ cơ bản sau:
 
@@ -225,7 +225,7 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã chuẩn bị sẵn các 
 | **Git**            |      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />      | Công cụ quản lý phiên bản để quản lý các thay đổi mã nguồn  | [Tải về](https://git-scm.com/downloads)           |
 | **VS Code**        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | Trình biên tập mã được khuyên dùng _(hoặc trình soạn thảo bạn thích)_ | [Tải về](https://code.visualstudio.com/download)  |
 
-## 1. Fork kho lưu trữ (repository)
+## 1. FORK KHO LƯU TRỮ (REPOSITORY)
 
 **Fork** là một bản sao của kho lưu trữ này vào tài khoản GitHub của chính bạn. Nó cho phép bạn thực hiện các thay đổi một cách an toàn mà không ảnh hưởng đến dự án gốc!
 
@@ -245,7 +245,7 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã chuẩn bị sẵn các 
 
 🎉 **Tuyệt vời!** Giờ bạn đã có bản sao làm việc của riêng mình.
 
-## 2. Clone (nhân bản) kho lưu trữ
+## 2. CLONE (NHÂN BẢN) KHO LƯU TRỮ
 
 Bây giờ bạn cần tải kho lưu trữ đã fork về máy tính để có thể chỉnh sửa các tệp cục bộ.
 
@@ -274,7 +274,7 @@ Bây giờ bạn cần tải kho lưu trữ đã fork về máy tính để có 
 
 🚀 **Làm tốt lắm!** Tệp dự án hiện đã có trên máy của bạn và bạn đã sẵn sàng thực hiện thay đổi.
 
-## 3. Tạo một nhánh (branch) mới
+## 3. TẠO MỘT NHÁNH (BRANCH) MỚI
 
 Trước khi thực hiện bất kỳ thay đổi nào, bạn nên tạo một nhánh mới. Làm việc trên một nhánh riêng biệt giúp công việc được sắp xếp gọn gàng và giữ cho nhánh `main` luôn sạch sẽ.
 
@@ -298,7 +298,7 @@ Trước khi thực hiện bất kỳ thay đổi nào, bạn nên tạo một n
 
 🌿 **Đã xong!** Mọi chỉnh sửa từ giờ sẽ được lưu trên nhánh mới của bạn.
 
-## 4. Mở dự án trong trình biên tập mã
+## 4. MỞ DỰ ÁN TRONG TRÌNH BIÊN TẬP MÃ
 
 Bây giờ dự án đã có trên máy cục bộ và nhánh đã sẵn sàng, hãy mở nó trong trình biên tập mã. Trong hướng dẫn này, chúng ta sử dụng **Visual Studio Code (VS Code)**, nhưng bạn có thể dùng bất kỳ trình biên tập nào bạn thích.
 
@@ -326,7 +326,7 @@ Bạn sẽ thấy các tệp của dự án trong trình quản lý tệp:
 
 💻 **Tất cả đã sẵn sàng!** Dự án đã mở trong trình biên tập và bạn có thể bắt đầu chỉnh sửa.
 
-## 5. Thêm thẻ người đóng góp của bạn
+## 5. THÊM THẺ NGƯỜI ĐÓNG GÓP CỦA BẠN
 
 Bây giờ là phần thú vị nhất: thêm thẻ của riêng bạn vào dự án!
 
@@ -334,7 +334,7 @@ Trong thư mục `assets/cards/`, tạo một tệp mới có tên là tên ngư
 
 📄 `assets/cards/<ten-nguoi-dung-cua-ban>.json` _(ví dụ: `octocat.json`)_
 
-### Cấu trúc
+### CẤU TRÚC
 
 Tệp của bạn phải tuân thủ chính xác cấu trúc giống như `jan.json`:
 
@@ -346,7 +346,7 @@ Tệp của bạn phải tuân thủ chính xác cấu trúc giống như `jan.j
 }
 ```
 
-### Cách lấy URL ảnh đại diện (`img`):
+### CÁCH LẤY URL ẢNH ĐẠI DIỆN (`IMG`):
 
 1. Mở trang hồ sơ GitHub của bạn trên trình duyệt (`https://github.com/<ten-nguoi-dung-cua-ban>`).
 2. Nhấp chuột phải vào ảnh hồ sơ của bạn và chọn **"Sao chép địa chỉ hình ảnh"** (hoặc **"Copy image address"**).
@@ -354,7 +354,7 @@ Tệp của bạn phải tuân thủ chính xác cấu trúc giống như `jan.j
 
 > 💡 _Mẹo nhỏ: Bạn cũng có thể dùng trực tiếp `https://github.com/<ten-nguoi-dung-cua-ban>.png` làm URL ảnh!_
 
-### Ví dụ
+### VÍ DỤ
 
 Nếu tên người dùng của bạn là `octocat`, bạn sẽ tạo `assets/cards/octocat.json` với nội dung sau:
 
@@ -368,7 +368,7 @@ Nếu tên người dùng của bạn là `octocat`, bạn sẽ tạo `assets/ca
 
 Lưu tệp lại khi hoàn tất. Sau khi tạo xong, bạn đã sẵn sàng cho bước tiếp theo!
 
-## 6. Commit và push các thay đổi
+## 6. COMMIT VÀ PUSH CÁC THAY ĐỔI
 
 Trước khi tạo Pull Request, bạn cần lưu các thay đổi và tải nhánh của bạn lên GitHub.
 
@@ -392,7 +392,7 @@ Trước khi tạo Pull Request, bạn cần lưu các thay đổi và tải nh�
 
    > 💡 _Nếu được yêu cầu, bạn cũng có thể chạy `git push -u origin <ten-nhanh-cua-ban>`._
 
-## 7. Tạo Pull Request
+## 7. TẠO PULL REQUEST
 
 Bây giờ nhánh của bạn đã được tải lên GitHub, đã đến lúc gửi đóng góp của bạn cho dự án!
 
@@ -413,7 +413,7 @@ Bây giờ nhánh của bạn đã được tải lên GitHub, đã đến lúc 
    - **Mô tả:** Viết mô tả ngắn giải thích những gì bạn đã thay đổi (ví dụ: bạn đã thêm thẻ người đóng góp vào `assets/cards/<ten-nguoi-dung-cua-ban>.json`).
 5. Nhấp vào nút màu xanh lá **Create pull request**!
 
-### Bây giờ bạn chỉ cần đợi quá trình xét duyệt pull request. Sau khi được duyệt và chấp nhận, thẻ của bạn sẽ tự động xuất hiện trên danh sách người đóng góp.
+### BÂY GIỜ BẠN CHỈ CẦN ĐỢI QUÁ TRÌNH XÉT DUYỆT PULL REQUEST. SAU KHI ĐƯỢC DUYỆT VÀ CHẤP NHẬN, THẺ CỦA BẠN SẼ TỰ ĐỘNG XUẤT HIỆN TRÊN DANH SÁCH NGƯỜI ĐÓNG GÓP.
 
 Bạn có thể xem kết quả đóng góp của mọi người trực tiếp tại đây:
 👉 **[Những người đóng góp](https://jaanque.github.io/good-first-issue/)**
@@ -422,7 +422,7 @@ Bạn có thể xem kết quả đóng góp của mọi người trực tiếp t
 
 Hãy nhớ rằng, đây mới chỉ là khởi đầu! Có hàng ngàn dự án nguồn mở ngoài kia đang chờ đón sự đóng góp của bạn, và quy trình ở đâu cũng tương tự nhau: fork kho lưu trữ, tạo nhánh, chỉnh sửa và gửi pull request.
 
-## 🎉 **Chúc mừng bạn!**
+## 🎉 **CHÚC MỪNG BẠN!**
 
 Bạn vừa gửi thành công đóng góp Mã nguồn mở đầu tiên của mình! Sau khi được hợp nhất, thẻ của bạn sẽ xuất hiện trên bảng vinh danh những người đóng góp.
 

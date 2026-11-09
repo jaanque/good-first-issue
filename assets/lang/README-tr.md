@@ -1,6 +1,6 @@
 <div align="center">
 
-# good first issue
+# GOOD FIRST ISSUE
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +10,7 @@
 ##
 
 <details>
-  <summary><b>Başka diller mi? Kesinlikle!</b></summary>
+  <summary><b>BAŞKA DILLER MI? KESINLIKLE!</b></summary>
   <br/>
 
 <table>
@@ -215,7 +215,7 @@ Bu depo, hiçbir şeyi bozma korkusu olmadan, güvenli bir ortamda **Açık Kayn
 
 <div align="justify">
 
-## Temel Araçlar
+## TEMEL ARAÇLAR
 
 Başlamadan önce aşağıdaki temel araçların hazır olduğundan emin olun:
 
@@ -225,7 +225,7 @@ Başlamadan önce aşağıdaki temel araçların hazır olduğundan emin olun:
 | **Git**            |      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />      | Kod değişikliklerinizi yönetmek için sürüm kontrol aracı    | [İndir](https://git-scm.com/downloads)            |
 | **VS Code**        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | Önerilen kod düzenleyici _(veya tercih ettiğiniz editör)_   | [İndir](https://code.visualstudio.com/download)    |
 
-## 1. Depoyu Fork'layın
+## 1. DEPOYU FORK'LAYIN
 
 **Fork**, bu deponun kendi GitHub hesabınız altındaki kopyasıdır. Orijinal projeyi etkilemeden güvenle değişiklik yapmanızı sağlar!
 
@@ -245,7 +245,7 @@ Başlamadan önce aşağıdaki temel araçların hazır olduğundan emin olun:
 
 🎉 **Harika!** Artık projenin üzerinde çalışabileceğiniz kendi kopyanıza sahipsiniz.
 
-## 2. Depoyu Klonlayın
+## 2. DEPOYU KLONLAYIN
 
 Şimdi, dosyaları yerel olarak düzenleyebilmek için fork'ladığınız depoyu bilgisayarınıza indirmeniz gerekiyor.
 
@@ -274,7 +274,7 @@ Başlamadan önce aşağıdaki temel araçların hazır olduğundan emin olun:
 
 🚀 **Tebrikler!** Proje dosyaları artık yerel bilgisayarınızda ve değişiklik yapmaya hazırsınız.
 
-## 3. Yeni Bir Dal (Branch) Oluşturun
+## 3. YENI BIR DAL (BRANCH) OLUŞTURUN
 
 Herhangi bir değişiklik yapmadan önce yeni bir dal oluşturmak en iyi uygulamadır. Ayrı bir dalda çalışmak çalışmalarınızı düzenli tutar ve `main` dalını temiz bırakır.
 
@@ -298,7 +298,7 @@ Herhangi bir değişiklik yapmadan önce yeni bir dal oluşturmak en iyi uygulam
 
 🌿 **Her şey hazır!** Bundan sonra yapacağınız tüm değişiklikler bu yeni dalda kalacaktır.
 
-## 4. Projeyi Kod Düzenleyicinizde Açın
+## 4. PROJEYI KOD DÜZENLEYICINIZDE AÇIN
 
 Artık proje yerel bilgisayarınızda ve dalınız hazır olduğuna göre, projeyi kod düzenleyicinizde açma zamanı geldi. Bu kılavuzda **Visual Studio Code (VS Code)** kullanacağız, ancak tercih ettiğiniz herhangi bir düzenleyiciyi de kullanabilirsiniz.
 
@@ -326,7 +326,7 @@ Proje dosyalarını dosya gezgininde göreceksiniz:
 
 💻 **Hazır!** Proje düzenleyicinizde açıldı ve düzenlemeye başlayabilirsiniz.
 
-## 5. Katkıda Bulunan Kartınızı Ekleyin
+## 5. KATKIDA BULUNAN KARTINIZI EKLEYIN
 
 Şimdi en eğlenceli kısma geldik: projeye kendi kartınızı eklemek!
 
@@ -334,7 +334,7 @@ Proje dosyalarını dosya gezgininde göreceksiniz:
 
 📄 `assets/cards/<kullanici-adiniz>.json` _(örn. `octocat.json`)_
 
-### Yapı
+### YAPI
 
 Dosyanız `jan.json` ile birebir aynı yapıyı izlemelidir:
 
@@ -346,7 +346,7 @@ Dosyanız `jan.json` ile birebir aynı yapıyı izlemelidir:
 }
 ```
 
-### Profil resmi URL adresinizi (`img`) nasıl alırsınız:
+### PROFIL RESMI URL ADRESINIZI (`IMG`) NASIL ALIRSINIZ:
 
 1. Tarayıcınızda GitHub profil sayfanızı açın (`https://github.com/<kullanici-adiniz>`).
 2. Profil resminize sağ tıklayın ve **"Resim adresini kopyala"** (veya **"Copy image address"**) seçeneğini seçin.
@@ -354,7 +354,7 @@ Dosyanız `jan.json` ile birebir aynı yapıyı izlemelidir:
 
 > 💡 _Küçük bir ipucu: Resim URL'si olarak doğrudan `https://github.com/<kullanici-adiniz>.png` adresini de kullanabilirsiniz!_
 
-### Örnek
+### ÖRNEK
 
 Kullanıcı adınız `octocat` ise, aşağıdaki içerikle `assets/cards/octocat.json` dosyasını oluşturursunuz:
 
@@ -368,7 +368,7 @@ Kullanıcı adınız `octocat` ise, aşağıdaki içerikle `assets/cards/octocat
 
 İşiniz bittiğinde dosyayı kaydedin. Dosya oluşturulduktan sonra bir sonraki adıma hazırsınız!
 
-## 6. Değişikliklerinizi Commit'leyin ve Push'layın
+## 6. DEĞIŞIKLIKLERINIZI COMMIT'LEYIN VE PUSH'LAYIN
 
 Pull Request oluşturmadan önce değişikliklerinizi kaydetmeniz ve dalınızı GitHub'a yüklemeniz gerekir.
 
@@ -392,7 +392,7 @@ Pull Request oluşturmadan önce değişikliklerinizi kaydetmeniz ve dalınızı
 
    > 💡 _İstenirse `git push -u origin <dal-adiniz>` komutunu da çalıştırabilirsiniz._
 
-## 7. Pull Request Oluşturun
+## 7. PULL REQUEST OLUŞTURUN
 
 Dalınız GitHub'a yüklendiğine göre, artık projeye katkınızı sunma zamanı!
 
@@ -413,7 +413,7 @@ Dalınız GitHub'a yüklendiğine göre, artık projeye katkınızı sunma zaman
    - **Açıklama:** Ne yaptığınızı açıklayan kısa bir metin yazın (örn. `assets/cards/<kullanici-adiniz>.json` dosyasına katkıda bulunan kartınızı eklediğinizi belirtin).
 5. Yeşil renkli **Create pull request** butonuna tıklayın!
 
-### Şimdi sadece Pull Request incelemesini beklemeniz gerekiyor. İncelemeden sonra kabul edilirse, kartınız otomatik olarak katılımcılar vitrinine eklenecektir.
+### ŞIMDI SADECE PULL REQUEST INCELEMESINI BEKLEMENIZ GEREKIYOR. İNCELEMEDEN SONRA KABUL EDILIRSE, KARTINIZ OTOMATIK OLARAK KATILIMCILAR VITRININE EKLENECEKTIR.
 
 Herkesin katkılarını canlı olarak buradan görebilirsiniz:
 👉 **[Katkıda Bulunanlar](https://jaanque.github.io/good-first-issue/)**
@@ -422,7 +422,7 @@ Herkesin katkılarını canlı olarak buradan görebilirsiniz:
 
 Unutmayın, bu sadece bir başlangıç! Katkınızı bekleyen binlerce açık kaynak projesi var ve iş akışı her yerde temelde aynıdır: depoyu fork'layın, dal oluşturun, değişikliklerinizi yapın ve pull request gönderin.
 
-## 🎉 **Tebrikler!**
+## 🎉 **TEBRIKLER!**
 
 İlk Açık Kaynak katkınızı başarıyla gönderdiniz! Dalınız birleştirildiğinde, kartınız katkıda bulunanlar vitrininde otomatik olarak yer alacaktır.
 

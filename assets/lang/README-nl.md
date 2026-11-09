@@ -1,6 +1,6 @@
 <div align="center">
 
-# good first issue
+# GOOD FIRST ISSUE
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +10,7 @@
 ##
 
 <details>
-  <summary><b>Andere talen? Zeker weten!</b></summary>
+  <summary><b>ANDERE TALEN? ZEKER WETEN!</b></summary>
   <br/>
 
 <table>
@@ -215,7 +215,7 @@ Ik geloof dat de beste manier van leren **door te doen** is, dus heb ik een eenv
 
 <div align="justify">
 
-## Basisgereedschap
+## BASISGEREEDSCHAP
 
 Zorg ervoor dat je de volgende basistools bij de hand hebt voordat je begint:
 
@@ -225,7 +225,7 @@ Zorg ervoor dat je de volgende basistools bij de hand hebt voordat je begint:
 | **Git**            |      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />      | Versiebeheertool om je codewijzigingen te beheren           | [Downloaden](https://git-scm.com/downloads)        |
 | **VS Code**        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | Aanbevolen code-editor _(of je favoriete editor)_           | [Downloaden](https://code.visualstudio.com/download) |
 
-## 1. Fork de repository
+## 1. FORK DE REPOSITORY
 
 Een **fork** is je eigen kopie van deze repository onder jouw GitHub-account. Hiermee kun je veilig wijzigingen aanbrengen zonder het oorspronkelijke project te beïnvloeden!
 
@@ -245,7 +245,7 @@ Een **fork** is je eigen kopie van deze repository onder jouw GitHub-account. Hi
 
 🎉 **Geweldig!** Je hebt nu je eigen werkkopie van het project.
 
-## 2. Kloon de repository
+## 2. KLOON DE REPOSITORY
 
 Nu moet je de geforkte repository downloaden naar je computer zodat je de bestanden lokaal kunt bewerken.
 
@@ -274,7 +274,7 @@ Nu moet je de geforkte repository downloaden naar je computer zodat je de bestan
 
 🚀 **Goed gedaan!** Je hebt nu de projectbestanden op je lokale machine en bent klaar om wijzigingen aan te brengen.
 
-## 3. Maak een nieuwe branch aan
+## 3. MAAK EEN NIEUWE BRANCH AAN
 
 Voordat je wijzigingen aanbrengt, is het een best practice om een nieuwe branch aan te maken. Werken op een aparte branch houdt je werk overzichtelijk en laat de `main`-branch schoon.
 
@@ -298,7 +298,7 @@ Voordat je wijzigingen aanbrengt, is het een best practice om een nieuwe branch 
 
 🌿 **Helemaal klaar!** Alle wijzigingen die je vanaf nu aanbrengt, blijven op je nieuwe branch.
 
-## 4. Open het project in je code-editor
+## 4. OPEN HET PROJECT IN JE CODE-EDITOR
 
 Nu je het project lokaal hebt en je branch klaar is, is het tijd om het te openen in je code-editor. In deze gids gebruiken we **Visual Studio Code (VS Code)**, maar je kunt elke editor gebruiken die je prettig vindt.
 
@@ -326,7 +326,7 @@ Je zou de projectbestanden in de verkenner moeten zien:
 
 💻 **Alles klaar!** Je hebt nu het project geopend in je editor en kunt beginnen met bewerken.
 
-## 5. Voeg je contributor-kaart toe
+## 5. VOEG JE CONTRIBUTOR-KAART TOE
 
 Nu komt het leukste deel: je eigen kaart toevoegen aan het project!
 
@@ -334,7 +334,7 @@ Maak in de map `assets/cards/` een nieuw bestand aan met je GitHub-gebruikersnaa
 
 📄 `assets/cards/<jouw-gebruikersnaam>.json` _(bijv. `octocat.json`)_
 
-### Structuur
+### STRUCTUUR
 
 Je bestand moet exact dezelfde structuur volgen als `jan.json`:
 
@@ -346,7 +346,7 @@ Je bestand moet exact dezelfde structuur volgen als `jan.json`:
 }
 ```
 
-### Hoe vind je de URL van je profielfoto (`img`):
+### HOE VIND JE DE URL VAN JE PROFIELFOTO (`IMG`):
 
 1. Open je GitHub-profielpagina in je browser (`https://github.com/<jouw-gebruikersnaam>`).
 2. Klik met de rechtermuisknop op je profielfoto en kies **"Afbeeldingsadres kopiëren"** (of **"Copy image address"**).
@@ -354,7 +354,7 @@ Je bestand moet exact dezelfde structuur volgen als `jan.json`:
 
 > 💡 _Handige tip: Je kunt ook `https://github.com/<jouw-gebruikersnaam>.png` direct gebruiken als URL voor je afbeelding!_
 
-### Voorbeeld
+### VOORBEELD
 
 Als je gebruikersnaam `octocat` is, maak je `assets/cards/octocat.json` aan met de volgende inhoud:
 
@@ -368,7 +368,7 @@ Als je gebruikersnaam `octocat` is, maak je `assets/cards/octocat.json` aan met 
 
 Sla het bestand op als je klaar bent. Zodra het is aangemaakt, ben je klaar voor de volgende stap!
 
-## 6. Commit en push je wijzigingen
+## 6. COMMIT EN PUSH JE WIJZIGINGEN
 
 Voordat je de Pull Request aanmaakt, moet je je wijzigingen opslaan en je branch naar GitHub uploaden.
 
@@ -392,7 +392,7 @@ Voordat je de Pull Request aanmaakt, moet je je wijzigingen opslaan en je branch
 
    > 💡 _Indien gevraagd, kun je ook `git push -u origin <jouw-branch-naam>` uitvoeren._
 
-## 7. Maak de Pull Request aan
+## 7. MAAK DE PULL REQUEST AAN
 
 Nu je branch op GitHub staat, is het tijd om je bijdrage in te dienen bij het project!
 
@@ -413,7 +413,7 @@ Nu je branch op GitHub staat, is het tijd om je bijdrage in te dienen bij het pr
    - **Beschrijving:** Schrijf een korte uitleg over wat je hebt gewijzigd (bijv. dat je je contributor-kaart hebt toegevoegd in `assets/cards/<jouw-gebruikersnaam>.json`).
 5. Klik op de groene knop **Create pull request**!
 
-### Nu hoef je alleen nog maar te wachten op de review van je pull request. Zodra deze is goedgekeurd, wordt jouw kaart automatisch toegevoegd aan de galerij met bijdragers.
+### NU HOEF JE ALLEEN NOG MAAR TE WACHTEN OP DE REVIEW VAN JE PULL REQUEST. ZODRA DEZE IS GOEDGEKEURD, WORDT JOUW KAART AUTOMATISCH TOEGEVOEGD AAN DE GALERIJ MET BIJDRAGERS.
 
 Je kunt het live resultaat van alle bijdragen hier bekijken:
 👉 **[Onze bijdragers](https://jaanque.github.io/good-first-issue/)**
@@ -422,7 +422,7 @@ Je kunt het live resultaat van alle bijdragen hier bekijken:
 
 Onthoud: dit is pas het begin! Er wachten duizenden open source-projecten op jouw bijdrage, en de workflow is vrijwel overal hetzelfde: fork de repository, maak een branch aan, voer je wijzigingen door en dien een pull request in.
 
-## 🎉 **Gefeliciteerd!**
+## 🎉 **GEFELICITEERD!**
 
 Je hebt zojuist je allereerste Open Source-bijdrage ingediend! Zodra deze is samengevoegd (gemerged), verschijnt je kaart automatisch in de galerij met bijdragers.
 

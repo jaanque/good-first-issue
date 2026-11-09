@@ -1,6 +1,6 @@
 <div align="center">
 
-# good first issue
+# GOOD FIRST ISSUE
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +10,7 @@
 ##
 
 <details>
-  <summary><b>Andra språk? Självklart!</b></summary>
+  <summary><b>ANDRA SPRÅK? SJÄLVKLART!</b></summary>
   <br/>
 
 <table>
@@ -215,7 +215,7 @@ Jag tror att det bästa sättet att lära sig är genom att **göra**, så jag h
 
 <div align="justify">
 
-## Grundläggande verktyg
+## GRUNDLÄGGANDE VERKTYG
 
 Innan du börjar, se till att du har följande grundläggande verktyg redo:
 
@@ -225,7 +225,7 @@ Innan du börjar, se till att du har följande grundläggande verktyg redo:
 | **Git** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" /> | Versionshanteringsverktyg för att spåra ändringar | [Ladda ner](https://git-scm.com/downloads) |
 | **VS Code** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | Rekommenderad kodredigerare _(eller din favoriteditor)_ | [Ladda ner](https://code.visualstudio.com/download) |
 
-## 1. Forka detta repository
+## 1. FORKA DETTA REPOSITORY
 
 En **fork** är din egen kopia av detta repository på ditt GitHub-konto. Det låter dig göra ändringar säkert utan att påverka originalprojektet!
 
@@ -245,7 +245,7 @@ En **fork** är din egen kopia av detta repository på ditt GitHub-konto. Det l�
 
 🎉 **Grymt!** Nu har du din egen arbetskopia av projektet.
 
-## 2. Klona detta repository
+## 2. KLONA DETTA REPOSITORY
 
 Nu behöver du ladda ner ditt forkade repository till din dator så att du kan redigera filerna lokalt.
 
@@ -274,7 +274,7 @@ Nu behöver du ladda ner ditt forkade repository till din dator så att du kan r
 
 🚀 **Bra jobbat!** Nu har du projektfilerna på din lokala dator och är redo att göra ändringar.
 
-## 3. Skapa en ny branch (gren)
+## 3. SKAPA EN NY BRANCH (GREN)
 
 Innan du gör några ändringar är det god praxis att skapa en ny branch. Att arbeta i en separat gren håller ditt arbete organiserat och huvudgrenen `main` ren.
 
@@ -298,7 +298,7 @@ Innan du gör några ändringar är det god praxis att skapa en ny branch. Att a
 
 🌿 **Allt klart!** Alla ändringar du gör framöver kommer att hållas inom din nya gren.
 
-## 4. Öppna projektet i din kodredigerare
+## 4. ÖPPNA PROJEKTET I DIN KODREDIGERARE
 
 Nu när du har projektet lokalt och din gren är redo är det dags att öppna det i din kodredigerare. I denna guide använder vi **Visual Studio Code (VS Code)**, men du kan använda vilken editor du vill.
 
@@ -326,7 +326,7 @@ Du bör nu se projektfilerna i filutforskaren:
 
 💻 **Klart!** Projektet är nu öppet i din editor och du är redo att börja redigera.
 
-## 5. Lägg till ditt bidragskort
+## 5. LÄGG TILL DITT BIDRAGSKORT
 
 Nu kommer den roliga biten: att lägga till ditt eget kort i projektet!
 
@@ -334,7 +334,7 @@ I mappen `assets/cards/`, skapa en ny fil med ditt GitHub-användarnamn följt a
 
 📄 `assets/cards/<ditt-anvandarnamn>.json` _(t.ex. `octocat.json`)_
 
-### Struktur
+### STRUKTUR
 
 Din fil måste följa exakt samma struktur som `jan.json`:
 
@@ -346,7 +346,7 @@ Din fil måste följa exakt samma struktur som `jan.json`:
 }
 ```
 
-### Hur du hittar URL:en till din profilbild (`img`):
+### HUR DU HITTAR URL:EN TILL DIN PROFILBILD (`IMG`):
 
 1. Öppna din GitHub-profil i webbläsaren (`https://github.com/<ditt-anvandarnamn>`).
 2. Högerklicka på din profilbild och välj **"Kopiera bildadress"** (eller **"Copy image address"**).
@@ -354,7 +354,7 @@ Din fil måste följa exakt samma struktur som `jan.json`:
 
 > 💡 _Snabbtips: Du kan också använda `https://github.com/<ditt-anvandarnamn>.png` som bildens URL!_
 
-### Exempel
+### EXEMPEL
 
 Om ditt användarnamn är `octocat` skapar du `assets/cards/octocat.json` med följande innehåll:
 
@@ -368,7 +368,7 @@ Om ditt användarnamn är `octocat` skapar du `assets/cards/octocat.json` med f�
 
 Spara filen när du är klar. När den är skapad är du redo för nästa steg!
 
-## 6. Gör commit och push på dina ändringar
+## 6. GÖR COMMIT OCH PUSH PÅ DINA ÄNDRINGAR
 
 Innan du skapar en Pull Request måste du spara dina ändringar och ladda upp din gren till GitHub.
 
@@ -392,7 +392,7 @@ Innan du skapar en Pull Request måste du spara dina ändringar och ladda upp di
 
    > 💡 _Om du uppmanas kan du också köra `git push -u origin <ditt-grennamn>`._
 
-## 7. Skapa en Pull Request
+## 7. SKAPA EN PULL REQUEST
 
 Nu när din gren är uppladdad till GitHub är det dags att skicka in ditt bidrag till projektet!
 
@@ -413,7 +413,7 @@ Nu när din gren är uppladdad till GitHub är det dags att skicka in ditt bidra
    - **Beskrivning:** Skriv en kort förklaring om vad du ändrade (t.ex. att du lade till ditt bidragskort i `assets/cards/<ditt-anvandarnamn>.json`).
 5. Klicka på den gröna knappen **Create pull request**!
 
-### Nu behöver du bara vänta på granskningen av din pull request. Efter godkännande läggs ditt kort automatiskt till i galleriet för bidragsgivare.
+### NU BEHÖVER DU BARA VÄNTA PÅ GRANSKNINGEN AV DIN PULL REQUEST. EFTER GODKÄNNANDE LÄGGS DITT KORT AUTOMATISKT TILL I GALLERIET FÖR BIDRAGSGIVARE.
 
 Du kan se live-resultatet av alla bidrag här:
 👉 **[Våra bidragsgivare](https://jaanque.github.io/good-first-issue/)**
@@ -422,7 +422,7 @@ Du kan se live-resultatet av alla bidrag här:
 
 Kom ihåg att detta bara är början! Det finns tusentals öppen källkods-projekt som väntar på ditt bidrag, och arbetsflödet är i grunden detsamma överallt: forka repositoryt, skapa en gren, gör dina ändringar och skicka en pull request.
 
-## 🎉 **Grattis!**
+## 🎉 **GRATTIS!**
 
 Du har precis skickat in ditt allra första bidrag till Open Source-världen! När det har slagits samman kommer ditt kort automatiskt att synas i galleriet.
 

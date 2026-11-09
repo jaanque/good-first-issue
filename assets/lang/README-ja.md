@@ -1,6 +1,6 @@
 <div align="center">
 
-# good first issue
+# GOOD FIRST ISSUE
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -225,7 +225,7 @@ Git と GitHub を使うのは初めてですか？ **ここがぴったりの�
 | **Git**               |      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />      | コードの変更を管理するためのバージョン管理ツール     | [ダウンロード](https://git-scm.com/downloads)     |
 | **VS Code**           | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | おすすめのコードエディタ _（またはお好みのエディタ）_ | [ダウンロード](https://code.visualstudio.com/download) |
 
-## 1. リポジトリをフォーク（Fork）する
+## 1. リポジトリをフォーク（FORK）する
 
 **フォーク（Fork）** とは、このリポジトリをご自身の GitHub アカウント配下に複製することです。元のプロジェクトに影響を与えることなく、安全に変更を加えることができます！
 
@@ -245,7 +245,7 @@ Git と GitHub を使うのは初めてですか？ **ここがぴったりの�
 
 🎉 **素晴らしい！** これであなた専用のプロジェクトコピーができました。
 
-## 2. リポジトリをクローン（Clone）する
+## 2. リポジトリをクローン（CLONE）する
 
 ローカルでファイルを編集できるように、フォークしたリポジトリをお使いのパソコンにダウンロードします。
 
@@ -346,7 +346,7 @@ code .
 }
 ```
 
-### プロフィール画像の URL（`img`）の取得方法：
+### プロフィール画像の URL（`IMG`）の取得方法：
 
 1. ブラウザで GitHub のプロフィールページを開きます（`https://github.com/<あなたのユーザー名>`）。
 2. プロフィール画像を右クリックし、**「画像アドレスをコピー」**（または **"Copy image address"**）を選択します。
@@ -368,7 +368,7 @@ code .
 
 終わったらファイルを保存します。ファイルが作成できたら、次のステップに進みましょう！
 
-## 6. 変更をコミットしてプッシュ（Push）する
+## 6. 変更をコミットしてプッシュ（PUSH）する
 
 Pull Request を作成する前に、変更を保存してブランチを GitHub にアップロードする必要があります。
 
@@ -392,7 +392,7 @@ Pull Request を作成する前に、変更を保存してブランチを GitHub
 
    > 💡 _メッセージが表示された場合は、`git push -u origin <あなたのブランチ名>` を実行しても構いません。_
 
-## 7. Pull Request を作成する
+## 7. PULL REQUEST を作成する
 
 ブランチが GitHub にプッシュされたので、プロジェクトに貢献を提出しましょう！
 
@@ -413,7 +413,7 @@ Pull Request を作成する前に、変更を保存してブランチを GitHub
    - **説明：** 変更した内容を簡潔に説明します（例：`assets/cards/<あなたのユーザー名>.json` にコントリビューターカードを追加した旨など）。
 5. 緑色の **Create pull request** ボタンをクリックします！
 
-### あとは Pull Request のレビューを待つだけです。レビューで承認されると、あなたのカードがコントリビューター一覧に自動的に追加されます。
+### あとは PULL REQUEST のレビューを待つだけです。レビューで承認されると、あなたのカードがコントリビューター一覧に自動的に追加されます。
 
 これまでのコントリビューターのみなさんの成果はこちらからリアルタイムで確認できます：
 👉 **[コントリビューター一覧](https://jaanque.github.io/good-first-issue/)**

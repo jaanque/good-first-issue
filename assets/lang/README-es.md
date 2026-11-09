@@ -1,6 +1,6 @@
 <div align="center">
 
-# good first issue
+# GOOD FIRST ISSUE
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +10,7 @@
 ##
 
 <details>
-  <summary><b>¿Otros idiomas? ¡Claro que sí!</b></summary>
+  <summary><b>¿OTROS IDIOMAS? ¡CLARO QUE SÍ!</b></summary>
   <br/>
 
 <table>
@@ -215,7 +215,7 @@ Creo que la mejor manera de aprender es **haciendo**, así que he creado un proy
 
 <div align="justify">
 
-## Material básico
+## MATERIAL BÁSICO
 
 Antes de comenzar, asegúrate de tener listas las siguientes herramientas básicas:
 
@@ -225,7 +225,7 @@ Antes de comenzar, asegúrate de tener listas las siguientes herramientas básic
 | **Git**              |      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />      | Herramienta de control de versiones para gestionar cambios  | [Descargar](https://git-scm.com/downloads)        |
 | **VS Code**          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | Editor de código recomendado _(o tu editor favorito)_      | [Descargar](https://code.visualstudio.com/download) |
 
-## 1. Haz un fork del repositorio
+## 1. HAZ UN FORK DEL REPOSITORIO
 
 Un **fork** es tu propia copia de este repositorio en tu cuenta de GitHub. ¡Te permite hacer cambios de forma segura sin afectar el proyecto original!
 
@@ -245,7 +245,7 @@ Un **fork** es tu propia copia de este repositorio en tu cuenta de GitHub. ¡Te 
 
 🎉 **¡Genial!** Ahora tienes tu propia copia de trabajo del proyecto.
 
-## 2. Clona el repositorio
+## 2. CLONA EL REPOSITORIO
 
 Ahora necesitas descargar tu repositorio forkeado a tu computadora para poder editar los archivos localmente.
 
@@ -274,7 +274,7 @@ Ahora necesitas descargar tu repositorio forkeado a tu computadora para poder ed
 
 🚀 **¡Buen trabajo!** Ya tienes los archivos del proyecto en tu máquina local y estás listo para hacer tus cambios.
 
-## 3. Crea una nueva rama (branch)
+## 3. CREA UNA NUEVA RAMA (BRANCH)
 
 Antes de hacer cualquier cambio, es una buena práctica crear una nueva rama. Trabajar en una rama separada mantiene tu trabajo organizado y deja la rama `main` limpia.
 
@@ -298,7 +298,7 @@ Antes de hacer cualquier cambio, es una buena práctica crear una nueva rama. Tr
 
 🌿 **¡Todo listo!** Cualquier cambio que hagas a partir de ahora se mantendrá en tu nueva rama.
 
-## 4. Abre el proyecto en tu editor de código
+## 4. ABRE EL PROYECTO EN TU EDITOR DE CÓDIGO
 
 Ahora que tienes el proyecto localmente y tu rama está lista, es hora de abrirlo en tu editor de código. En esta guía usaremos **Visual Studio Code (VS Code)**, pero puedes usar el editor que prefieras.
 
@@ -326,7 +326,7 @@ Deberías ver los archivos del proyecto en el explorador:
 
 💻 **¡Listo!** Ya tienes el proyecto abierto en tu editor y estás preparado para empezar a editar.
 
-## 5. Añade tu tarjeta de colaborador
+## 5. AÑADE TU TARJETA DE COLABORADOR
 
 ¡Ahora viene la parte divertida: añadir tu propia tarjeta al proyecto!
 
@@ -334,7 +334,7 @@ Dentro del directorio `assets/cards/`, crea un nuevo archivo con tu nombre de us
 
 📄 `assets/cards/<tu-usuario>.json` _(ej. `octocat.json`)_
 
-### Estructura
+### ESTRUCTURA
 
 Tu archivo debe seguir exactamente la misma estructura que `jan.json`:
 
@@ -346,7 +346,7 @@ Tu archivo debe seguir exactamente la misma estructura que `jan.json`:
 }
 ```
 
-### Cómo obtener la URL de tu foto de perfil (`img`):
+### CÓMO OBTENER LA URL DE TU FOTO DE PERFIL (`IMG`):
 
 1. Abre tu perfil de GitHub en tu navegador (`https://github.com/<tu-usuario>`).
 2. Haz clic derecho en tu foto de perfil y selecciona **"Copiar dirección de imagen"** (o **"Copy image address"**).
@@ -354,7 +354,7 @@ Tu archivo debe seguir exactamente la misma estructura que `jan.json`:
 
 > 💡 _Truco rápido: ¡También puedes usar `https://github.com/<tu-usuario>.png` como la URL de tu imagen!_
 
-### Ejemplo
+### EJEMPLO
 
 Si tu nombre de usuario es `octocat`, crearías `assets/cards/octocat.json` con el siguiente contenido:
 
@@ -368,7 +368,7 @@ Si tu nombre de usuario es `octocat`, crearías `assets/cards/octocat.json` con 
 
 Guarda el archivo cuando termines. ¡Una vez creado, estás listo para el siguiente paso!
 
-## 6. Haz commit y push de tus cambios
+## 6. HAZ COMMIT Y PUSH DE TUS CAMBIOS
 
 Antes de crear el Pull Request, necesitas guardar tus cambios y subir tu rama a GitHub.
 
@@ -392,7 +392,7 @@ Antes de crear el Pull Request, necesitas guardar tus cambios y subir tu rama a 
 
    > 💡 _Si te lo solicita, también puedes ejecutar `git push -u origin <nombre-de-tu-rama>`._
 
-## 7. Crea el Pull Request
+## 7. CREA EL PULL REQUEST
 
 Ahora que tu rama está subida a GitHub, ¡es hora de enviar tu contribución al proyecto!
 
@@ -413,7 +413,7 @@ Ahora que tu rama está subida a GitHub, ¡es hora de enviar tu contribución al
    - **Descripción:** Escribe una breve descripción explicando lo que modificaste (ej. que añadiste tu tarjeta de colaborador en `assets/cards/<tu-usuario>.json`).
 5. ¡Haz clic en el botón verde **Create pull request**!
 
-### Ahora solo espera la revisión de tu pull request. Tras la revisión, si es aceptado, tu tarjeta se añadirá automáticamente a la vitrina de colaboradores.
+### AHORA SOLO ESPERA LA REVISIÓN DE TU PULL REQUEST. TRAS LA REVISIÓN, SI ES ACEPTADO, TU TARJETA SE AÑADIRÁ AUTOMÁTICAMENTE A LA VITRINA DE COLABORADORES.
 
 Puedes ver el resultado en vivo de las contribuciones de todos aquí:
 👉 **[Nuestros Colaboradores](https://jaanque.github.io/good-first-issue/)**
@@ -422,7 +422,7 @@ Puedes ver el resultado en vivo de las contribuciones de todos aquí:
 
 ¡Recuerda, esto es solo el comienzo! Hay miles de proyectos de código abierto esperando tu contribución, y el flujo de trabajo es básicamente el mismo en todas partes: haz un fork del repositorio, crea una rama, realiza tus cambios y envía un pull request.
 
-## 🎉 **¡Felicitaciones!**
+## 🎉 **¡FELICITACIONES!**
 
 ¡Acabas de enviar tu primera contribución al mundo Open Source! Una vez fusionada, tu tarjeta se añadirá automáticamente a la vitrina de colaboradores.
 

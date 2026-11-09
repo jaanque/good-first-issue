@@ -1,6 +1,6 @@
 <div align="center">
 
-# good first issue
+# GOOD FIRST ISSUE
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +10,7 @@
 ##
 
 <details>
-  <summary><b>Más nyelvek? Hogyne!</b></summary>
+  <summary><b>MÁS NYELVEK? HOGYNE!</b></summary>
   <br/>
 
 <table>
@@ -215,7 +215,7 @@ Hiszek abban, hogy a tanulás legjobb módja a **gyakorlat**, ezért készített
 
 <div align="justify">
 
-## Alapvető eszközök
+## ALAPVETŐ ESZKÖZÖK
 
 Mielőtt elkezdenéd, győződj meg róla, hogy készen állnak a következő alapvető eszközök:
 
@@ -225,7 +225,7 @@ Mielőtt elkezdenéd, győződj meg róla, hogy készen állnak a következő al
 | **Git** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" /> | Verziókezelő eszköz a változások nyomon követésére | [Letöltés](https://git-scm.com/downloads) |
 | **VS Code** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | Ajánlott kódszerkesztő _(vagy a kedvenc szerkesztőd)_ | [Letöltés](https://code.visualstudio.com/download) |
 
-## 1. Forkold a repozitóriumot
+## 1. FORKOLD A REPOZITÓRIUMOT
 
 A **fork** a saját másolatod erről a repozitóriumról a GitHub fiókodon. Lehetővé teszi, hogy biztonságosan módosíts dolgokat anélkül, hogy az eredeti projektet érintenéd!
 
@@ -245,7 +245,7 @@ A **fork** a saját másolatod erről a repozitóriumról a GitHub fiókodon. Le
 
 🎉 **Nagyszerű!** Most már van egy saját munkapéldányod a projektből.
 
-## 2. Klónozd a repozitóriumot
+## 2. KLÓNOZD A REPOZITÓRIUMOT
 
 Most le kell töltened a forkrepódat a számítógépedre, hogy helyben szerkeszthesd a fájlokat.
 
@@ -274,7 +274,7 @@ Most le kell töltened a forkrepódat a számítógépedre, hogy helyben szerkes
 
 🚀 **Szép munka!** Most már megvannak a projektfájlok a helyi gépeden, és készen állsz a módosításokra.
 
-## 3. Hozz létre egy új ágat (branch)
+## 3. HOZZ LÉTRE EGY ÚJ ÁGAT (BRANCH)
 
 Mielőtt bármit módosítanál, érdemes egy új ágat létrehozni. A külön ágon végzett munka rendszerezett marad, és a `main` ágat tisztán tartja.
 
@@ -298,7 +298,7 @@ Mielőtt bármit módosítanál, érdemes egy új ágat létrehozni. A külön �
 
 🌿 **Minden kész!** Bármilyen módosítást végzel ezután, az az új ágadban marad.
 
-## 4. Nyisd meg a projektet a kódszerkesztődben
+## 4. NYISD MEG A PROJEKTET A KÓDSZERKESZTŐDBEN
 
 Most, hogy helyben megvan a projekt, és az ágad is készen áll, ideje megnyitni a kódszerkesztőben. Ebben az útmutatóban a **Visual Studio Code (VS Code)**-ot használjuk, de bármilyen szerkesztőt használhatsz.
 
@@ -326,7 +326,7 @@ A projektfájlokat látnod kell az intézőben:
 
 💻 **Kész!** A projekt nyitva van a szerkesztődben, és készen állsz a szerkesztésre.
 
-## 5. Add hozzá a közreműködői kártyádat
+## 5. ADD HOZZÁ A KÖZREMŰKÖDŐI KÁRTYÁDAT
 
 Most jön a szórakoztató rész: add hozzá a saját kártyádat a projekthez!
 
@@ -334,7 +334,7 @@ Az `assets/cards/` könyvtárban hozz létre egy új fájlt a GitHub felhasznál
 
 📄 `assets/cards/<felhasznaloneved>.json` _(pl. `octocat.json`)_
 
-### Felépítés
+### FELÉPÍTÉS
 
 A fájlodnak pontosan ugyanazt a szerkezetet kell követnie, mint a `jan.json`-nak:
 
@@ -346,7 +346,7 @@ A fájlodnak pontosan ugyanazt a szerkezetet kell követnie, mint a `jan.json`-n
 }
 ```
 
-### Hogyan szerezd meg a profilképed URL-jét (`img`):
+### HOGYAN SZEREZD MEG A PROFILKÉPED URL-JÉT (`IMG`):
 
 1. Nyisd meg a GitHub profilodat a böngészőben (`https://github.com/<felhasznaloneved>`).
 2. Kattints jobb gombbal a profilképedre, és válaszd a **"Kép címének másolása"** (vagy **"Copy image address"**) lehetőséget.
@@ -354,7 +354,7 @@ A fájlodnak pontosan ugyanazt a szerkezetet kell követnie, mint a `jan.json`-n
 
 > 💡 _Gyors tipp: A `https://github.com/<felhasznaloneved>.png` címet is használhatod képed URL-jeként!_
 
-### Példa
+### PÉLDA
 
 Ha a felhasználóneved `octocat`, akkor az `assets/cards/octocat.json` fájlt hoznád létre a következő tartalommal:
 
@@ -368,7 +368,7 @@ Ha a felhasználóneved `octocat`, akkor az `assets/cards/octocat.json` fájlt h
 
 Mentsd el a fájlt, ha végeztél. Miután elkészült, készen állsz a következő lépésre!
 
-## 6. Commitold és pushold a változtatásaidat
+## 6. COMMITOLD ÉS PUSHOLD A VÁLTOZTATÁSAIDAT
 
 A Pull Request létrehozása előtt el kell mentened a változtatásokat, és fel kell töltened az ágad a GitHubra.
 
@@ -392,7 +392,7 @@ A Pull Request létrehozása előtt el kell mentened a változtatásokat, és fe
 
    > 💡 _Ha kéri, a `git push -u origin <uj-ag-neve>` parancsot is futtathatod._
 
-## 7. Hozd létre a Pull Requestet
+## 7. HOZD LÉTRE A PULL REQUESTET
 
 Most, hogy az ágad felkerült a GitHubra, ideje beküldeni a hozzájárulásodat a projektbe!
 
@@ -413,7 +413,7 @@ Most, hogy az ágad felkerült a GitHubra, ideje beküldeni a hozzájárulásoda
    - **Leírás:** Írj egy rövid magyarázatot arról, mit változtattál (pl. hogy hozzáadtad a közreműködői kártyádat az `assets/cards/<felhasznaloneved>.json` fájlban).
 5. Kattints a zöld **Create pull request** gombra!
 
-### Most már csak várnod kell a pull request áttekintésére. Az ellenőrzés és elfogadás után a kártyád automatikusan megjelenik a közreműködők bemutatófalán.
+### MOST MÁR CSAK VÁRNOD KELL A PULL REQUEST ÁTTEKINTÉSÉRE. AZ ELLENŐRZÉS ÉS ELFOGADÁS UTÁN A KÁRTYÁD AUTOMATIKUSAN MEGJELENIK A KÖZREMŰKÖDŐK BEMUTATÓFALÁN.
 
 Itt tekintheted meg élőben az összes közreműködő munkáját:
 👉 **[Közreműködőink](https://jaanque.github.io/good-first-issue/)**
@@ -422,7 +422,7 @@ Itt tekintheted meg élőben az összes közreműködő munkáját:
 
 Ne feledd, ez még csak a kezdet! Több ezer nyílt forráskódú projekt várja a hozzájárulásodat, és a folyamat mindenhol alapvetően ugyanaz: forkold a repozitóriumot, hozz létre egy ágat, végezd el a változtatásokat, és küldj egy pull requestet.
 
-## 🎉 **Gratulálunk!**
+## 🎉 **GRATULÁLUNK!**
 
 Épp most küldted be az első hozzájárulásodat az Open Source világába! Az összefésülés után a kártyád automatikusan felkerül a közreműködők falára.
 

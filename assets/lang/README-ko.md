@@ -1,6 +1,6 @@
 <div align="center">
 
-# good first issue
+# GOOD FIRST ISSUE
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -225,7 +225,7 @@ Git과 GitHub을 처음 사용하시나요? **아주 잘 찾아오셨습니다!*
 | **Git**            |      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />      | 코드 변경 사항을 관리하기 위한 버전 관리 도구        | [다운로드](https://git-scm.com/downloads)          |
 | **VS Code**        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | 추천 코드 에디터 _(또는 자주 사용하는 에디터)_       | [다운로드](https://code.visualstudio.com/download) |
 
-## 1. 저장소 포크(Fork)하기
+## 1. 저장소 포크(FORK)하기
 
 **포크(Fork)** 는 이 저장소를 본인의 GitHub 계정으로 복사해 오는 것입니다. 원본 프로젝트에 영향을 주지 않고 안전하게 변경할 수 있습니다!
 
@@ -245,7 +245,7 @@ Git과 GitHub을 처음 사용하시나요? **아주 잘 찾아오셨습니다!*
 
 🎉 **멋집니다!** 이제 여러분만의 프로젝트 작업 복사본이 생겼습니다.
 
-## 2. 저장소 복제(Clone)하기
+## 2. 저장소 복제(CLONE)하기
 
 이제 로컬 컴퓨터에서 파일을 편집할 수 있도록 포크한 저장소를 다운로드해야 합니다.
 
@@ -274,7 +274,7 @@ Git과 GitHub을 처음 사용하시나요? **아주 잘 찾아오셨습니다!*
 
 🚀 **잘하셨습니다!** 이제 로컬 컴퓨터에 프로젝트 파일이 준비되었으며 변경할 준비가 끝났습니다.
 
-## 3. 새 브랜치(Branch) 생성하기
+## 3. 새 브랜치(BRANCH) 생성하기
 
 변경 사항을 만들기 전에 새 브랜치를 생성하는 것이 모범적인 방식입니다. 별도의 브랜치에서 작업하면 작업이 깔끔하게 정리되고 `main` 브랜치를 깨끗하게 유지할 수 있습니다.
 
@@ -346,7 +346,7 @@ code .
 }
 ```
 
-### 프로필 이미지 URL(`img`) 가져오는 방법:
+### 프로필 이미지 URL(`IMG`) 가져오는 방법:
 
 1. 브라우저에서 GitHub 프로필 페이지를 엽니다(`https://github.com/<본인-사용자명>`).
 2. 프로필 사진을 우클릭하고 **"이미지 주소 복사"** (또는 **"Copy image address"**)를 선택합니다.
@@ -368,7 +368,7 @@ code .
 
 작성이 끝나면 파일을 저장합니다. 파일이 생성되면 다음 단계로 넘어갈 준비가 되었습니다!
 
-## 6. 변경 사항 커밋(Commit) 및 푸시(Push)하기
+## 6. 변경 사항 커밋(COMMIT) 및 푸시(PUSH)하기
 
 Pull Request를 생성하기 전에 변경 사항을 저장하고 브랜치를 GitHub에 업로드해야 합니다.
 
@@ -392,7 +392,7 @@ Pull Request를 생성하기 전에 변경 사항을 저장하고 브랜치를 G
 
    > 💡 _안내 메시지가 나타나면 `git push -u origin <브랜치명>`을 실행해도 됩니다._
 
-## 7. Pull Request 생성하기
+## 7. PULL REQUEST 생성하기
 
 이제 브랜치가 GitHub에 업로드되었으므로 프로젝트에 기여를 제출할 시간입니다!
 
@@ -413,7 +413,7 @@ Pull Request를 생성하기 전에 변경 사항을 저장하고 브랜치를 G
    - **설명:** 수정한 내용을 간단히 설명합니다 (예: `assets/cards/<본인-사용자명>.json`에 기여자 카드를 추가했다는 내용 등).
 5. 녹색 **Create pull request** 버튼을 클릭합니다!
 
-### 이제 Pull Request의 리뷰를 기다리기만 하면 됩니다. 리뷰 후 승인되면 기여자 쇼케이스에 여러분의 카드가 자동으로 추가됩니다.
+### 이제 PULL REQUEST의 리뷰를 기다리기만 하면 됩니다. 리뷰 후 승인되면 기여자 쇼케이스에 여러분의 카드가 자동으로 추가됩니다.
 
 모든 사람의 기여 결과를 실시간으로 확인해 보세요:
 👉 **[우리의 기여자들](https://jaanque.github.io/good-first-issue/)**

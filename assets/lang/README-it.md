@@ -1,6 +1,6 @@
 <div align="center">
 
-# good first issue
+# GOOD FIRST ISSUE
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +10,7 @@
 ##
 
 <details>
-  <summary><b>Altre lingue? Certamente.</b></summary>
+  <summary><b>ALTRE LINGUE? CERTAMENTE.</b></summary>
   <br/>
 
 <table>
@@ -215,7 +215,7 @@ Credo che il modo migliore per imparare sia **facendo**, quindi ho creato un pro
 
 <div align="justify">
 
-## Materiale di base
+## MATERIALE DI BASE
 
 Prima di iniziare, assicurati di avere a disposizione i seguenti strumenti di base:
 
@@ -225,7 +225,7 @@ Prima di iniziare, assicurati di avere a disposizione i seguenti strumenti di ba
 | **Git**            |      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />      | Strumento di controllo versione per gestire le modifiche al codice | [Scarica](https://git-scm.com/downloads)           |
 | **VS Code**        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | Editor di codice consigliato _(o il tuo editor preferito)_          | [Scarica](https://code.visualstudio.com/download)  |
 
-## 1. Fai il fork del repository
+## 1. FAI IL FORK DEL REPOSITORY
 
 Un **fork** è la tua copia personale di questo repository nel tuo account GitHub. Ti permette di apportare modifiche in totale sicurezza senza influenzare il progetto originale!
 
@@ -245,7 +245,7 @@ Un **fork** è la tua copia personale di questo repository nel tuo account GitHu
 
 🎉 **Fantastico!** Ora hai la tua copia di lavoro del progetto.
 
-## 2. Clona il repository
+## 2. CLONA IL REPOSITORY
 
 Ora devi scaricare il repository che hai forked sul tuo computer per poter modificare i file localmente.
 
@@ -274,7 +274,7 @@ Ora devi scaricare il repository che hai forked sul tuo computer per poter modif
 
 🚀 **Ottimo lavoro!** Ora hai i file del progetto sul tuo computer locale e sei pronto per apportare le tue modifiche.
 
-## 3. Crea un nuovo branch
+## 3. CREA UN NUOVO BRANCH
 
 Prima di apportare qualsiasi modifica, è buona norma creare un nuovo branch. Lavorare su un branch separato mantiene il tuo lavoro organizzato e lascia pulito il branch `main`.
 
@@ -298,7 +298,7 @@ Prima di apportare qualsiasi modifica, è buona norma creare un nuovo branch. La
 
 🌿 **Tutto pronto!** Tutte le modifiche che farai d'ora in avanti rimarranno nel tuo nuovo branch.
 
-## 4. Apri il progetto nel tuo editor di codice
+## 4. APRI IL PROGETTO NEL TUO EDITOR DI CODICE
 
 Ora che hai il progetto in locale e il tuo branch è pronto, è il momento di aprirlo nel tuo editor di codice. In questa guida utilizzeremo **Visual Studio Code (VS Code)**, ma puoi usare qualsiasi editor tu preferisca.
 
@@ -326,7 +326,7 @@ Dovresti vedere i file del progetto nella barra laterale dell'esploratore:
 
 💻 **Tutto pronto!** Ora hai il progetto aperto nel tuo editor e sei pronto per iniziare a modificarlo.
 
-## 5. Aggiungi la tua scheda di collaboratore
+## 5. AGGIUNGI LA TUA SCHEDA DI COLLABORATORE
 
 Ora arriva la parte divertente: aggiungere la tua scheda al progetto!
 
@@ -334,7 +334,7 @@ All'interno della cartella `assets/cards/`, crea un nuovo file con il tuo nome u
 
 📄 `assets/cards/<tuo-username>.json` _(es. `octocat.json`)_
 
-### Struttura
+### STRUTTURA
 
 Il tuo file deve seguire esattamente la stessa struttura di `jan.json`:
 
@@ -346,7 +346,7 @@ Il tuo file deve seguire esattamente la stessa struttura di `jan.json`:
 }
 ```
 
-### Come ottenere l'URL dell'immagine del tuo profilo (`img`):
+### COME OTTENERE L'URL DELL'IMMAGINE DEL TUO PROFILO (`IMG`):
 
 1. Apri la pagina del tuo profilo GitHub nel browser (`https://github.com/<tuo-username>`).
 2. Fai clic con il tasto destro del mouse sulla tua immagine del profilo e seleziona **"Copia indirizzo dell'immagine"** (o **"Copy image address"**).
@@ -354,7 +354,7 @@ Il tuo file deve seguire esattamente la stessa struttura di `jan.json`:
 
 > 💡 _Trucco veloce: Puoi anche usare `https://github.com/<tuo-username>.png` come URL della tua immagine!_
 
-### Esempio
+### ESEMPIO
 
 Se il tuo nome utente è `octocat`, creeresti `assets/cards/octocat.json` con il seguente contenuto:
 
@@ -368,7 +368,7 @@ Se il tuo nome utente è `octocat`, creeresti `assets/cards/octocat.json` con il
 
 Salva il file al termine. Una volta creato, sei pronto per il passo successivo!
 
-## 6. Esegui il commit e il push delle modifiche
+## 6. ESEGUI IL COMMIT E IL PUSH DELLE MODIFICHE
 
 Prima di creare la Pull Request, devi salvare le tue modifiche e caricare il tuo branch su GitHub.
 
@@ -392,7 +392,7 @@ Prima di creare la Pull Request, devi salvare le tue modifiche e caricare il tuo
 
    > 💡 _Se richiesto, puoi anche eseguire `git push -u origin <nome-del-tuo-branch>`._
 
-## 7. Crea la Pull Request
+## 7. CREA LA PULL REQUEST
 
 Ora che il tuo branch è caricato su GitHub, è il momento di inviare il tuo contributo al progetto!
 
@@ -413,7 +413,7 @@ Ora che il tuo branch è caricato su GitHub, è il momento di inviare il tuo con
    - **Descrizione:** Scrivi una breve descrizione che spieghi cosa hai modificato (es. di aver aggiunto la tua scheda collaboratore in `assets/cards/<tuo-username>.json`).
 5. Fai clic sul pulsante verde **Create pull request**!
 
-### Ora devi solo attendere la revisione della tua pull request. Dopo la revisione, se accettata, la tua scheda verrà aggiunta automaticamente alla vetrina dei collaboratori.
+### ORA DEVI SOLO ATTENDERE LA REVISIONE DELLA TUA PULL REQUEST. DOPO LA REVISIONE, SE ACCETTATA, LA TUA SCHEDA VERRÀ AGGIUNTA AUTOMATICAMENTE ALLA VETRINA DEI COLLABORATORI.
 
 Puoi vedere il risultato in tempo reale dei contributi di tutti qui:
 👉 **[I nostri collaboratori](https://jaanque.github.io/good-first-issue/)**
@@ -422,7 +422,7 @@ Puoi vedere il risultato in tempo reale dei contributi di tutti qui:
 
 Ricorda, questo è solo l'inizio! Ci sono migliaia di progetti open source che aspettano il tuo contributo, e il flusso di lavoro è praticamente lo stesso ovunque: fai il fork del repository, crea un branch, apporta le modifiche e invia una pull request.
 
-## 🎉 **Congratulazioni!**
+## 🎉 **CONGRATULAZIONI!**
 
 Hai appena inviato il tuo primo contributo Open Source! Una volta accettata la modifica, la tua scheda apparirà automaticamente nella vetrina dei collaboratori.
 

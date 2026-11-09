@@ -1,6 +1,6 @@
 <div align="center">
 
-# good first issue
+# GOOD FIRST ISSUE
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +10,7 @@
 ##
 
 <details>
-  <summary><b>D'autres langues ? Carrément.</b></summary>
+  <summary><b>D'AUTRES LANGUES ? CARRÉMENT.</b></summary>
   <br/>
 
 <table>
@@ -215,7 +215,7 @@ Je suis convaincu que la meilleure façon d'apprendre est **par la pratique**, c
 
 <div align="justify">
 
-## Matériel de base
+## MATÉRIEL DE BASE
 
 Avant de commencer, assurez-vous d'avoir préparé les outils de base suivants :
 
@@ -225,7 +225,7 @@ Avant de commencer, assurez-vous d'avoir préparé les outils de base suivants :
 | **Git**             |      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />      | Outil de gestion de versions pour gérer vos modifications   | [Télécharger](https://git-scm.com/downloads)       |
 | **VS Code**         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | Éditeur de code recommandé _(ou votre éditeur favori)_      | [Télécharger](https://code.visualstudio.com/download) |
 
-## 1. Forker le dépôt
+## 1. FORKER LE DÉPÔT
 
 Un **fork** est votre propre copie de ce dépôt sur votre compte GitHub. Il vous permet d'effectuer des modifications en toute sécurité sans affecter le projet original !
 
@@ -245,7 +245,7 @@ Un **fork** est votre propre copie de ce dépôt sur votre compte GitHub. Il vou
 
 🎉 **Génial !** Vous avez désormais votre propre copie de travail du projet.
 
-## 2. Cloner le dépôt
+## 2. CLONER LE DÉPÔT
 
 Vous devez maintenant télécharger votre dépôt forké sur votre ordinateur afin de pouvoir modifier les fichiers localement.
 
@@ -274,7 +274,7 @@ Vous devez maintenant télécharger votre dépôt forké sur votre ordinateur af
 
 🚀 **Beau travail !** Vous avez maintenant les fichiers du projet sur votre machine locale et vous êtes prêt à apporter vos modifications.
 
-## 3. Créer une nouvelle branche
+## 3. CRÉER UNE NOUVELLE BRANCHE
 
 Avant d'effectuer la moindre modification, il est recommandé de créer une nouvelle branche. Travailler sur une branche distincte permet de garder votre travail organisé et votre branche `main` propre.
 
@@ -298,7 +298,7 @@ Avant d'effectuer la moindre modification, il est recommandé de créer une nouv
 
 🌿 **Tout est prêt !** Toutes les modifications que vous effectuerez à partir de maintenant resteront sur votre nouvelle branche.
 
-## 4. Ouvrir le projet dans votre éditeur de code
+## 4. OUVRIR LE PROJET DANS VOTRE ÉDITEUR DE CODE
 
 Maintenant que vous avez le projet en local et que votre branche est prête, il est temps de l'ouvrir dans votre éditeur de code. Dans ce guide, nous utiliserons **Visual Studio Code (VS Code)**, mais vous pouvez utiliser l'éditeur de votre choix.
 
@@ -326,7 +326,7 @@ Vous devriez voir les fichiers du projet dans l'explorateur :
 
 💻 **Tout est paré !** Le projet est ouvert dans votre éditeur et vous êtes prêt à commencer les modifications.
 
-## 5. Ajouter votre carte de contributeur
+## 5. AJOUTER VOTRE CARTE DE CONTRIBUTEUR
 
 Place à la partie amusante : ajouter votre propre carte au projet !
 
@@ -334,7 +334,7 @@ Dans le répertoire `assets/cards/`, créez un nouveau fichier nommé avec votre
 
 📄 `assets/cards/<votre-nom-d-utilisateur>.json` _(par ex. `octocat.json`)_
 
-### Structure
+### STRUCTURE
 
 Votre fichier doit respecter exactement la même structure que `jan.json` :
 
@@ -346,7 +346,7 @@ Votre fichier doit respecter exactement la même structure que `jan.json` :
 }
 ```
 
-### Comment obtenir l'URL de votre image de profil (`img`) :
+### COMMENT OBTENIR L'URL DE VOTRE IMAGE DE PROFIL (`IMG`) :
 
 1. Ouvrez votre profil GitHub dans votre navigateur (`https://github.com/<votre-nom-d-utilisateur>`).
 2. Faites un clic droit sur votre photo de profil et sélectionnez **"Copier l'adresse de l'image"** (ou **"Copy image address"**).
@@ -354,7 +354,7 @@ Votre fichier doit respecter exactement la même structure que `jan.json` :
 
 > 💡 _Astuce rapide : Vous pouvez également utiliser `https://github.com/<votre-nom-d-utilisateur>.png` comme URL pour votre image !_
 
-### Exemple
+### EXEMPLE
 
 Si votre nom d'utilisateur est `octocat`, vous créeriez `assets/cards/octocat.json` avec le contenu suivant :
 
@@ -368,7 +368,7 @@ Si votre nom d'utilisateur est `octocat`, vous créeriez `assets/cards/octocat.j
 
 Enregistrez le fichier quand vous avez terminé. Une fois créé, vous êtes prêt pour l'étape suivante !
 
-## 6. Commiter et pusher vos modifications
+## 6. COMMITER ET PUSHER VOS MODIFICATIONS
 
 Avant de créer la Pull Request, vous devez enregistrer vos modifications et envoyer votre branche sur GitHub.
 
@@ -392,7 +392,7 @@ Avant de créer la Pull Request, vous devez enregistrer vos modifications et env
 
    > 💡 _Si vous y êtes invité, vous pouvez également exécuter `git push -u origin <nom-de-votre-branche>`._
 
-## 7. Créer la Pull Request
+## 7. CRÉER LA PULL REQUEST
 
 Maintenant que votre branche est en ligne sur GitHub, il est temps de soumettre votre contribution au projet !
 
@@ -413,7 +413,7 @@ Maintenant que votre branche est en ligne sur GitHub, il est temps de soumettre 
    - **Description :** Écrivez une courte description expliquant vos modifications (par ex. que vous avez ajouté votre carte de contributeur dans `assets/cards/<votre-nom-d-utilisateur>.json`).
 5. Cliquez sur le bouton vert **Create pull request** !
 
-### Il ne vous reste plus qu'à attendre la revue de votre pull request. Après validation, si elle est acceptée, votre carte sera automatiquement ajoutée à la galerie des contributeurs.
+### IL NE VOUS RESTE PLUS QU'À ATTENDRE LA REVUE DE VOTRE PULL REQUEST. APRÈS VALIDATION, SI ELLE EST ACCEPTÉE, VOTRE CARTE SERA AUTOMATIQUEMENT AJOUTÉE À LA GALERIE DES CONTRIBUTEURS.
 
 Vous pouvez voir le résultat en direct des contributions de chacun ici :
 👉 **[Nos Contributeurs](https://jaanque.github.io/good-first-issue/)**
@@ -422,7 +422,7 @@ Vous pouvez voir le résultat en direct des contributions de chacun ici :
 
 Rappelez-vous, ce n'est que le début ! Des milliers de projets open source attendent vos contributions, et le processus est essentiellement le même partout : forker le dépôt, créer une branche, apporter ses modifications et soumettre une pull request.
 
-## 🎉 **Félicitations !**
+## 🎉 **FÉLICITATIONS !**
 
 Vous venez de soumettre votre toute première contribution Open Source ! Une fois fusionnée, votre carte apparaîtra automatiquement dans la vitrine des contributeurs.
 

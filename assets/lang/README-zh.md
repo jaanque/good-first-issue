@@ -1,6 +1,6 @@
 <div align="center">
 
-# good first issue
+# GOOD FIRST ISSUE
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -225,7 +225,7 @@
 | **Git**            |      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />      | 用于管理代码更改的版本控制工具                       | [下载](https://git-scm.com/downloads)              |
 | **VS Code**        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | 推荐的代码编辑器 _（也可以使用你喜欢的其他编辑器）_  | [下载](https://code.visualstudio.com/download)     |
 
-## 1. Fork（分叉）本仓库
+## 1. FORK（分叉）本仓库
 
 **Fork** 是将该仓库完整复制到你的 GitHub 账号下。它可以让你安全地进行修改，而不会影响原始项目！
 
@@ -245,7 +245,7 @@
 
 🎉 **太棒了！** 你现在拥有了属于自己的项目副本。
 
-## 2. 克隆（Clone）仓库
+## 2. 克隆（CLONE）仓库
 
 现在你需要将 Fork 后的仓库下载到本地电脑上，以便在本地编辑文件。
 
@@ -274,7 +274,7 @@
 
 🚀 **干得漂亮！** 项目文件现已保存到你的本地电脑中，随时可以开始修改。
 
-## 3. 创建新分支（Branch）
+## 3. 创建新分支（BRANCH）
 
 在进行任何修改之前，创建新分支是最佳实践。在独立的分支上工作能保持代码条理清晰，并确保 `main` 主分支不受影响。
 
@@ -346,7 +346,7 @@ code .
 }
 ```
 
-### 如何获取你的个人资料头像链接 (`img`)：
+### 如何获取你的个人资料头像链接 (`IMG`)：
 
 1. 在浏览器中打开你的 GitHub 个人主页（`https://github.com/<你的用户名>`）。
 2. 在个人头像上右键点击，选择 **"复制图片地址"**（或 **"Copy image address"**）。
@@ -368,7 +368,7 @@ code .
 
 完成后保存文件。创建好文件后，就可以进入下一步了！
 
-## 6. 提交（Commit）并推送（Push）你的更改
+## 6. 提交（COMMIT）并推送（PUSH）你的更改
 
 在创建 Pull Request 之前，需要保存更改并将分支推送到 GitHub。
 
@@ -392,7 +392,7 @@ code .
 
    > 💡 _如果系统提示，你也可以运行 `git push -u origin <你的分支名称>`。_
 
-## 7. 创建 Pull Request
+## 7. 创建 PULL REQUEST
 
 现在分支已推送到 GitHub，是时候向项目提交你的贡献了！
 
@@ -413,7 +413,7 @@ code .
    - **描述：** 写一段简短说明，解释你修改了什么（例如在 `assets/cards/<你的用户名>.json` 中添加了贡献者卡片）。
 5. 点击绿色的 **Create pull request** 按钮！
 
-### 现在只需等待你的 Pull Request 审核即可。通过审核并合并后，你的卡片将自动添加到贡献者展示墙中。
+### 现在只需等待你的 PULL REQUEST 审核即可。通过审核并合并后，你的卡片将自动添加到贡献者展示墙中。
 
 你可以在这里实时查看大家的贡献成果：
 👉 **[我们的贡献者](https://jaanque.github.io/good-first-issue/)**

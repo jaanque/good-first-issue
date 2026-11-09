@@ -1,6 +1,6 @@
 <div align="center">
 
-# good first issue
+# GOOD FIRST ISSUE
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +10,7 @@
 ##
 
 <details>
-  <summary><b>Alte limbi? Cu siguranță!</b></summary>
+  <summary><b>ALTE LIMBI? CU SIGURANȚĂ!</b></summary>
   <br/>
 
 <table>
@@ -215,7 +215,7 @@ Cred că cel mai bun mod de a învăța este **făcând**, așa că am creat un 
 
 <div align="justify">
 
-## Instrumente de bază
+## INSTRUMENTE DE BAZĂ
 
 Înainte de a începe, asigură-te că ai la dispoziție următoarele instrumente de bază:
 
@@ -225,7 +225,7 @@ Cred că cel mai bun mod de a învăța este **făcând**, așa că am creat un 
 | **Git**            |      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />      | Instrument de control al versiunilor pentru gestionarea codului | [Descărcare](https://git-scm.com/downloads)       |
 | **VS Code**        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | Editorul de cod recomandat _(sau editorul tău preferat)_    | [Descărcare](https://code.visualstudio.com/download) |
 
-## 1. Fă un fork depozitului
+## 1. FĂ UN FORK DEPOZITULUI
 
 Un **fork** este propria ta copie a acestui depozit în contul tău de GitHub. Îți permite să faci modificări în siguranță, fără a afecta proiectul original!
 
@@ -245,7 +245,7 @@ Un **fork** este propria ta copie a acestui depozit în contul tău de GitHub. �
 
 🎉 **Grozav!** Acum ai propria ta copie de lucru a proiectului.
 
-## 2. Clonează depozitul
+## 2. CLONEAZĂ DEPOZITUL
 
 Acum trebuie să descarci depozitul forked pe calculatorul tău pentru a putea edita fișierele local.
 
@@ -274,7 +274,7 @@ Acum trebuie să descarci depozitul forked pe calculatorul tău pentru a putea e
 
 🚀 **Excelent!** Fișierele sunt acum pe calculatorul tău și ești gata să faci modificări.
 
-## 3. Creează o ramură (branch) nouă
+## 3. CREEAZĂ O RAMURĂ (BRANCH) NOUĂ
 
 Înainte de a face orice modificare, este recomandat să creezi o ramură nouă. Lucrul pe o ramură separată păstrează ordinea și lasă ramura `main` curată.
 
@@ -298,7 +298,7 @@ Acum trebuie să descarci depozitul forked pe calculatorul tău pentru a putea e
 
 🌿 **Totul este gata!** Orice modificare pe care o faci de acum înainte va rămâne pe noua ta ramură.
 
-## 4. Deschide proiectul în editorul de cod
+## 4. DESCHIDE PROIECTUL ÎN EDITORUL DE COD
 
 Acum că ai proiectul local și ramura este gata, este timpul să-l deschizi în editorul de cod. În acest ghid vom folosi **Visual Studio Code (VS Code)**, dar poți folosi orice editor preferi.
 
@@ -326,7 +326,7 @@ Vei vedea fișierele proiectului în explorator:
 
 💻 **Gata!** Proiectul este deschis în editor și ești pregătit să începi editarea.
 
-## 5. Adaugă cardul tău de colaborator
+## 5. ADAUGĂ CARDUL TĂU DE COLABORATOR
 
 Acum urmează partea distractivă: adăugarea propriului tău card în proiect!
 
@@ -334,7 +334,7 @@ Acum urmează partea distractivă: adăugarea propriului tău card în proiect!
 
 📄 `assets/cards/<numele-tau-de-utilizator>.json` _(ex. `octocat.json`)_
 
-### Structură
+### STRUCTURĂ
 
 Fișierul tău trebuie să respecte exact aceeași structură ca `jan.json`:
 
@@ -346,7 +346,7 @@ Fișierul tău trebuie să respecte exact aceeași structură ca `jan.json`:
 }
 ```
 
-### Cum obții URL-ul imaginii tale de profil (`img`):
+### CUM OBȚII URL-UL IMAGINII TALE DE PROFIL (`IMG`):
 
 1. Deschide pagina de profil GitHub în browser (`https://github.com/<numele-tau-de-utilizator>`).
 2. Fă clic dreapta pe poza ta de profil și alege **"Copy image address"** (Copiază adresa imaginii).
@@ -354,7 +354,7 @@ Fișierul tău trebuie să respecte exact aceeași structură ca `jan.json`:
 
 > 💡 _Truc rapid: Poți folosi direct `https://github.com/<numele-tau-de-utilizator>.png` ca URL al imaginii!_
 
-### Exemplu
+### EXEMPLU
 
 Dacă numele tău de utilizator este `octocat`, vei crea fișierul `assets/cards/octocat.json` cu următorul conținut:
 
@@ -368,7 +368,7 @@ Dacă numele tău de utilizator este `octocat`, vei crea fișierul `assets/cards
 
 Salvează fișierul după ce ai terminat. Ești pregătit pentru pasul următor!
 
-## 6. Fă commit și push modificărilor tale
+## 6. FĂ COMMIT ȘI PUSH MODIFICĂRILOR TALE
 
 Înainte de a crea un Pull Request, trebuie să salvezi modificările și să încarci ramura pe GitHub.
 
@@ -392,7 +392,7 @@ Salvează fișierul după ce ai terminat. Ești pregătit pentru pasul următor!
 
    > 💡 _Dacă ți se solicită, poți rula și `git push -u origin <numele-ramurii-tale>`._
 
-## 7. Creează un Pull Request
+## 7. CREEAZĂ UN PULL REQUEST
 
 Acum că ramura ta este încărcată pe GitHub, este timpul să trimiți contribuția ta la proiect!
 
@@ -413,7 +413,7 @@ Acum că ramura ta este încărcată pe GitHub, este timpul să trimiți contrib
    - **Descriere:** Scrie o scurtă descriere explicând ce ai schimbat (ex. că ai adăugat cardul tău în `assets/cards/<numele-tau-de-utilizator>.json`).
 5. Apasă pe butonul verde **Create pull request**!
 
-### Acum doar așteaptă revizuirea solicitării tale (pull request). După aprobare, cardul tău va fi adăugat automat în galeria colaboratorilor.
+### ACUM DOAR AȘTEAPTĂ REVIZUIREA SOLICITĂRII TALE (PULL REQUEST). DUPĂ APROBARE, CARDUL TĂU VA FI ADĂUGAT AUTOMAT ÎN GALERIA COLABORATORILOR.
 
 Poți vedea rezultatul în timp real al contribuțiilor tuturor aici:
 👉 **[Colaboratorii Noștri](https://jaanque.github.io/good-first-issue/)**
@@ -422,7 +422,7 @@ Poți vedea rezultatul în timp real al contribuțiilor tuturor aici:
 
 Amintește-ți, acesta este doar începutul! Există mii de proiecte open source care așteaptă contribuția ta, iar fluxul de lucru este în esență același peste tot: fă fork depozitului, creează o ramură, fă modificările și trimite un pull request.
 
-## 🎉 **Felicitări!**
+## 🎉 **FELICITĂRI!**
 
 Tocmai ai trimis prima ta contribuție Open Source! Odată îmbinată (merged), cardul tău va apărea automat în galeria colaboratorilor.
 

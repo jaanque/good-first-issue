@@ -1,6 +1,6 @@
 <div align="center">
 
-# good first issue
+# GOOD FIRST ISSUE
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +10,7 @@
 ##
 
 <details>
-  <summary><b>Other languages? hell yeah.</b></summary>
+  <summary><b>OTHER LANGUAGES? HELL YEAH.</b></summary>
   <br/>
 
 <table>
@@ -215,7 +215,7 @@ I believe that the best way to learn is **by doing**, so I've created a simple p
 
 <div align="justify">
 
-## Basic material
+## BASIC MATERIAL
 
 Before getting started, make sure you have the following basic tools ready:
 
@@ -225,7 +225,7 @@ Before getting started, make sure you have the following basic tools ready:
 | **Git**            |      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />      | Version control tool to manage your code changes    | [Download](https://git-scm.com/downloads)          |
 | **VS Code**        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | Recommended code editor _(or your favorite editor)_ | [Download](https://code.visualstudio.com/download) |
 
-## 1. Fork the repository
+## 1. FORK THE REPOSITORY
 
 A **fork** is your own copy of this repository under your GitHub account. It lets you make changes safely without affecting the original project!
 
@@ -245,7 +245,7 @@ A **fork** is your own copy of this repository under your GitHub account. It let
 
 🎉 **Awesome!** You now have your own working copy of the project.
 
-## 2. Clone the repository
+## 2. CLONE THE REPOSITORY
 
 Now you need to download your forked repository to your computer so you can edit the files locally.
 
@@ -274,7 +274,7 @@ Now you need to download your forked repository to your computer so you can edit
 
 🚀 **Great job!** You now have the project files on your local machine and you're ready to make your changes.
 
-## 3. Create a new branch
+## 3. CREATE A NEW BRANCH
 
 Before making any changes, it is best practice to create a new branch. Working on a separate branch keeps your work organized and leaves the `main` branch clean.
 
@@ -298,7 +298,7 @@ Before making any changes, it is best practice to create a new branch. Working o
 
 🌿 **You're all set!** Any edits you make from now on will stay on your new branch.
 
-## 4. Open the project in your code editor
+## 4. OPEN THE PROJECT IN YOUR CODE EDITOR
 
 Now that you have the project locally and your branch is ready, it's time to open it in your code editor. In this guide, we'll use **Visual Studio Code (VS Code)**, but you can use any editor you prefer.
 
@@ -326,7 +326,7 @@ You should see the project files in the explorer:
 
 💻 **All set!** You now have the project open in your editor and you're ready to start editing.
 
-## 5. Add your contributor card
+## 5. ADD YOUR CONTRIBUTOR CARD
 
 Now comes the fun part: adding your own card to the project!
 
@@ -334,7 +334,7 @@ Inside the `assets/cards/` directory, create a new file named with your GitHub u
 
 📄 `assets/cards/<your-username>.json` _(e.g. `octocat.json`)_
 
-### Structure
+### STRUCTURE
 
 Your file must follow the exact same structure as `jan.json`:
 
@@ -346,7 +346,7 @@ Your file must follow the exact same structure as `jan.json`:
 }
 ```
 
-### How to get your profile image URL (`img`):
+### HOW TO GET YOUR PROFILE IMAGE URL (`IMG`):
 
 1. Open your GitHub profile page in your browser (`https://github.com/<your-username>`).
 2. Right-click on your profile picture and select **"Copy image address"** (or **"Copiar dirección de imagen"**).
@@ -354,7 +354,7 @@ Your file must follow the exact same structure as `jan.json`:
 
 > 💡 _Quick trick: You can also use `https://github.com/<your-username>.png` as your image URL!_
 
-### Example
+### EXAMPLE
 
 If your username is `octocat`, you would create `assets/cards/octocat.json` with the following content:
 
@@ -368,7 +368,7 @@ If your username is `octocat`, you would create `assets/cards/octocat.json` with
 
 Save the file when you're done. Once created, you are ready for the next step!
 
-## 6. Commit and push your changes
+## 6. COMMIT AND PUSH YOUR CHANGES
 
 Before creating the Pull Request, you need to save your changes and upload your branch to GitHub.
 
@@ -392,7 +392,7 @@ Before creating the Pull Request, you need to save your changes and upload your 
 
    > 💡 _If prompted, you can also run `git push -u origin <your-branch-name>`._
 
-## 7. Create the Pull Request
+## 7. CREATE THE PULL REQUEST
 
 Now that your branch is uploaded to GitHub, it's time to submit your contribution to the project!
 
@@ -413,7 +413,7 @@ Now that your branch is uploaded to GitHub, it's time to submit your contributio
    - **Description:** Write a brief description explaining what you modified (e.g. that you added your contributor card in `assets/cards/<your-username>.json`).
 5. Click the green **Create pull request** button!
 
-### Now just wait for the review of your pull request. After the review, if it is accepted, your card will be automatically added to the contributors showcase.
+### NOW JUST WAIT FOR THE REVIEW OF YOUR PULL REQUEST. AFTER THE REVIEW, IF IT IS ACCEPTED, YOUR CARD WILL BE AUTOMATICALLY ADDED TO THE CONTRIBUTORS SHOWCASE.
 
 You can see the live result of everyone's contributions here:
 👉 **[Our Contributors](https://jaanque.github.io/good-first-issue/)**
@@ -422,7 +422,7 @@ You can see the live result of everyone's contributions here:
 
 Remember, this is just the beginning! There are thousands of open source projects out there waiting for your contribution, and the workflow is essentially the same everywhere: fork the repository, create a branch, make your changes, and submit a pull request.
 
-## 🎉 **Congratulations!**
+## 🎉 **CONGRATULATIONS!**
 
 You've just submitted your first Open Source contribution! Once merged, your card will automatically be added to the contributors showcase.
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-# good first issue
+# GOOD FIRST ISSUE
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +10,7 @@
 ##
 
 <details>
-  <summary><b>Bahasa lain? Tentu saja!</b></summary>
+  <summary><b>BAHASA LAIN? TENTU SAJA!</b></summary>
   <br/>
 
 <table>
@@ -215,7 +215,7 @@ Saya percaya bahwa cara terbaik untuk belajar adalah **dengan praktik langsung**
 
 <div align="justify">
 
-## Alat Dasar
+## ALAT DASAR
 
 Sebelum memulai, pastikan Anda telah menyiapkan alat-alat dasar berikut:
 
@@ -225,7 +225,7 @@ Sebelum memulai, pastikan Anda telah menyiapkan alat-alat dasar berikut:
 | **Git**              |      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />      | Alat kontrol versi untuk mengelola perubahan kode Anda      | [Unduh](https://git-scm.com/downloads)             |
 | **VS Code**          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | Editor kode yang disarankan _(atau editor favorit Anda)_    | [Unduh](https://code.visualstudio.com/download)    |
 
-## 1. Fork repositori ini
+## 1. FORK REPOSITORI INI
 
 **Fork** adalah salinan repositori ini di bawah akun GitHub Anda sendiri. Ini memungkinkan Anda melakukan perubahan dengan aman tanpa memengaruhi proyek asli!
 
@@ -245,7 +245,7 @@ Sebelum memulai, pastikan Anda telah menyiapkan alat-alat dasar berikut:
 
 🎉 **Luar biasa!** Sekarang Anda memiliki salinan kerja proyek Anda sendiri.
 
-## 2. Clone repositori
+## 2. CLONE REPOSITORI
 
 Sekarang Anda perlu mengunduh repositori yang telah di-fork ke komputer Anda agar dapat mengedit file secara lokal.
 
@@ -274,7 +274,7 @@ Sekarang Anda perlu mengunduh repositori yang telah di-fork ke komputer Anda aga
 
 🚀 **Kerja bagus!** Sekarang Anda memiliki file proyek di mesin lokal Anda dan siap untuk membuat perubahan.
 
-## 3. Buat branch baru
+## 3. BUAT BRANCH BARU
 
 Sebelum melakukan perubahan apa pun, praktik terbaiknya adalah membuat branch baru. Bekerja di branch terpisah menjaga pekerjaan Anda tetap rapi dan membiarkan branch `main` tetap bersih.
 
@@ -298,7 +298,7 @@ Sebelum melakukan perubahan apa pun, praktik terbaiknya adalah membuat branch ba
 
 🌿 **Semua siap!** Setiap perubahan yang Anda buat mulai sekarang akan tersimpan di branch baru Anda.
 
-## 4. Buka proyek di editor kode Anda
+## 4. BUKA PROYEK DI EDITOR KODE ANDA
 
 Sekarang setelah proyek ada di komputer Anda dan branch sudah siap, saatnya membukanya di editor kode Anda. Dalam panduan ini kita menggunakan **Visual Studio Code (VS Code)**, tetapi Anda dapat menggunakan editor apa pun yang Anda sukai.
 
@@ -326,7 +326,7 @@ Anda akan melihat file proyek di file explorer:
 
 💻 **Selesai!** Proyek sekarang terbuka di editor Anda dan Anda siap untuk mulai mengedit.
 
-## 5. Tambahkan kartu kontributor Anda
+## 5. TAMBAHKAN KARTU KONTRIBUTOR ANDA
 
 Sekarang saatnya bagian yang menyenangkan: menambahkan kartu Anda sendiri ke dalam proyek!
 
@@ -334,7 +334,7 @@ Di dalam direktori `assets/cards/`, buat file baru dengan nama pengguna GitHub A
 
 📄 `assets/cards/<username-anda>.json` _(mis. `octocat.json`)_
 
-### Struktur
+### STRUKTUR
 
 File Anda harus mengikuti struktur yang persis sama dengan `jan.json`:
 
@@ -346,7 +346,7 @@ File Anda harus mengikuti struktur yang persis sama dengan `jan.json`:
 }
 ```
 
-### Cara mendapatkan URL foto profil Anda (`img`):
+### CARA MENDAPATKAN URL FOTO PROFIL ANDA (`IMG`):
 
 1. Buka halaman profil GitHub Anda di browser (`https://github.com/<username-anda>`).
 2. Klik kanan pada foto profil Anda dan pilih **"Salin alamat gambar"** (atau **"Copy image address"**).
@@ -354,7 +354,7 @@ File Anda harus mengikuti struktur yang persis sama dengan `jan.json`:
 
 > 💡 _Trik cepat: Anda juga dapat menggunakan `https://github.com/<username-anda>.png` langsung sebagai URL gambar Anda!_
 
-### Contoh
+### CONTOH
 
 Jika nama pengguna Anda adalah `octocat`, Anda akan membuat `assets/cards/octocat.json` dengan konten berikut:
 
@@ -368,7 +368,7 @@ Jika nama pengguna Anda adalah `octocat`, Anda akan membuat `assets/cards/octoca
 
 Simpan file setelah selesai. Setelah dibuat, Anda siap untuk langkah selanjutnya!
 
-## 6. Commit dan push perubahan Anda
+## 6. COMMIT DAN PUSH PERUBAHAN ANDA
 
 Sebelum membuat Pull Request, Anda perlu menyimpan perubahan dan mengunggah branch Anda ke GitHub.
 
@@ -392,7 +392,7 @@ Sebelum membuat Pull Request, Anda perlu menyimpan perubahan dan mengunggah bran
 
    > 💡 _Jika diminta, Anda juga dapat menjalankan `git push -u origin <nama-branch-anda>`._
 
-## 7. Buat Pull Request
+## 7. BUAT PULL REQUEST
 
 Sekarang branch Anda telah diunggah ke GitHub, saatnya mengirimkan kontribusi Anda ke proyek!
 
@@ -413,7 +413,7 @@ Sekarang branch Anda telah diunggah ke GitHub, saatnya mengirimkan kontribusi An
    - **Deskripsi:** Tulis penjelasan singkat tentang apa yang Anda ubah (mis. bahwa Anda menambahkan kartu kontributor di `assets/cards/<username-anda>.json`).
 5. Klik tombol hijau **Create pull request**!
 
-### Sekarang tinggal menunggu peninjauan pull request Anda. Setelah peninjauan, jika diterima, kartu Anda akan otomatis ditambahkan ke galeri kontributor.
+### SEKARANG TINGGAL MENUNGGU PENINJAUAN PULL REQUEST ANDA. SETELAH PENINJAUAN, JIKA DITERIMA, KARTU ANDA AKAN OTOMATIS DITAMBAHKAN KE GALERI KONTRIBUTOR.
 
 Anda dapat melihat hasil langsung dari kontribusi semua orang di sini:
 👉 **[Kontributor Kami](https://jaanque.github.io/good-first-issue/)**
@@ -422,7 +422,7 @@ Anda dapat melihat hasil langsung dari kontribusi semua orang di sini:
 
 Ingat, ini hanyalah permulaan! Ada ribuan proyek open source di luar sana yang menunggu kontribusi Anda, dan alur kerjanya pada dasarnya sama di mana saja: fork repositori, buat branch, lakukan perubahan, dan kirimkan pull request.
 
-## 🎉 **Selamat!**
+## 🎉 **SELAMAT!**
 
 Anda baru saja mengirimkan kontribusi Open Source pertama Anda! Setelah digabungkan (merge), kartu Anda akan otomatis ditampilkan di galeri kontributor.
 

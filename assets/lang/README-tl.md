@@ -1,6 +1,6 @@
 <div align="center">
 
-# good first issue
+# GOOD FIRST ISSUE
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +10,7 @@
 ##
 
 <details>
-  <summary><b>Iba pang mga wika? Oo naman!</b></summary>
+  <summary><b>IBA PANG MGA WIKA? OO NAMAN!</b></summary>
   <br/>
 
 <table>
@@ -215,7 +215,7 @@ Naniniwala ako na ang pinakamahusay na paraan ng pagkatuto ay **sa pamamagitan n
 
 <div align="justify">
 
-## Pangunahing Kagamitan
+## PANGUNAHING KAGAMITAN
 
 Bago magsimula, tiyaking handa mo ang mga sumusunod na pangunahing kagamitan:
 
@@ -225,7 +225,7 @@ Bago magsimula, tiyaking handa mo ang mga sumusunod na pangunahing kagamitan:
 | **Git**             |      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />      | Version control tool upang pamahalaan ang mga pagbabago     | [I-download](https://git-scm.com/downloads)        |
 | **VS Code**         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | Inirerekomendang code editor _(o ang paborito mong editor)_ | [I-download](https://code.visualstudio.com/download) |
 
-## 1. I-fork ang repository
+## 1. I-FORK ANG REPOSITORY
 
 Ang **fork** ay ang sarili mong kopya ng repositoryong ito sa ilalim ng iyong GitHub account. Nagbibigay-daan ito upang makagawa ka ng mga pagbabago nang ligtas nang hindi naaapektuhan ang orihinal na proyekto!
 
@@ -245,7 +245,7 @@ Ang **fork** ay ang sarili mong kopya ng repositoryong ito sa ilalim ng iyong Gi
 
 🎉 **Napakagaling!** Mayroon ka nang sariling kopya ng proyekto.
 
-## 2. I-clone ang repository
+## 2. I-CLONE ANG REPOSITORY
 
 Ngayon ay kailangan mong i-download ang na-fork na repository sa iyong kompyuter upang ma-edit ang mga file nang lokal.
 
@@ -274,7 +274,7 @@ Ngayon ay kailangan mong i-download ang na-fork na repository sa iyong kompyuter
 
 🚀 **Magaling!** Nasa iyong lokal na makina na ang mga file ng proyekto at handa ka nang gumawa ng mga pagbabago.
 
-## 3. Gumawa ng bagong branch
+## 3. GUMAWA NG BAGONG BRANCH
 
 Bago gumawa ng anumang pagbabago, pinakamainam na kasanayan ang paggawa ng bagong branch. Ang pagtatrabaho sa hiwalay na branch ay nagpapanatili ng ayos ng iyong gawa at pinapanatiling malinis ang `main` branch.
 
@@ -298,7 +298,7 @@ Bago gumawa ng anumang pagbabago, pinakamainam na kasanayan ang paggawa ng bagon
 
 🌿 **Handa na ang lahat!** Anumang pag-edit na gagawin mo mula ngayon ay mananatili sa iyong bagong branch.
 
-## 4. Buksan ang proyekto sa iyong code editor
+## 4. BUKSAN ANG PROYEKTO SA IYONG CODE EDITOR
 
 Ngayong nasa lokal mo na ang proyekto at handa na ang branch, oras na para buksan ito sa iyong code editor. Sa gabay na ito, gagamitin natin ang **Visual Studio Code (VS Code)**, ngunit maaari kang gumamit ng anumang editor na nais mo.
 
@@ -326,7 +326,7 @@ Dapat mong makita ang mga file ng proyekto sa explorer:
 
 💻 **Ayos na!** Nakabukas na ang proyekto sa iyong editor at handa ka nang magsimulang mag-edit.
 
-## 5. Idagdag ang iyong contributor card
+## 5. IDAGDAG ANG IYONG CONTRIBUTOR CARD
 
 Ngayon ang pinakamasayang bahagi: pagdaragdag ng sarili mong card sa proyekto!
 
@@ -334,7 +334,7 @@ Sa loob ng direktoryo ng `assets/cards/`, gumawa ng bagong file na ipinangalan s
 
 📄 `assets/cards/<iyong-username>.json` _(hal. `octocat.json`)_
 
-### Estruktura
+### ESTRUKTURA
 
 Ang iyong file ay dapat sumunod sa eksaktong estruktura tulad ng `jan.json`:
 
@@ -346,7 +346,7 @@ Ang iyong file ay dapat sumunod sa eksaktong estruktura tulad ng `jan.json`:
 }
 ```
 
-### Paano makuha ang URL ng larawan ng iyong profile (`img`):
+### PAANO MAKUHA ANG URL NG LARAWAN NG IYONG PROFILE (`IMG`):
 
 1. Buksan ang pahina ng iyong profile sa GitHub sa browser (`https://github.com/<iyong-username>`).
 2. I-right click ang larawan ng iyong profile at piliin ang **"Copy image address"**.
@@ -354,7 +354,7 @@ Ang iyong file ay dapat sumunod sa eksaktong estruktura tulad ng `jan.json`:
 
 > 💡 _Mabilis na tip: Maaari mo ring gamitin ang `https://github.com/<iyong-username>.png` bilang direktang URL ng iyong larawan!_
 
-### Halimbawa
+### HALIMBAWA
 
 Kung ang iyong username ay `octocat`, gagawa ka ng `assets/cards/octocat.json` na may sumusunod na nilalaman:
 
@@ -368,7 +368,7 @@ Kung ang iyong username ay `octocat`, gagawa ka ng `assets/cards/octocat.json` n
 
 I-save ang file kapag tapos ka na. Kapag nagawa na, handa ka na para sa susunod na hakbang!
 
-## 6. I-commit at i-push ang iyong mga pagbabago
+## 6. I-COMMIT AT I-PUSH ANG IYONG MGA PAGBABAGO
 
 Bago gumawa ng Pull Request, kailangan mong i-save ang iyong mga pagbabago at i-upload ang iyong branch sa GitHub.
 
@@ -392,7 +392,7 @@ Bago gumawa ng Pull Request, kailangan mong i-save ang iyong mga pagbabago at i-
 
    > 💡 _Kung hihingin, maaari mo ring patakbuhin ang `git push -u origin <pangalan-ng-iyong-branch>`._
 
-## 7. Gumawa ng Pull Request
+## 7. GUMAWA NG PULL REQUEST
 
 Ngayong naka-upload na ang iyong branch sa GitHub, oras na para isumite ang iyong ambag sa proyekto!
 
@@ -413,7 +413,7 @@ Ngayong naka-upload na ang iyong branch sa GitHub, oras na para isumite ang iyon
    - **Paglalarawan:** Sumulat ng maikling paglalarawan na nagpapaliwanag sa iyong binago (hal. idinagdag mo ang iyong contributor card sa `assets/cards/<iyong-username>.json`).
 5. I-click ang berdeng pindutan na **Create pull request**!
 
-### Ngayon, hintayin na lang ang review ng iyong pull request. Pagkatapos masuri, kung tatanggapin, awtomatikong idaragdag ang iyong card sa showcase ng mga contributor.
+### NGAYON, HINTAYIN NA LANG ANG REVIEW NG IYONG PULL REQUEST. PAGKATAPOS MASURI, KUNG TATANGGAPIN, AWTOMATIKONG IDARAGDAG ANG IYONG CARD SA SHOWCASE NG MGA CONTRIBUTOR.
 
 Maaari mong makita ang live na resulta ng mga kontribusyon ng lahat dito:
 👉 **[Ang Aming Mga Contributor](https://jaanque.github.io/good-first-issue/)**
@@ -422,7 +422,7 @@ Maaari mong makita ang live na resulta ng mga kontribusyon ng lahat dito:
 
 Tandaan, simula pa lamang ito! May libu-libong open source projects na naghihintay para sa iyong kontribusyon, at ang proseso ay halos pareho sa lahat ng dako: i-fork ang repository, gumawa ng branch, gawin ang mga pagbabago, at magsumite ng pull request.
 
-## 🎉 **Maligayang Bati!**
+## 🎉 **MALIGAYANG BATI!**
 
 Kakasumite mo pa lamang ng iyong unang Open Source contribution! Kapag na-merge na, awtomatikong lilitaw ang iyong card sa showcase ng mga contributor.
 
