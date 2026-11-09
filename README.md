@@ -76,6 +76,8 @@
   </tr>
 </table>
 
+##
+
 Is this your first time using Git and GitHub? **You're in the right place!**
 
 This repository is designed to help you take your first steps into the **Open Source** world in a safe environment, without the fear of breaking anything.
