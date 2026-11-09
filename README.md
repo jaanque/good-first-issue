@@ -195,6 +195,14 @@ Alternatively, you can open it manually:
 2. Go to **File** > **Open Folder...** (or press `Ctrl + K, Ctrl + O` on Windows / `Cmd + O` on macOS).
 3. Select the `good-first-issue` folder.
 
+You should see the project files in the explorer:
+
+<br/>
+
+<img src="assets/src/image4.png" alt="Project open in VS Code" width="310" />
+
+<br/>
+
 > 💡 _Don't have VS Code installed yet? You can download it for free from [code.visualstudio.com](https://code.visualstudio.com/)._
 
 💻 **All set!** You now have the project open in your editor and you're ready to start editing.
@@ -270,13 +278,35 @@ Before creating the Pull Request, you need to save your changes and upload your 
 Now that your branch is uploaded to GitHub, it's time to submit your contribution to the project!
 
 1. Go to your fork page on GitHub (or visit the original repository: [jaanque/good-first-issue](https://github.com/jaanque/good-first-issue)).
-2. You should see a highlighted yellow banner at the top showing your branch with a **"Compare & pull request"** button. Click on it.
+2. Click on the **"Contribute"** button and select **"Open pull request"** (or click the **"Compare & pull request"** button in the yellow banner):
+
+   <br/>
+
+   <img src="assets/src/image5.png" alt="Open pull request" width="450" />
+
+   <br/>
+
 3. Verify that:
    - **Base repository:** `jaanque/good-first-issue` (branch `main`)
    - **Head repository:** your fork (your branch)
-4. Add a title (e.g. `Add <your-username> card`) and a short description.
+4. In the title and description, clearly describe what you have modified:
+   - **Title:** Add a descriptive title (e.g. `Add <your-username> card`).
+   - **Description:** Write a brief description explaining what you modified (e.g. that you added your contributor card in `assets/cards/<your-username>.json`).
 5. Click the green **Create pull request** button!
 
-🎉 **Congratulations!** You've just submitted your first Open Source contribution! Once merged, your card will automatically be added to the contributors showcase.
+### Now just wait for the review of your pull request. After the review, if it is accepted, your card will be automatically added to the contributors showcase.
+
+You can see the live result of everyone's contributions here:
+👉 **[Our Contributors](https://jaanque.github.io/good-first-issue/)**
+
+##
+
+Remember, this is just the beginning! There are thousands of open source projects out there waiting for your contribution, and the workflow is essentially the same everywhere: fork the repository, create a branch, make your changes, and submit a pull request.
+
+## 🎉 **Congratulations!**
+
+You've just submitted your first Open Source contribution! Once merged, your card will automatically be added to the contributors showcase.
 
 </div>
+
+we 💖 you
