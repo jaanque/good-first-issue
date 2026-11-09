@@ -8,19 +8,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
-    # Grant permissions to the GITHUB_TOKEN to push the generated file
     permissions:
       contents: write
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Setup Node.js
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v4
       with:
-        node-version: '18'
+        node-version: '20'
 
     - name: Combine JSON files
       run: |
@@ -29,7 +27,6 @@ jobs:
         const path = require('path');
         const cardsDir = path.join(process.cwd(), 'assets', 'cards');
         
-        // Check if the directory exists to avoid errors
         if (fs.existsSync(cardsDir)) {
           const files = fs.readdirSync(cardsDir).filter(f => f.endsWith('.json'));
           const data = files.map(f => {
@@ -39,14 +36,14 @@ jobs:
               console.error('Error parsing file:', f);
               return null;
             }
-          }).filter(item => item !== null); // Remove invalid JSONs
+          }).filter(item => item !== null);
           
           fs.writeFileSync('final-list.json', JSON.stringify(data));
         } else {
           console.log('The assets/cards directory does not exist yet.');
         }
         "
-        
+
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
