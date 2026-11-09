@@ -20,48 +20,89 @@
         p {
             color: #57606a;
             font-size: 1.1rem;
-            margin-bottom: 40px;
+            margin-bottom: 30px;
+        }
+        .search-container {
+            max-width: 420px;
+            margin: 0 auto 36px auto;
+        }
+        #search-input {
+            width: 100%;
+            box-sizing: border-box;
+            padding: 10px 16px;
+            font-size: 1rem;
+            border: 1px solid #d0d7de;
+            border-radius: 8px;
+            outline: none;
+            background: #ffffff;
+            color: #24292f;
+            font-family: inherit;
+        }
+        #search-input:focus {
+            border-color: #0969da;
+            box-shadow: 0 0 0 3px rgba(9, 105, 218, 0.2);
         }
         #cards-container { 
             display: flex; 
             flex-wrap: wrap; 
             justify-content: center; 
-            gap: 24px; 
-            max-width: 1000px;
+            gap: 20px; 
+            max-width: 1100px; 
             margin: 0 auto;
         }
         .card {
             background: white; 
-            padding: 24px; 
-            border-radius: 12px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.08); 
+            padding: 16px 20px; 
+            border-radius: 10px; 
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08); 
             border: 1px solid #d0d7de;
-            width: 150px;
-            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            width: 280px;
+            box-sizing: border-box;
             display: flex;
-            flex-direction: column;
+            flex-direction: row;
             align-items: center;
-        }
-        .card:hover { 
-            transform: translateY(-5px); 
-            box-shadow: 0 8px 16px rgba(0,0,0,0.12);
+            gap: 16px;
+            text-align: left;
         }
         .card img { 
-            width: 100px; 
-            height: 100px; 
+            width: 60px; 
+            height: 60px; 
             border-radius: 50%; 
             object-fit: cover; 
             border: 2px solid #e1e4e8;
-            margin-bottom: 15px;
+            flex-shrink: 0;
+            margin: 0;
         }
-        .card a { 
+        .card-info {
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        .card-name {
+            font-size: 1.05rem;
+            font-weight: 600;
+            color: #24292f;
+            margin-bottom: 4px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .card-link { 
             text-decoration: none; 
             color: #0969da; /* GitHub link color */
-            font-weight: 600; 
-            font-size: 1rem;
+            font-weight: 500; 
+            font-size: 0.9rem;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
         }
-        .card a:hover {
+        .card-link:hover {
             text-decoration: underline;
+        }
+        .no-results {
+            color: #57606a;
+            font-size: 1rem;
+            margin-top: 20px;
         }
     </style>
 </head>
@@ -70,11 +111,51 @@
     <h1>Welcome to Open Source! 🚀</h1>
     <p>These awesome developers have successfully made their first contribution.</p>
     
+    <div class="search-container">
+        <input 
+            type="text" 
+            id="search-input" 
+            placeholder="Search contributors by name or username..." 
+            autocomplete="off"
+            aria-label="Search contributors"
+        >
+    </div>
+
     <div id="cards-container">
         <!-- Cards will be injected here by JavaScript -->
     </div>
 
     <script>
+        let contributors = [];
+
+        function renderCards(list) {
+            const container = document.getElementById('cards-container');
+            container.innerHTML = '';
+
+            if (!list || list.length === 0) {
+                container.innerHTML = '<p class="no-results">No contributors found.</p>';
+                return;
+            }
+
+            list.forEach(user => {
+                const card = document.createElement('div');
+                card.className = 'card';
+                
+                // Extract handle from GitHub profile URL if available
+                const handle = (user.github || '').split('/').filter(Boolean).pop() || user.name;
+
+                card.innerHTML = `
+                    <img src="${user.img}" alt="${user.name}'s profile picture" onerror="this.src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png'">
+                    <div class="card-info">
+                        <span class="card-name" title="${user.name}">${user.name}</span>
+                        <a href="${user.github}" class="card-link" target="_blank" rel="noopener noreferrer">@${handle}</a>
+                    </div>
+                `;
+                
+                container.appendChild(card);
+            });
+        }
+
         // Fetch the compiled JSON file generated by GitHub Actions
         fetch('final-list.json')
             .then(response => {
@@ -84,31 +165,25 @@
                 return response.json();
             })
             .then(data => {
-                const container = document.getElementById('cards-container');
-                
-                // Optional: Show a message if there are no contributors yet
-                if (data.length === 0) {
-                    container.innerHTML = '<p>No contributors yet. Be the first one!</p>';
-                    return;
-                }
-
-                data.forEach(user => {
-                    const card = document.createElement('div');
-                    card.className = 'card';
-                    
-                    // Using your JSON structure: name, img, github
-                    card.innerHTML = `
-                        <img src="${user.img}" alt="${user.name}'s profile picture" onerror="this.src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png'">
-                        <a href="${user.github}" target="_blank" rel="noopener noreferrer">${user.name}</a>
-                    `;
-                    
-                    container.appendChild(card);
-                });
+                contributors = Array.isArray(data) ? data : [];
+                renderCards(contributors);
             })
             .catch(error => {
                 console.error('Error loading contributors:', error);
                 document.getElementById('cards-container').innerHTML = '<p>Loading contributors... (If this is a new repository, wait for the first Pull Request to be merged!)</p>';
             });
+
+        // Search filter listener
+        const searchInput = document.getElementById('search-input');
+        searchInput.addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase().trim();
+            const filtered = contributors.filter(user => {
+                const name = (user.name || '').toLowerCase();
+                const handle = (user.github || '').split('/').filter(Boolean).pop().toLowerCase();
+                return name.includes(query) || handle.includes(query);
+            });
+            renderCards(filtered);
+        });
     </script>
 </body>
 </html>

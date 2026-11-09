@@ -7,7 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/jaanque/good-first-issue)](https://github.com/jaanque/good-first-issue/stargazers)
 [![GitHub last commit](https://img.shields.io/github/last-commit/jaanque/good-first-issue)](https://github.com/jaanque/good-first-issue/commits/main)
 
-**Other lenguajes? hell yeah.**
+**Other languages? hell yeah.**
 
 Is this your first time using Git and GitHub? **You're in the right place!**
 
@@ -19,13 +19,17 @@ I believe that the best way to learn is **by doing**, so I've created a simple p
 
 **Ready to get started?** Go to **Step 1** and let's make some magic!
 
+</div>
+
+---
+
+<div align="justify">
+
 ## Basic material
 
-Github Account if you don't have one: [signup](https://github.com/signup)
-
-Git: [download](https://git-scm.com/downloads)
-
-VSCode: [download](https://code.visualstudio.com/download) (or your favorite editor)
+* **GitHub Account** (if you don't have one): [Sign up](https://github.com/signup)
+* **Git**: [Download](https://git-scm.com/downloads)
+* **VS Code**: [Download](https://code.visualstudio.com/download) *(or your favorite editor)*
 
 ## 1. Fork the repository
 
@@ -33,7 +37,11 @@ A **fork** is your own copy of this repository under your GitHub account. It let
 
 1. Go to the top-right corner of this page and click on the **Fork** button:
 
-   ![Fork button](assets/src/image.png)
+   <br/>
+
+   <img src="assets/src/image.png" alt="Fork button" width="400" />
+
+   <br/>
 
 2. On the **Create a new fork** page, leave the repository name as it is and click **Create fork**.
 
@@ -49,7 +57,11 @@ Now you need to download a copy of your forked repository to your computer so yo
 1. On **your forked repository page** on GitHub, click the green **<> Code** button.
 2. In the dropdown menu, make sure the **HTTPS** tab is selected, and click the copy icon to copy your repository URL:
 
-   ![Clone repository](assets/src/image2.png)
+   <br/>
+
+   <img src="assets/src/image2.png" alt="Clone repository" width="360" />
+
+   <br/>
 
 3. Open your terminal and run the `git clone` command followed by the URL you copied:
 
@@ -81,7 +93,11 @@ Before making any changes, it is best practice to create a new branch. Working o
 
 2. Git will confirm that you have created and switched to your new branch:
 
-   ![Create new branch](assets/src/image3.png)
+   <br/>
+
+   <img src="assets/src/image3.png" alt="Create new branch" width="550" />
+
+   <br/>
 
    > 💡 _Tip: If you are using an older version of Git, you can also use `git checkout -b <your-branch-name>`._
 
