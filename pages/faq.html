@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frequently Asked Questions - Good First Issue</title>
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚀</text></svg>">
+    <meta name="description" content="Answers to common beginner questions about Git, GitHub, and contributing to Open Source.">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background: #f6f8fa;
+            color: #24292f;
+            padding: 0;
+            margin: 0;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            box-sizing: border-box;
+        }
+
+        .navbar {
+            background-color: #ffffff;
+            border-bottom: 1px solid #d0d7de;
+            width: 100%;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .nav-container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 0 20px;
+            height: 56px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 16px;
+        }
+
+        .nav-brand {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            text-decoration: none;
+            color: #24292f;
+            font-weight: 700;
+            font-size: 1.05rem;
+        }
+
+        .nav-links {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .nav-link {
+            text-decoration: none;
+            color: #57606a;
+            font-size: 0.9rem;
+            font-weight: 500;
+            padding: 6px 12px;
+            border-radius: 6px;
+            transition: 0.15s ease;
+        }
+
+        .nav-link:hover {
+            color: #24292f;
+            background-color: #f6f8fa;
+        }
+
+        .nav-link.active {
+            color: #24292f;
+            background-color: #eaeef2;
+            font-weight: 600;
+        }
+
+        .nav-github-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            text-decoration: none;
+            color: #24292f;
+            font-size: 0.85rem;
+            font-weight: 600;
+            padding: 4px 10px;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+            background-color: #f6f8fa;
+            transition: 0.15s ease;
+        }
+
+        .nav-github-link:hover {
+            background-color: #f3f4f6;
+            border-color: #babbbe;
+        }
+
+        .main-content {
+            flex: 1;
+            max-width: 860px;
+            width: 100%;
+            margin: 0 auto;
+            padding: 40px 20px;
+            box-sizing: border-box;
+            text-align: left;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            margin-top: 0;
+            margin-bottom: 8px;
+            color: #24292f;
+        }
+
+        .subtitle {
+            color: #57606a;
+            font-size: 1.1rem;
+            margin-bottom: 32px;
+            line-height: 1.5;
+        }
+
+        .faq-item {
+            background: #ffffff;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+            padding: 24px;
+            margin-bottom: 18px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+        }
+
+        .faq-item h2 {
+            font-size: 1.25rem;
+            margin-top: 0;
+            margin-bottom: 12px;
+            color: #24292f;
+        }
+
+        .faq-item p {
+            color: #57606a;
+            line-height: 1.6;
+            margin-top: 0;
+            margin-bottom: 12px;
+        }
+
+        .faq-item p:last-child {
+            margin-bottom: 0;
+        }
+
+        code {
+            font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+            background-color: rgba(175, 184, 193, 0.2);
+            padding: 2px 6px;
+            border-radius: 6px;
+            font-size: 0.88em;
+        }
+
+        footer {
+            margin-top: 60px;
+            padding: 24px;
+            border-top: 1px solid #d0d7de;
+            color: #57606a;
+            font-size: 0.9rem;
+            text-align: center;
+            background-color: #ffffff;
+        }
+
+        footer p {
+            margin: 0;
+            color: #57606a;
+            font-size: 0.9rem;
+        }
+
+        footer a {
+            color: #0969da;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="../index.html" class="nav-brand">
+                <span>🚀</span>
+                <span>Good First Issue</span>
+            </a>
+            <div class="nav-links">
+                <a href="../index.html" class="nav-link">Showcase</a>
+                <a href="guide.html" class="nav-link">Git Guide</a>
+                <a href="faq.html" class="nav-link active">FAQ</a>
+                <a href="resources.html" class="nav-link">Resources</a>
+            </div>
+            <a href="https://github.com/jaanque/good-first-issue" target="_blank" rel="noopener noreferrer"
+                class="nav-github-link" aria-label="GitHub Repository">
+                <svg viewBox="0 0 16 16" width="16" height="16" fill="currentColor" aria-hidden="true">
+                    <path
+                        d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8Z">
+                    </path>
+                </svg>
+                <span>GitHub</span>
+            </a>
+        </div>
+    </nav>
+
+    <div class="main-content">
+        <h1>Frequently Asked Questions ❓</h1>
+        <p class="subtitle">Quick clarity on the most common questions, terminology, and troubleshooting steps.</p>
+
+        <div class="faq-item">
+            <h2>What is the difference between Fork and Clone?</h2>
+            <p>A <strong>Fork</strong> happens on GitHub's servers: it creates a personal copy of another user's
+                repository under your GitHub profile. A <strong>Clone</strong> happens locally: it downloads the files
+                from GitHub to your computer so you can open and edit them.</p>
+        </div>
+
+        <div class="faq-item">
+            <h2>I made a typo in my card after opening the Pull Request. Do I need to open a new PR?</h2>
+            <p>No! Any new commit you make and push to the same branch on your fork will automatically update your
+                existing Pull Request. Just edit the file, commit your change, and run <code>git push</code>.</p>
+        </div>
+
+        <div class="faq-item">
+            <h2>Why is my card not visible on the showcase yet?</h2>
+            <p>Your card appears after a project maintainer reviews and merges your Pull Request into the
+                <code>main</code> branch. Once merged, GitHub Actions will compile your card automatically within 1 to 2
+                minutes.</p>
+        </div>
+
+        <div class="faq-item">
+            <h2>What is a Pull Request?</h2>
+            <p>A Pull Request (PR) is a formal request asking the repository owner to review the changes you made in your
+                branch and "pull" (merge) them into their project. It is the core collaboration mechanism in Open Source.
+            </p>
+        </div>
+
+        <div class="faq-item">
+            <h2>Can I translate the guide into my native language?</h2>
+            <p>Yes, absolutely! We love multilingual contributions. You can add a new translation file in
+                <code>assets/lang/README-&lt;language-code&gt;.md</code> and submit it via Pull Request.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>Made with 💖 for beginners • Created by <a href="https://github.com/jaanque" target="_blank"
+                rel="noopener noreferrer">@jaanque</a></p>
+    </footer>
+
+</body>
+
+</html>
+
