@@ -1,60 +1,191 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>First Contribution</title>
+    <title>Good First Issue - Open Source Showcase</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚀</text></svg>">
+    <meta name="description" content="A friendly beginner showcase of developers making their very first Open Source contribution.">
+    <meta property="og:title" content="Good First Issue - Open Source Showcase">
+    <meta property="og:description" content="Celebrate developers making their very first Open Source contribution. Add your card!">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://jaanque.github.io/good-first-issue/">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Good First Issue - Open Source Showcase">
+    <meta name="twitter:description" content="Celebrate developers making their very first Open Source contribution. Add your card!">
     <style>
-        body { 
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
-            text-align: center; 
-            background: #f6f8fa; 
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            text-align: center;
+            background: #f6f8fa;
             color: #24292f;
-            padding: 40px 20px; 
+            padding: 40px 20px;
             margin: 0;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            box-sizing: border-box;
         }
+
+        .main-content {
+            flex: 1;
+        }
+
         h1 {
             font-size: 2.5rem;
             margin-bottom: 10px;
         }
+
         p {
             color: #57606a;
             font-size: 1.1rem;
-            margin-bottom: 30px;
+            margin-bottom: 24px;
         }
+
+        .action-buttons {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 12px;
+            margin: 0 auto 16px auto;
+            flex-wrap: wrap;
+        }
+
+        .github-btn {
+            display: inline-flex;
+            align-items: center;
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: 600;
+            line-height: 20px;
+            color: #24292f;
+            background-color: #f6f8fa;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+            box-shadow: 0 1px 0 rgba(31, 35, 40, 0.04);
+            transition: 0.2s cubic-bezier(0.3, 0, 0.5, 1);
+            user-select: none;
+            overflow: hidden;
+            height: 28px;
+            box-sizing: border-box;
+        }
+
+        .github-btn:hover {
+            background-color: #f3f4f6;
+            border-color: #babbbe;
+        }
+
+        .github-btn-main {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 3px 10px;
+        }
+
+        .github-btn-main svg {
+            fill: #57606a;
+            display: block;
+        }
+
+        .github-btn:hover .github-btn-main svg {
+            fill: #24292f;
+        }
+
+        .github-btn-count {
+            display: inline-flex;
+            align-items: center;
+            padding: 3px 10px;
+            background-color: #ffffff;
+            color: #24292f;
+            border-left: 1px solid #d0d7de;
+            font-weight: 600;
+            height: 100%;
+        }
+
+        .github-btn:hover .github-btn-count {
+            color: #0969da;
+        }
+
+        .cta-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: 600;
+            line-height: 20px;
+            color: #ffffff;
+            background-color: #2da44e;
+            border: 1px solid rgba(27, 31, 36, 0.15);
+            border-radius: 6px;
+            box-shadow: 0 1px 0 rgba(27, 31, 36, 0.1);
+            padding: 3px 12px;
+            transition: 0.2s cubic-bezier(0.3, 0, 0.5, 1);
+            user-select: none;
+            height: 28px;
+            box-sizing: border-box;
+        }
+
+        .cta-btn:hover {
+            background-color: #2c974b;
+        }
+
+        .cta-btn svg {
+            fill: #ffffff;
+            display: block;
+        }
+
+        .contributor-count-badge {
+            display: inline-block;
+            background-color: #ffffff;
+            color: #57606a;
+            font-size: 0.95rem;
+            font-weight: 600;
+            padding: 6px 16px;
+            border-radius: 6px;
+            border: 1px solid #d0d7de;
+            margin-bottom: 24px;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+        }
+
         .search-container {
             max-width: 420px;
             margin: 0 auto 36px auto;
         }
+
         #search-input {
             width: 100%;
             box-sizing: border-box;
             padding: 10px 16px;
             font-size: 1rem;
             border: 1px solid #d0d7de;
-            border-radius: 8px;
+            border-radius: 6px;
             outline: none;
             background: #ffffff;
             color: #24292f;
             font-family: inherit;
         }
+
         #search-input:focus {
             border-color: #0969da;
             box-shadow: 0 0 0 3px rgba(9, 105, 218, 0.2);
         }
-        #cards-container { 
-            display: flex; 
-            flex-wrap: wrap; 
-            justify-content: center; 
-            gap: 20px; 
-            max-width: 1100px; 
+
+        #cards-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            max-width: 1100px;
             margin: 0 auto;
         }
+
         .card {
-            background: white; 
-            padding: 16px 20px; 
-            border-radius: 10px; 
-            box-shadow: 0 1px 3px rgba(0,0,0,0.08); 
+            background: white;
+            padding: 16px 20px;
+            border-radius: 6px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
             border: 1px solid #d0d7de;
             width: 280px;
             box-sizing: border-box;
@@ -64,20 +195,23 @@
             gap: 16px;
             text-align: left;
         }
-        .card img { 
-            width: 60px; 
-            height: 60px; 
-            border-radius: 50%; 
-            object-fit: cover; 
+
+        .card img {
+            width: 60px;
+            height: 60px;
+            border-radius: 6px;
+            object-fit: cover;
             border: 2px solid #e1e4e8;
             flex-shrink: 0;
             margin: 0;
         }
+
         .card-info {
             display: flex;
             flex-direction: column;
             overflow: hidden;
         }
+
         .card-name {
             font-size: 1.05rem;
             font-weight: 600;
@@ -87,41 +221,98 @@
             overflow: hidden;
             text-overflow: ellipsis;
         }
-        .card-link { 
-            text-decoration: none; 
-            color: #0969da; 
-            font-weight: 500; 
+
+        .card-link {
+            text-decoration: none;
+            color: #0969da;
+            font-weight: 500;
             font-size: 0.9rem;
             white-space: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
         }
+
         .card-link:hover {
             text-decoration: underline;
         }
+
         .no-results {
             color: #57606a;
             font-size: 1rem;
             margin-top: 20px;
         }
+
+        footer {
+            margin-top: 60px;
+            padding-top: 24px;
+            border-top: 1px solid #d0d7de;
+            color: #57606a;
+            font-size: 0.9rem;
+        }
+
+        footer p {
+            margin: 0;
+            color: #57606a;
+            font-size: 0.9rem;
+        }
+
+        footer a {
+            color: #0969da;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
+
 <body>
 
-    <h1>Welcome to Open Source! 🚀</h1>
-    <p>These awesome developers have successfully made their first contribution.</p>
-    
-    <div class="search-container">
-        <input 
-            type="text" 
-            id="search-input" 
-            placeholder="Search contributors by name or username..." 
-            autocomplete="off"
-            aria-label="Search contributors"
-        >
+    <div class="main-content">
+        <h1>Welcome to Open Source! 🚀</h1>
+        <p>These awesome developers have successfully made their first contribution.</p>
+
+        <div class="action-buttons">
+            <a href="https://github.com/jaanque/good-first-issue" target="_blank" rel="noopener noreferrer"
+                class="github-btn" aria-label="Star jaanque/good-first-issue on GitHub">
+                <span class="github-btn-main">
+                    <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
+                        <path
+                            d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z">
+                        </path>
+                    </svg>
+                    Star
+                </span>
+                <span class="github-btn-count" id="star-count">1</span>
+            </a>
+
+            <a href="https://github.com/jaanque/good-first-issue#readme" target="_blank" rel="noopener noreferrer"
+                class="cta-btn" aria-label="Add your card on GitHub">
+                <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
+                    <path
+                        d="M7.75 2a.75.75 0 0 1 .75.75V7h4.25a.75.75 0 0 1 0 1.5H8.5v4.25a.75.75 0 0 1-1.5 0V8.5H2.75a.75.75 0 0 1 0-1.5H7V2.75A.75.75 0 0 1 7.75 2Z">
+                    </path>
+                </svg>
+                Add your card
+            </a>
+        </div>
+
+        <div class="contributor-count-badge" id="contributor-total">🎉 1 contributor</div>
+
+        <div class="search-container">
+            <input type="text" id="search-input" placeholder="Search contributors by name or username..." autocomplete="off"
+                aria-label="Search contributors">
+        </div>
+
+        <div id="cards-container"></div>
     </div>
 
-    <div id="cards-container"></div>
+    <footer>
+        <p>Made with 💖 for beginners • Created by <a href="https://github.com/jaanque" target="_blank"
+                rel="noopener noreferrer">@jaanque</a></p>
+    </footer>
 
     <script>
         let contributors = [];
@@ -154,7 +345,7 @@
                 const img = document.createElement('img');
                 img.src = isSafeUrl(user.img) ? user.img : defaultAvatar;
                 img.alt = `${user.name || 'Contributor'}'s profile picture`;
-                img.onerror = function() {
+                img.onerror = function () {
                     this.src = defaultAvatar;
                 };
 
@@ -195,12 +386,32 @@
             })
             .then(data => {
                 contributors = Array.isArray(data) ? data : [];
+                const totalCount = contributors.length;
+                const totalElem = document.getElementById('contributor-total');
+                if (totalElem) {
+                    totalElem.textContent = `🎉 ${totalCount} ${totalCount === 1 ? 'contributor' : 'contributors'}`;
+                }
                 renderCards(contributors);
             })
             .catch(error => {
                 console.error('Error loading contributors:', error);
                 document.getElementById('cards-container').innerHTML = '<p>Loading contributors... (If this is a new repository, wait for the first Pull Request to be merged!)</p>';
             });
+
+        fetch('https://api.github.com/repos/jaanque/good-first-issue')
+            .then(response => {
+                if (!response.ok) return null;
+                return response.json();
+            })
+            .then(data => {
+                if (data && typeof data.stargazers_count === 'number') {
+                    const counter = document.getElementById('star-count');
+                    if (counter) {
+                        counter.textContent = data.stargazers_count.toLocaleString();
+                    }
+                }
+            })
+            .catch(() => { });
 
         const searchInput = document.getElementById('search-input');
         searchInput.addEventListener('input', (e) => {
@@ -214,4 +425,5 @@
         });
     </script>
 </body>
+
 </html>
