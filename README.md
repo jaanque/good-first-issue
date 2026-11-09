@@ -4,10 +4,77 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/jaanque/good-first-issue)](https://github.com/jaanque/good-first-issue/stargazers)
+![GitHub Repo stars](https://img.shields.io/github/stars/jaanque/good-first-issue)
 [![GitHub last commit](https://img.shields.io/github/last-commit/jaanque/good-first-issue)](https://github.com/jaanque/good-first-issue/commits/main)
 
 **Other languages? hell yeah.**
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <a href="assets/lang/README-en.md">
+        <img src="https://flagcdn.com/32x24/gb.png" width="32" height="24" alt="English" /><br />
+        <sub><b>English</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="assets/lang/README-es.md">
+        <img src="https://flagcdn.com/32x24/es.png" width="32" height="24" alt="Español" /><br />
+        <sub><b>Español</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="assets/lang/README-fr.md">
+        <img src="https://flagcdn.com/32x24/fr.png" width="32" height="24" alt="Français" /><br />
+        <sub><b>Français</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="assets/lang/README-de.md">
+        <img src="https://flagcdn.com/32x24/de.png" width="32" height="24" alt="Deutsch" /><br />
+        <sub><b>Deutsch</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="assets/lang/README-it.md">
+        <img src="https://flagcdn.com/32x24/it.png" width="32" height="24" alt="Italiano" /><br />
+        <sub><b>Italiano</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <a href="assets/lang/README-pt.md">
+        <img src="https://flagcdn.com/32x24/pt.png" width="32" height="24" alt="Português" /><br />
+        <sub><b>Português</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="assets/lang/README-ru.md">
+        <img src="https://flagcdn.com/32x24/ru.png" width="32" height="24" alt="Русский" /><br />
+        <sub><b>Русский</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="assets/lang/README-zh.md">
+        <img src="https://flagcdn.com/32x24/cn.png" width="32" height="24" alt="中文" /><br />
+        <sub><b>中文</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="assets/lang/README-ja.md">
+        <img src="https://flagcdn.com/32x24/jp.png" width="32" height="24" alt="日本語" /><br />
+        <sub><b>日本語</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="assets/lang/README-ko.md">
+        <img src="https://flagcdn.com/32x24/kr.png" width="32" height="24" alt="한국어" /><br />
+        <sub><b>한국어</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 Is this your first time using Git and GitHub? **You're in the right place!**
 
