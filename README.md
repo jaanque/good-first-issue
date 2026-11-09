@@ -121,15 +121,16 @@ A **fork** is your own copy of this repository under your GitHub account. It let
 2. On the **Create a new fork** page, leave the repository name as it is and click **Create fork**.
 
 3. After a few seconds, GitHub will redirect you to your newly created copy at:
+
    `https://github.com/<your-username>/good-first-issue`
 
 🎉 **Awesome!** You now have your own working copy of the project.
 
 ## 2. Clone the repository
 
-Now you need to download a copy of your forked repository to your computer so you can edit the files locally.
+Now you need to download your forked repository to your computer so you can edit the files locally.
 
-1. On **your forked repository page** on GitHub, click the green **<> Code** button.
+1. On **your forked repository page** on GitHub, click the green "**<> Code**" button.
 2. In the dropdown menu, make sure the **HTTPS** tab is selected, and click the copy icon to copy your repository URL:
 
    <br/>
