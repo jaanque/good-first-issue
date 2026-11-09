@@ -69,6 +69,70 @@
         <sub><b>한국어</b></sub>
       </a>
     </td>
+    <td align="center" width="90">
+      <a href="README-ca.md">
+        <img src="https://flagcdn.com/32x24/ad.png" width="32" height="24" alt="Català" /><br />
+        <sub><b>Català</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <a href="README-nl.md">
+        <img src="https://flagcdn.com/32x24/nl.png" width="32" height="24" alt="Nederlands" /><br />
+        <sub><b>Nederlands</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="README-pl.md">
+        <img src="https://flagcdn.com/32x24/pl.png" width="32" height="24" alt="Polski" /><br />
+        <sub><b>Polski</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="README-tr.md">
+        <img src="https://flagcdn.com/32x24/tr.png" width="32" height="24" alt="Türkçe" /><br />
+        <sub><b>Türkçe</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="README-uk.md">
+        <img src="https://flagcdn.com/32x24/ua.png" width="32" height="24" alt="Українська" /><br />
+        <sub><b>Українська</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="README-vi.md">
+        <img src="https://flagcdn.com/32x24/vn.png" width="32" height="24" alt="Tiếng Việt" /><br />
+        <sub><b>Tiếng Việt</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <a href="README-id.md">
+        <img src="https://flagcdn.com/32x24/id.png" width="32" height="24" alt="Bahasa Indonesia" /><br />
+        <sub><b>Bahasa Indonesia</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="README-hi.md">
+        <img src="https://flagcdn.com/32x24/in.png" width="32" height="24" alt="हिन्दी" /><br />
+        <sub><b>हिन्दी</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="README-bn.md">
+        <img src="https://flagcdn.com/32x24/bd.png" width="32" height="24" alt="বাংলা" /><br />
+        <sub><b>বাংলা</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="README-ar.md">
+        <img src="https://flagcdn.com/32x24/sa.png" width="32" height="24" alt="العربية" /><br />
+        <sub><b>العربية</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
