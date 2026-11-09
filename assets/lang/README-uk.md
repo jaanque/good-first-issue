@@ -9,132 +9,193 @@
 
 ##
 
-**Інші мови? Авжеж!**
+<details>
+  <summary><b>Інші мови? Авжеж!</b></summary>
+  <br/>
 
 <table>
   <tr>
-    <td align="center" width="90">
+    <td align="center" width="55">
+      <a href="README-zh.md">
+        <img src="https://flagcdn.com/32x24/cn.png" width="20" height="15" alt="中文" /><br />
+        <sub><b>中文</b></sub>
+      </a>
+    </td>
+    <td align="center" width="55">
+      <a href="README-hi.md">
+        <img src="https://flagcdn.com/32x24/in.png" width="20" height="15" alt="हिन्दी" /><br />
+        <sub><b>हिन्दी</b></sub>
+      </a>
+    </td>
+    <td align="center" width="55">
       <a href="README-es.md">
-        <img src="https://flagcdn.com/32x24/es.png" width="32" height="24" alt="Español" /><br />
+        <img src="https://flagcdn.com/32x24/es.png" width="20" height="15" alt="Español" /><br />
         <sub><b>Español</b></sub>
       </a>
     </td>
-    <td align="center" width="90">
+    <td align="center" width="55">
+      <a href="README-ar.md">
+        <img src="https://flagcdn.com/32x24/sa.png" width="20" height="15" alt="العربية" /><br />
+        <sub><b>العربية</b></sub>
+      </a>
+    </td>
+    <td align="center" width="55">
+      <a href="README-bn.md">
+        <img src="https://flagcdn.com/32x24/bd.png" width="20" height="15" alt="বাংলা" /><br />
+        <sub><b>বাংলা</b></sub>
+      </a>
+    </td>
+    <td align="center" width="55">
       <a href="README-fr.md">
-        <img src="https://flagcdn.com/32x24/fr.png" width="32" height="24" alt="Français" /><br />
+        <img src="https://flagcdn.com/32x24/fr.png" width="20" height="15" alt="Français" /><br />
         <sub><b>Français</b></sub>
       </a>
     </td>
-    <td align="center" width="90">
-      <a href="README-de.md">
-        <img src="https://flagcdn.com/32x24/de.png" width="32" height="24" alt="Deutsch" /><br />
-        <sub><b>Deutsch</b></sub>
+    <td align="center" width="55">
+      <a href="README-ru.md">
+        <img src="https://flagcdn.com/32x24/ru.png" width="20" height="15" alt="Русский" /><br />
+        <sub><b>Русский</b></sub>
       </a>
     </td>
-    <td align="center" width="90">
-      <a href="README-it.md">
-        <img src="https://flagcdn.com/32x24/it.png" width="32" height="24" alt="Italiano" /><br />
-        <sub><b>Italiano</b></sub>
-      </a>
-    </td>
-    <td align="center" width="90">
+    <td align="center" width="55">
       <a href="README-pt.md">
-        <img src="https://flagcdn.com/32x24/pt.png" width="32" height="24" alt="Português" /><br />
+        <img src="https://flagcdn.com/32x24/pt.png" width="20" height="15" alt="Português" /><br />
         <sub><b>Português</b></sub>
+      </a>
+    </td>
+    <td align="center" width="55">
+      <a href="README-ur.md">
+        <img src="https://flagcdn.com/32x24/pk.png" width="20" height="15" alt="اردو" /><br />
+        <sub><b>اردو</b></sub>
+      </a>
+    </td>
+    <td align="center" width="55">
+      <a href="README-id.md">
+        <img src="https://flagcdn.com/32x24/id.png" width="20" height="15" alt="Bahasa Indonesia" /><br />
+        <sub><b>Bahasa Indonesia</b></sub>
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="90">
-      <a href="README-ru.md">
-        <img src="https://flagcdn.com/32x24/ru.png" width="32" height="24" alt="Русский" /><br />
-        <sub><b>Русский</b></sub>
+    <td align="center" width="55">
+      <a href="README-de.md">
+        <img src="https://flagcdn.com/32x24/de.png" width="20" height="15" alt="Deutsch" /><br />
+        <sub><b>Deutsch</b></sub>
       </a>
     </td>
-    <td align="center" width="90">
-      <a href="README-zh.md">
-        <img src="https://flagcdn.com/32x24/cn.png" width="32" height="24" alt="中文" /><br />
-        <sub><b>中文</b></sub>
-      </a>
-    </td>
-    <td align="center" width="90">
+    <td align="center" width="55">
       <a href="README-ja.md">
-        <img src="https://flagcdn.com/32x24/jp.png" width="32" height="24" alt="日本語" /><br />
+        <img src="https://flagcdn.com/32x24/jp.png" width="20" height="15" alt="日本語" /><br />
         <sub><b>日本語</b></sub>
       </a>
     </td>
-    <td align="center" width="90">
+    <td align="center" width="55">
+      <a href="README-tr.md">
+        <img src="https://flagcdn.com/32x24/tr.png" width="20" height="15" alt="Türkçe" /><br />
+        <sub><b>Türkçe</b></sub>
+      </a>
+    </td>
+    <td align="center" width="55">
+      <a href="README-vi.md">
+        <img src="https://flagcdn.com/32x24/vn.png" width="20" height="15" alt="Tiếng Việt" /><br />
+        <sub><b>Tiếng Việt</b></sub>
+      </a>
+    </td>
+    <td align="center" width="55">
+      <a href="README-tl.md">
+        <img src="https://flagcdn.com/32x24/ph.png" width="20" height="15" alt="Tagalog" /><br />
+        <sub><b>Tagalog</b></sub>
+      </a>
+    </td>
+    <td align="center" width="55">
       <a href="README-ko.md">
-        <img src="https://flagcdn.com/32x24/kr.png" width="32" height="24" alt="한국어" /><br />
+        <img src="https://flagcdn.com/32x24/kr.png" width="20" height="15" alt="한국어" /><br />
         <sub><b>한국어</b></sub>
       </a>
     </td>
-    <td align="center" width="90">
+    <td align="center" width="55">
+      <a href="README-fa.md">
+        <img src="https://flagcdn.com/32x24/ir.png" width="20" height="15" alt="فارسی" /><br />
+        <sub><b>فارسی</b></sub>
+      </a>
+    </td>
+    <td align="center" width="55">
+      <a href="README-th.md">
+        <img src="https://flagcdn.com/32x24/th.png" width="20" height="15" alt="ไทย" /><br />
+        <sub><b>ไทย</b></sub>
+      </a>
+    </td>
+    <td align="center" width="55">
+      <a href="README-it.md">
+        <img src="https://flagcdn.com/32x24/it.png" width="20" height="15" alt="Italiano" /><br />
+        <sub><b>Italiano</b></sub>
+      </a>
+    </td>
+    <td align="center" width="55">
+      <a href="README-pl.md">
+        <img src="https://flagcdn.com/32x24/pl.png" width="20" height="15" alt="Polski" /><br />
+        <sub><b>Polski</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="55">
+      <a href="README-uk.md">
+        <img src="https://flagcdn.com/32x24/ua.png" width="20" height="15" alt="Українська" /><br />
+        <sub><b>Українська</b></sub>
+      </a>
+    </td>
+    <td align="center" width="55">
+      <a href="README-nl.md">
+        <img src="https://flagcdn.com/32x24/nl.png" width="20" height="15" alt="Nederlands" /><br />
+        <sub><b>Nederlands</b></sub>
+      </a>
+    </td>
+    <td align="center" width="55">
+      <a href="README-ro.md">
+        <img src="https://flagcdn.com/32x24/ro.png" width="20" height="15" alt="Română" /><br />
+        <sub><b>Română</b></sub>
+      </a>
+    </td>
+    <td align="center" width="55">
+      <a href="README-el.md">
+        <img src="https://flagcdn.com/32x24/gr.png" width="20" height="15" alt="Ελληνικά" /><br />
+        <sub><b>Ελληνικά</b></sub>
+      </a>
+    </td>
+    <td align="center" width="55">
+      <a href="README-cs.md">
+        <img src="https://flagcdn.com/32x24/cz.png" width="20" height="15" alt="Čeština" /><br />
+        <sub><b>Čeština</b></sub>
+      </a>
+    </td>
+    <td align="center" width="55">
+      <a href="README-hu.md">
+        <img src="https://flagcdn.com/32x24/hu.png" width="20" height="15" alt="Magyar" /><br />
+        <sub><b>Magyar</b></sub>
+      </a>
+    </td>
+    <td align="center" width="55">
+      <a href="README-sv.md">
+        <img src="https://flagcdn.com/32x24/se.png" width="20" height="15" alt="Svenska" /><br />
+        <sub><b>Svenska</b></sub>
+      </a>
+    </td>
+    <td align="center" width="55">
+      <a href="README-he.md">
+        <img src="https://flagcdn.com/32x24/il.png" width="20" height="15" alt="עברית" /><br />
+        <sub><b>עברית</b></sub>
+      </a>
+    </td>
+    <td align="center" width="55">
       <a href="README-ca.md">
-        <img src="https://flagcdn.com/32x24/ad.png" width="32" height="24" alt="Català" /><br />
+        <img src="https://flagcdn.com/32x24/ad.png" width="20" height="15" alt="Català" /><br />
         <sub><b>Català</b></sub>
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="90">
-      <a href="README-nl.md">
-        <img src="https://flagcdn.com/32x24/nl.png" width="32" height="24" alt="Nederlands" /><br />
-        <sub><b>Nederlands</b></sub>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="README-pl.md">
-        <img src="https://flagcdn.com/32x24/pl.png" width="32" height="24" alt="Polski" /><br />
-        <sub><b>Polski</b></sub>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="README-tr.md">
-        <img src="https://flagcdn.com/32x24/tr.png" width="32" height="24" alt="Türkçe" /><br />
-        <sub><b>Türkçe</b></sub>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="README-uk.md">
-        <img src="https://flagcdn.com/32x24/ua.png" width="32" height="24" alt="Українська" /><br />
-        <sub><b>Українська</b></sub>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="README-vi.md">
-        <img src="https://flagcdn.com/32x24/vn.png" width="32" height="24" alt="Tiếng Việt" /><br />
-        <sub><b>Tiếng Việt</b></sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <a href="README-id.md">
-        <img src="https://flagcdn.com/32x24/id.png" width="32" height="24" alt="Bahasa Indonesia" /><br />
-        <sub><b>Bahasa Indonesia</b></sub>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="README-hi.md">
-        <img src="https://flagcdn.com/32x24/in.png" width="32" height="24" alt="हिन्दी" /><br />
-        <sub><b>हिन्दी</b></sub>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="README-bn.md">
-        <img src="https://flagcdn.com/32x24/bd.png" width="32" height="24" alt="বাংলা" /><br />
-        <sub><b>বাংলা</b></sub>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="README-ar.md">
-        <img src="https://flagcdn.com/32x24/sa.png" width="32" height="24" alt="العربية" /><br />
-        <sub><b>العربية</b></sub>
-      </a>
-    </td>
-  </tr>
 </table>
+</details>
 
 ##
 
