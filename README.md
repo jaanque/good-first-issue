@@ -279,3 +279,4 @@ Now that your branch is uploaded to GitHub, it's time to submit your contributio
 🎉 **Congratulations!** You've just submitted your first Open Source contribution! Once merged, your card will automatically be added to the contributors showcase.
 
 </div>
+
