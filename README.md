@@ -25,6 +25,8 @@ Github Account if you don't have one: [signup](https://github.com/signup)
 
 Git: [download](https://git-scm.com/downloads)
 
+VSCode: [download](https://code.visualstudio.com/download) (or your favorite editor)
+
 ## 1. Fork the repository
 
 A **fork** is your own copy of this repository under your GitHub account. It lets you make changes safely without affecting the original project!
@@ -75,14 +77,112 @@ Before making any changes, it is best practice to create a new branch. Working o
    git switch -c <your-branch-name>
    ```
 
-   *(Give it a descriptive name, such as `add-your-name` or `the-branch-name-you-want`)*
+   _(Give it a descriptive name, such as `add-your-name` or `the-branch-name-you-want`)_
 
 2. Git will confirm that you have created and switched to your new branch:
 
    ![Create new branch](assets/src/image3.png)
 
-   > 💡 *Tip: If you are using an older version of Git, you can also use `git checkout -b <your-branch-name>`.*
+   > 💡 _Tip: If you are using an older version of Git, you can also use `git checkout -b <your-branch-name>`._
 
 🌿 **You're all set!** Any edits you make from now on will stay on your new branch.
+
+## 4. Open the project in your code editor
+
+Now that you have the project locally and your branch is ready, it's time to open it in your code editor. In this guide, we'll use **Visual Studio Code (VS Code)**, but you can use any editor you prefer.
+
+If you have VS Code configured in your command line, simply run the following command from inside the `good-first-issue` folder:
+
+```bash
+code .
+```
+
+Alternatively, you can open it manually:
+1. Launch **Visual Studio Code**.
+2. Go to **File** > **Open Folder...** (or press `Ctrl + K, Ctrl + O` on Windows / `Cmd + O` on macOS).
+3. Select the `good-first-issue` folder.
+
+> 💡 *Don't have VS Code installed yet? You can download it for free from [code.visualstudio.com](https://code.visualstudio.com/).*
+
+💻 **All set!** You now have the project open in your editor and you're ready to start editing.
+
+## 5. Add your contributor card
+
+Now comes the fun part: adding your own card to the project!
+
+Inside the `assets/cards/` directory, create a new file named with your GitHub username followed by `.json`:
+
+📄 `assets/cards/<your-username>.json` *(e.g. `octocat.json`)*
+
+### Structure
+
+Your file must follow the exact same structure as `jan.json`:
+
+```json
+{
+  "name": "<your-username>",
+  "img": "<your-avatar-url>",
+  "github": "https://github.com/<your-username>"
+}
+```
+
+### How to get your profile image URL (`img`):
+1. Open your GitHub profile page in your browser (`https://github.com/<your-username>`).
+2. Right-click on your profile picture and select **"Copy image address"** (or **"Copiar dirección de imagen"**).
+3. Paste that copied URL into the `"img"` field.
+
+> 💡 *Quick trick: You can also use `https://github.com/<your-username>.png` as your image URL!*
+
+### Example
+
+If your username is `octocat`, you would create `assets/cards/octocat.json` with the following content:
+
+```json
+{
+  "name": "octocat",
+  "img": "https://github.com/octocat.png",
+  "github": "https://github.com/octocat"
+}
+```
+
+Save the file when you're done. Once created, you are ready for the next step!
+
+## 6. Commit and push your changes
+
+Before creating the Pull Request, you need to save your changes and upload your branch to GitHub.
+
+1. Open your terminal inside the project directory and stage your new file:
+
+   ```bash
+   git add assets/cards/<your-username>.json
+   ```
+
+2. Commit the changes with a short, descriptive message:
+
+   ```bash
+   git commit -m "feat: add <your-username> card"
+   ```
+
+3. Push your branch to your GitHub fork:
+
+   ```bash
+   git push origin <your-branch-name>
+   ```
+
+   > 💡 *If prompted, you can also run `git push -u origin <your-branch-name>`.*
+
+## 7. Create the Pull Request
+
+Now that your branch is uploaded to GitHub, it's time to submit your contribution to the project!
+
+1. Go to your fork page on GitHub (or visit the original repository: [jaanque/good-first-issue](https://github.com/jaanque/good-first-issue)).
+2. You should see a highlighted yellow banner at the top showing your branch with a **"Compare & pull request"** button. Click on it.
+3. Verify that:
+   - **Base repository:** `jaanque/good-first-issue` (branch `main`)
+   - **Head repository:** your fork (your branch)
+4. Add a title (e.g. `Add <your-username> card`) and a short description.
+5. Click the green **Create pull request** button!
+
+🎉 **Congratulations!** You've just submitted your first Open Source contribution! Once merged, your card will automatically be added to the contributors showcase.
 
 </div>
