@@ -14,12 +14,6 @@
 <table>
   <tr>
     <td align="center" width="90">
-      <a href="assets/lang/README-en.md">
-        <img src="https://flagcdn.com/32x24/gb.png" width="32" height="24" alt="English" /><br />
-        <sub><b>English</b></sub>
-      </a>
-    </td>
-    <td align="center" width="90">
       <a href="assets/lang/README-es.md">
         <img src="https://flagcdn.com/32x24/es.png" width="32" height="24" alt="Español" /><br />
         <sub><b>Español</b></sub>
@@ -43,14 +37,14 @@
         <sub><b>Italiano</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <a href="assets/lang/README-pt.md">
         <img src="https://flagcdn.com/32x24/pt.png" width="32" height="24" alt="Português" /><br />
         <sub><b>Português</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <a href="assets/lang/README-ru.md">
         <img src="https://flagcdn.com/32x24/ru.png" width="32" height="24" alt="Русский" /><br />
