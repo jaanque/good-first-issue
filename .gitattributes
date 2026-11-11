@@ -1,5 +1,5 @@
-levels/js/**/*.js linguist-detectable=true
-levels/python/**/*.py linguist-detectable=true
+challenges/js/**/*.js linguist-detectable=true
+challenges/python/**/*.py linguist-detectable=true
 
 assets/pages/*.html linguist-detectable=false
 index.html linguist-detectable=false

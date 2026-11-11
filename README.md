@@ -195,9 +195,9 @@ git push origin <your-branch-name>
 
 ## 🎯 Level Up Your Coding Skills!
 
-Already submitted your contributor card? The next level is **[levels/](levels/)**! Take your skills further with progressive programming challenges:
+Already submitted your contributor card? The next level is **[challenges/](challenges/)**! Take your skills further with progressive programming challenges:
 
-👉 **[Explore Coding Levels (`levels/`)](levels/)**
+👉 **[Explore Coding Challenges (`challenges/`)](challenges/)**
 
 ---
 
