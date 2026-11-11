@@ -1,36 +1,35 @@
-"""Level 4: Text Analysis & Word Frequency.
+"""Level 4: Arithmetic Operations & Basic Calculator.
 
 Contributor: @jaanque (Jan)
 """
 
-import re
-from collections import Counter
 
-
-def analyze_text(text: str) -> dict:
-    """Analyze text and return frequency and word count metrics."""
-    words = re.findall(r"\b\w+\b", text.lower())
-    if not words:
-        return {
-            "total_words": 0,
-            "unique_words": 0,
-            "word_frequencies": {},
-            "most_common": None,
-        }
-
-    counts = Counter(words)
-    most_common_word, _ = counts.most_common(1)[0]
-
-    return {
-        "total_words": len(words),
-        "unique_words": len(counts),
-        "word_frequencies": dict(counts),
-        "most_common": most_common_word,
-    }
+def calculate(a: float, b: float, operation: str) -> float | str:
+    """Perform a basic arithmetic operation between two numbers."""
+    if operation == "+":
+        return a + b
+    elif operation == "-":
+        return a - b
+    elif operation == "*":
+        return a * b
+    elif operation == "/":
+        if b == 0:
+            return "Error: Division by zero"
+        return a / b
+    return "Error: Invalid operation"
 
 
 if __name__ == "__main__":
-    sample = "Python is great and Open Source is awesome. Python for everyone!"
-    print("Sample text:\n", sample)
-    print("\nAnalysis:\n", analyze_text(sample))
+    tests = [
+        (10, 5, "+", 15),
+        (20, 8, "-", 12),
+        (6, 7, "*", 42),
+        (15, 3, "/", 5.0),
+        (10, 0, "/", "Error: Division by zero"),
+        (4, 2, "%", "Error: Invalid operation"),
+    ]
 
+    for a, b, op, expected in tests:
+        res = calculate(a, b, op)
+        status = "✅ PASS" if res == expected else "❌ FAIL"
+        print(f"{status} | {a} {op} {b} = {res}")

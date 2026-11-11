@@ -1,65 +1,52 @@
-# 🟢 Level 2: Conditionals & Logic: Palindrome Checker
+# 🟢 Level 2: Variables & String Formatting (f-strings)
 
-¡Bienvenido al Nivel 2! En este reto pondrás en práctica el manejo de condicionales, cadenas de texto y limpieza de caracteres implementando un comprobador de palíndromos.
-
-Welcome to Level 2! In this challenge you will practice conditionals, string slicing/manipulation, and data cleaning by building a palindrome checker.
+Welcome to Level 2! In this challenge you will learn how to declare variables and use Python's formatted strings (f-strings) to combine text and variables cleanly.
 
 ---
 
-## 🎯 Objective / Objetivo
+## 🎯 Objective
 
-Create a file named `<your-username>.py` in this directory containing a function `is_palindrome(text)` that returns `True` if a given text is a palindrome, or `False` otherwise.
-
-Crea un archivo llamado `<tu-nombre-de-usuario>.py` en este directorio con una función `is_palindrome(text)` que devuelva `True` si el texto dado es un palíndromo, o `False` en caso contrario.
-
-> [!NOTE]
-> A palindrome is a word, phrase, or sequence that reads the same backward as forward (e.g. "radar", "level", "A man a plan a canal Panama").
+Create a file named `<your-username>.py` in this directory where you define variables for your profile information and print a formatted summary card.
 
 ---
 
-## 📋 Requirements / Requisitos
+## 📋 Requirements
 
-1. **File Location / Ubicación:**  
+1. **File Location:**  
    `levels/python/level-2/<your-username>.py` *(e.g. `octocat.py`)*
 
-2. **Function Signature / Firma de la función:**
-   ```python
-   def is_palindrome(text: str) -> bool:
-       pass
-   ```
+2. **Variables to define:**
+   - `username: str` - Your GitHub username (e.g. `"octocat"`).
+   - `name: str` - Your full or display name (e.g. `"Mona Lisa Octocat"`).
+   - `favorite_language: str` - Your favorite programming language (e.g. `"Python"`).
+   - `level: int` - An integer representing your current level (`2`).
 
-3. **Behavior / Comportamiento:**
-   - Must be **case-insensitive** (e.g. `"Radar"` should be `True`).
-   - Must **ignore spaces and punctuation** (e.g. `"A man, a plan, a canal: Panama"` should be `True`).
-   - Should return `False` for non-palindromes (e.g. `"python"` -> `False`).
-   - An empty string `""` or single character `"a"` should be considered a valid palindrome (`True`).
-
-4. **Execution Block / Bloque de ejecución:**  
-   Include an `if __name__ == "__main__":` block testing several examples.
+3. **Behavior:**
+   - Use an **f-string** (`f"..."`) to format a sentence that combines all four variables.
+   - Print the formatted message to the console.
 
 ---
 
-## 💡 Example / Ejemplo
+## 💡 Example
 
 ```python
-import re
+username = "octocat"
+name = "Mona Lisa Octocat"
+favorite_language = "Python"
+level = 2
 
+profile = (
+    f"Contributor: {name} (@{username}) | Level: {level} | Favorite Language: {favorite_language}"
+)
 
-def is_palindrome(text: str) -> bool:
-    cleaned = re.sub(r"[^a-zA-Z0-9]", "", text).lower()
-    return cleaned == cleaned[::-1]
-
-
-if __name__ == "__main__":
-    print(is_palindrome("radar"))  # True
-    print(is_palindrome("python"))  # False
+print(profile)
 ```
 
 ---
 
-## 🧪 Testing your solution / Probar tu solución
+## 🧪 Testing your solution
 
-Run your script in your terminal to verify that it executes without errors:
+Run your script in the terminal:
 
 ```bash
 python levels/python/level-2/<your-username>.py
@@ -67,4 +54,3 @@ python levels/python/level-2/<your-username>.py
 
 > [!NOTE]
 > Check [`jan.py`](jan.py) in this directory for a complete working reference example.
-

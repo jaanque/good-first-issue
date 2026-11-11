@@ -1,62 +1,48 @@
-# 🟢 Level 1: Hello World & Personalized Greeting
+# 🟢 Level 1: Print Your Welcome Message
 
-¡Bienvenido al Nivel 1! En este reto aprenderás a estructurar un archivo Python, definir una función con parámetros por defecto y devolver un saludo personalizado.
-
-Welcome to Level 1! In this challenge you will learn how to structure a Python file, define a function with default arguments, and return a personalized greeting.
+Welcome to Level 1! This is the simplest possible starting point. Your goal is to write a Python script that outputs a welcome message to the console using the built-in `print()` function.
 
 ---
 
-## 🎯 Objective / Objetivo
+## 🎯 Objective
 
-Create a file named `<your-username>.py` in this directory containing a function that returns a welcome greeting.
-
-Crea un archivo llamado `<tu-nombre-de-usuario>.py` en este directorio con una función que devuelva un mensaje de bienvenida.
+Create a file named `<your-username>.py` in this directory that prints a friendly greeting to the terminal.
 
 ---
 
-## 📋 Requirements / Requisitos
+## 📋 Requirements
 
-1. **File Location / Ubicación:**  
+1. **File Location:**  
    `levels/python/level-1/<your-username>.py` *(e.g. `octocat.py`)*
 
-2. **Function Signature / Firma de la función:**
-   ```python
-   def greet(name: str = "World") -> str:
-       pass
-   ```
-
-3. **Behavior / Comportamiento:**
-   - If called without arguments (e.g. `greet()`), it should return a greeting message using `"World"`.
-   - If called with a name argument (e.g. `greet("Alice")`), it should include that name in the message.
-   - Mention your GitHub username or a friendly welcome in the message.
-
-4. **Execution Block / Bloque de ejecución:**  
-   Include an `if __name__ == "__main__":` block that prints sample calls to your function.
+2. **Content:**
+   - Use the `print()` function to output a message.
+   - The output must include:
+     - The phrase `"Hello Open Source!"`
+     - Your GitHub username (e.g. `@<your-username>`)
 
 ---
 
-## 💡 Example / Ejemplo
+## 💡 Example
 
 ```python
-def greet(name: str = "World") -> str:
-    return f"Hello, {name}! Welcome to Good First Issue (Python - Level 1)."
-
-
-if __name__ == "__main__":
-    print(greet())
-    print(greet("Alice"))
+print("Hello Open Source! I am @octocat and this is my Level 1 contribution.")
 ```
 
 ---
 
-## 🧪 Testing your solution / Probar tu solución
+## 🧪 Testing your solution
 
-Run your script in your terminal to verify that it executes without errors:
+Run your script in the terminal:
 
 ```bash
 python levels/python/level-1/<your-username>.py
 ```
 
+Expected output:
+```text
+Hello Open Source! I am @octocat and this is my Level 1 contribution.
+```
+
 > [!NOTE]
 > Check [`jan.py`](jan.py) in this directory for a complete working reference example.
-

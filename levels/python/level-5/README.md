@@ -1,82 +1,73 @@
-# 🔴 Level 5: Object-Oriented Programming (Developer Profile)
+# 🟡 Level 5: Conditionals & Logic (FizzBuzz)
 
-¡Bienvenido al Nivel 5! En este reto aplicarás los conceptos fundamentales de Programación Orientada a Objetos (POO) en Python: clases, métodos de instancia, atributos, encapsulamiento y representación de objetos.
-
-Welcome to Level 5! In this challenge you will apply core Object-Oriented Programming (OOP) concepts in Python: classes, instance methods, attributes, and serialization.
+Welcome to Level 5! In this challenge you will tackle one of the most famous programming puzzles: **FizzBuzz**. It tests your understanding of conditionals, loops, and the modulo operator (`%`).
 
 ---
 
-## 🎯 Objective / Objetivo
+## 🎯 Objective
 
-Create a file named `<your-username>.py` in this directory containing a class `DeveloperProfile` that represents a software contributor and manages their profile data.
-
-Crea un archivo llamado `<tu-nombre-de-usuario>.py` en este directorio con una clase `DeveloperProfile` que represente a un colaborador y gestione los datos de su perfil.
+Create a file named `<your-username>.py` in this directory containing a function `fizz_buzz(n)` that returns a list of strings representing the FizzBuzz sequence from 1 up to `n`.
 
 ---
 
-## 📋 Requirements / Requisitos
+## 📋 Requirements
 
-1. **File Location / Ubicación:**  
+1. **File Location:**  
    `levels/python/level-5/<your-username>.py` *(e.g. `octocat.py`)*
 
-2. **Class Definition / Definición de la clase:**
+2. **Function Signature:**
    ```python
-   class DeveloperProfile:
+   def fizz_buzz(n: int) -> list[str]:
+       pass
+   ```
 
-       def __init__(
-           self,
-           username: str,
-           name: str,
-           languages: list[str] | None = None,
-           level: int = 1,
-       ):
-           pass
+3. **Rules:**
+   For every integer `i` from `1` to `n` (inclusive):
+   - If `i` is divisible by both 3 and 5, append `"FizzBuzz"`.
+   - If `i` is divisible by 3 (and not 5), append `"Fizz"`.
+   - If `i` is divisible by 5 (and not 3), append `"Buzz"`.
+   - Otherwise, append the number as a string (e.g. `"1"`, `"2"`, `"4"`).
 
-       def add_language(self, language: str) -> None:
-           pass
-
-       def level_up(self) -> int:
-           pass
-
-       def introduce(self) -> str:
-           pass
-
-       def to_dict(self) -> dict:
-           pass
-```
-
-3. **Behavior / Comportamiento:**
-   - `__init__`: Initializes the instance. `languages` should default to an empty list `[]` if not provided.
-   - `add_language(language)`: Appends `language` to the contributor's languages list (avoiding duplicate entries).
-   - `level_up()`: Increments `self.level` by 1 and returns the new level.
-   - `introduce()`: Returns a friendly presentation string including the contributor's name, username, level, and known languages.
-   - `to_dict()`: Returns a dictionary containing all profile fields (`username`, `name`, `languages`, `level`).
-
-4. **Execution Block / Bloque de ejecución:**  
-   Include an `if __name__ == "__main__":` block creating an instance of your class, leveling up, adding languages, and printing the results.
+4. **Execution Block:**  
+   Include an `if __name__ == "__main__":` block printing `fizz_buzz(15)`.
 
 ---
 
-## 💡 Example / Ejemplo
+## 💡 Example
 
 ```python
-dev = DeveloperProfile("octocat", "Mona Lisa Octocat", ["Python", "Markdown"])
-print(dev.introduce())
-dev.level_up()
-dev.add_language("Git")
-print(dev.to_dict())
+def fizz_buzz(n: int) -> list[str]:
+    result = []
+    for i in range(1, n + 1):
+        if i % 15 == 0:
+            result.append("FizzBuzz")
+        elif i % 3 == 0:
+            result.append("Fizz")
+        elif i % 5 == 0:
+            result.append("Buzz")
+        else:
+            result.append(str(i))
+    return result
+
+
+if __name__ == "__main__":
+    print(fizz_buzz(15))
 ```
 
 ---
 
-## 🧪 Testing your solution / Probar tu solución
+## 🧪 Testing your solution
 
-Run your script in your terminal to verify that it executes without errors:
+Run your script in the terminal:
 
 ```bash
 python levels/python/level-5/<your-username>.py
 ```
 
+Expected output for `n=15`:
+```text
+['1', '2', 'Fizz', '4', 'Buzz', 'Fizz', '7', '8', 'Fizz', 'Buzz', '11', 'Fizz', '13', '14', 'FizzBuzz']
+```
+
 > [!NOTE]
 > Check [`jan.py`](jan.py) in this directory for a complete working reference example.
-
