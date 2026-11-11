@@ -1,123 +1,102 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
-## Our Pledge
+## 💖 Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, caste, color, religion, or sexual
-identity and orientation.
+We as members, contributors, and leaders of **Good First Issue** pledge to make participation in our community a harassment-free, welcoming, and empowering experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+We are dedicated to fostering an open, supportive, diverse, and inclusive environment where beginners can safely take their first steps into Open Source.
 
-## Our Standards
+---
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+## 📋 Table of Contents
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+- [Beginner-Friendly Principles](#-beginner-friendly-principles)
+- [Our Standards](#-our-standards)
+- [Enforcement Responsibilities](#-enforcement-responsibilities)
+- [Scope](#-scope)
+- [Reporting an Incident](#-reporting-an-incident)
+- [Enforcement Ladder](#-enforcement-ladder)
+- [Attribution](#-attribution)
+
+---
+
+## 🌱 Beginner-Friendly Principles
+
+Because this repository is specifically created for beginners, we hold our community to an especially high standard of patience, empathy, and encouragement:
+
+- **No question is "too basic":** Everyone started from zero. Always respond to questions with respect and understanding.
+- **Constructive & kind reviews:** Code reviews must be educational and uplifting. Highlight what was done well before suggesting improvements.
+- **Celebrate first contributions:** Acknowledge the effort and courage it takes to submit a first Pull Request.
+- **Respect others' contributions:** Never overwrite, delete, or vandalize another contributor's card or code.
+
+---
+
+## 🌟 Our Standards
+
+### Positive Behaviors
+
+Examples of behavior that contributes to a positive environment include:
+
+- Demonstrating empathy and kindness toward all community members.
+- Being respectful of differing opinions, skill levels, and viewpoints.
+- Giving and gracefully accepting constructive, actionable feedback.
+- Taking responsibility, apologizing sincerely to those affected by our mistakes, and learning from the experience.
+- Focusing on what is best for the collective community and beginners.
+
+### Unacceptable Behaviors
 
 Examples of unacceptable behavior include:
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+- The use of sexualized language or imagery, and unwelcome sexual attention or advances.
+- Trolling, insulting, mocking inexperience, dismissive or derogatory comments, and personal attacks.
+- Public or private harassment of any kind.
+- Publishing others' private information (such as physical or email addresses) without explicit permission.
+- Maliciously modifying, replacing, or deleting other contributors' files.
+- Any conduct that could reasonably be considered inappropriate or unprofessional.
 
-## Enforcement Responsibilities
+---
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+## 🛡️ Enforcement Responsibilities
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+Community maintainers and leaders are responsible for clarifying and enforcing our standards of acceptable behavior. They will take fair, appropriate, and prompt corrective action in response to any behavior deemed inappropriate, threatening, offensive, or harmful.
 
-## Scope
+Maintainers reserve the right and responsibility to remove, edit, or reject comments, commits, code, pull requests, issues, and other contributions that do not align with this Code of Conduct, communicating reasons for moderation decisions whenever appropriate.
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+---
 
-## Enforcement
+## 🌐 Scope
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-jan@ilerda.com.
-All complaints will be reviewed and investigated promptly and fairly.
+This Code of Conduct applies within all project spaces (issues, pull requests, discussions, code reviews), and also applies when an individual is officially representing the community in public spaces (e.g. using an official email, posting via social accounts, or representing the project at an event).
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+---
 
-## Enforcement Guidelines
+## 📬 Reporting an Incident
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+If you experience or witness abusive, harassing, or unacceptable behavior, please report it promptly to the project lead:
 
-### 1. Correction
+📧 **jan@ilerda.com**
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+> [!NOTE]
+> All reports will be reviewed promptly, treated with confidentiality, and investigated fairly. Project leaders are obligated to respect the privacy and security of the reporter.
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+---
 
-### 2. Warning
+## 🪜 Enforcement Ladder
 
-**Community Impact**: A violation through a single incident or series
-of actions.
+Community leaders follow these enforcement guidelines to determine fair consequences:
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
+| Level | Severity | Action & Consequence |
+| :---: | :--- | :--- |
+| **1. Correction** | Inappropriate language, unprofessional conduct, or minor unwelcome behavior. | A private, written warning explaining the violation and why it was inappropriate. A public apology may be requested. |
+| **2. Warning** | A serious single violation or repeated minor actions. | A formal warning with explicit consequences for continued behavior. Temporary interaction restrictions may apply. |
+| **3. Temporary Ban** | A serious breach of standards or sustained inappropriate behavior. | A temporary ban from all repository spaces, issues, and PR interactions for a specified period of time. |
+| **4. Permanent Ban** | A pattern of repeated violations, sustained harassment, or malicious attacks. | A permanent ban from any sort of public interaction within the project and repository. |
 
-### 3. Temporary Ban
+---
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+## 📜 Attribution
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, available at:
+https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
 
-### 4. Permanent Ban
-
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior, harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
-
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org),
-version 2.1, available at
-https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
-
-Community Impact Guidelines were inspired by
-[Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
-
+Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
