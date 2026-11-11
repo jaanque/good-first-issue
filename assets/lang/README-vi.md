@@ -423,21 +423,11 @@ Bạn có thể xem kết quả đóng góp của mọi người trực tiếp t
 
 ---
 
-## 🚀 NÂNG CAO KỸ NĂNG LẬP TRÌNH CỦA BẠN!
+## 🚀 TIẾN TỚI CẤP ĐỘ TIẾP THEO!
 
-Bạn đã thêm thẻ đóng góp của mình chưa? Hãy nâng cao kỹ năng hơn nữa với các lộ trình lập trình thực hành của chúng tôi!
+Bạn đã thêm thẻ đóng góp của mình chưa? Cấp độ tiếp theo chính là **[levels/](../../levels/)**! Nâng cao kỹ năng hơn nữa với các thử thách lập trình thực tế của chúng tôi:
 
-Chúng tôi đã thiết kế các thử thách lập trình có cấu trúc và tiến bộ để đồng hành cùng bạn từ những dòng mã đầu tiên đến giải quyết vấn đề nâng cao và Lập trình Hướng đối tượng (OOP) — tất cả đều diễn ra ngay trong kho lưu trữ này với quy trình làm việc thực tế trên Git và GitHub:
-
-👉 **[Khám phá tất cả các cấp độ lập trình (levels/)](../../levels/)**
-
-### 🌟 Lộ trình đang hoạt động (Mỗi lộ trình 10 cấp độ)
-
-- 🐍 **[Lộ trình Python (Cấp độ 1 - 10)](../../levels/python/)**: Từ câu lệnh `print()` đầu tiên đến danh sách, từ điển, thuật toán chuỗi và lớp OOP.
-- 🟨 **[Lộ trình JavaScript (Cấp độ 1 - 10)](../../levels/js/)**: Từ `console.log()` đến ES6+ hiện đại, các phương thức mảng (`.filter()`, `.map()`), đối tượng và lớp ES6.
-
-> [!TIP]
-> Mỗi cấp độ bao gồm hướng dẫn chi tiết với kiến thức lý thuyết, ví dụ mã, kết quả đầu ra mong đợi trên terminal và giải pháp tham khảo đầy đủ (`jan.py` / `jan.js`). Hãy bắt đầu từ Cấp độ 1!
+👉 **[Khám phá các cấp độ lập trình (levels/)](../../levels/)**
 
 ---
 

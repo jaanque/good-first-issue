@@ -423,21 +423,11 @@ Itt tekintheted meg élőben az összes közreműködő munkáját:
 
 ---
 
-## 🚀 FEJLEISZD A PROGRAMOZÓI TUDÁSOD!
+## 🚀 LÉPJ A KÖVETKEZŐ SZINTRE!
 
-Már hozzáadtad a közreműködői kártyádat? Emeld magasabb szintre a tudásodat a gyakorlati programozási útvonalainkkal!
+Már hozzáadtad a közreműködői kártyádat? A következő szint a **[levels/](../../levels/)**! Fejleszd a tudásodat a gyakorlati programozási kihívásainkkal:
 
-Strukturált, fokozatosan nehezedő feladatokat hoztunk létre, amelyek az első kódsoroktól a haladó problémamegoldásig és az objektumorientált programozásig (OOP) vezetnek — közvetlenül ebben a tárolóban, valódi Git és GitHub munkafolyamatokkal:
-
-👉 **[Összes szint felfedezése (levels/)](../../levels/)**
-
-### 🌟 Aktív útvonalak (egyenként 10 szint)
-
-- 🐍 **[Python útvonal (1 - 10. szint)](../../levels/python/)**: Az első `print()` utasításodtól a listákig, szótárakig, szöveges algoritmusokig és OOP osztályokig.
-- 🟨 **[JavaScript útvonal (1 - 10. szint)](../../levels/js/)**: A `console.log()`-tól a modern ES6+-ig, tömb metódusokig (`.filter()`, `.map()`), objektumokig és ES6 osztályokig.
-
-> [!TIP]
-> Minden szinthez külön útmutató tartozik elméleti fogalmakkal, kódpéldákkal, elvárt terminál-kimenettel és referencia-megoldással (`jan.py` / `jan.js`). Kezdd az 1. szinttel!
+👉 **[Szintek felfedezése (levels/)](../../levels/)**
 
 ---
 

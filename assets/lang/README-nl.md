@@ -423,21 +423,11 @@ Je kunt het live resultaat van alle bijdragen hier bekijken:
 
 ---
 
-## 🚀 VERHOOG JE PROGRAMMEERVAARDIGHEDEN!
+## 🚀 NAAR HET VOLGENDE NIVEAU!
 
-Heb je je bijdragerskaart al toegevoegd? Breng je vaardigheden naar een hoger niveau met onze praktische programmeertracks!
+Heb je je bijdragerskaart al toegevoegd? Het volgende niveau is **[levels/](../../levels/)**! Breng je vaardigheden naar een hoger niveau met onze programmeeruitdagingen:
 
-We hebben gestructureerde, progressieve codeeruitdagingen ontworpen die je meenemen van je allereerste regels code tot geavanceerde probleemoplossing en Object-Georiënteerd Programmeren (OOP) — allemaal binnen deze repository via echte Git- en GitHub-workflows:
-
-👉 **[Ontdek alle programmeerniveaus (levels/)](../../levels/)**
-
-### 🌟 Actieve tracks (elk 10 niveaus)
-
-- 🐍 **[Python-track (Niveaus 1 - 10)](../../levels/python/)**: Van je allereerste `print()`-opdracht tot lijsten, dictionaries, tekstalgoritmen en OOP-klassen.
-- 🟨 **[JavaScript-track (Niveaus 1 - 10)](../../levels/js/)**: Van `console.log()` tot modern ES6+, array-methoden (`.filter()`, `.map()`), objecten en ES6-klassen.
-
-> [!TIP]
-> Elk niveau bevat een speciale gids met theoretische concepten, codevoorbeelden, verwachte terminaluitvoer en een werkende referentieoplossing (`jan.py` / `jan.js`). Begin bij niveau 1 en klim omhoog!
+👉 **[Ontdek de programmeerniveaus (levels/)](../../levels/)**
 
 ---
 

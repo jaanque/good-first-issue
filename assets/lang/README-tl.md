@@ -423,21 +423,11 @@ Maaari mong makita ang live na resulta ng mga kontribusyon ng lahat dito:
 
 ---
 
-## 🚀 ITAAS ANG IYONG KASANAYAN SA PAGCO-CODE!
+## 🚀 TUMUNGO SA SUSUNOD NA LEVEL!
 
-Naidagdag mo na ba ang iyong contributor card? Dalhin ang iyong mga kasanayan sa susunod na antas gamit ang aming mga praktikal na programming track!
+Naidagdag mo na ba ang iyong contributor card? Ang susunod na antas ay **[levels/](../../levels/)**! Dalhin ang iyong mga kasanayan sa susunod na antas gamit ang aming mga hamon sa pag-code:
 
-Nagdisenyo kami ng sunod-sunod at maayos na mga hamon sa pag-code upang gabayan ka mula sa iyong mga unang linya ng code hanggang sa advanced problem solving at Object-Oriented Programming (OOP) — direkta sa repositoryong ito gamit ang totoong Git at GitHub workflow:
-
-👉 **[Tuklasin ang Lahat ng Coding Level (levels/)](../../levels/)**
-
-### 🌟 Mga Aktibong Track (10 Antas Bawat Isa)
-
-- 🐍 **[Python Track (Antas 1 - 10)](../../levels/python/)**: Mula sa iyong unang `print()` statement hanggang sa mga list, dictionary, string algorithm, at OOP class.
-- 🟨 **[JavaScript Track (Antas 1 - 10)](../../levels/js/)**: Mula sa `console.log()` hanggang sa modernong ES6+, array methods (`.filter()`, `.map()`), mga object, at ES6 class.
-
-> [!TIP]
-> Bawat antas ay may kasamang gabay na may teoretikal na konsepto, mga halimbawa ng code, inaasahang terminal output, at gumaganang reference solution (`jan.py` / `jan.js`). Magsimula sa Antas 1!
+👉 **[Tuklasin ang Mga Coding Level (levels/)](../../levels/)**
 
 ---
 

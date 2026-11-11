@@ -423,21 +423,11 @@ Você pode conferir o resultado em tempo real das contribuições de todos aqui:
 
 ---
 
-## 🚀 EVOLUA SUAS HABILIDADES DE PROGRAMAÇÃO!
+## 🚀 EVOLUA SUAS HABILIDADES!
 
-Já adicionou seu cartão de colaborador? Leve suas habilidades ainda mais longe com nossas trilhas práticas de programação!
+Já adicionou seu cartão de colaborador? O próximo nível é **[levels/](../../levels/)**! Leve suas habilidades mais longe com nossos desafios práticos de programação:
 
-Criamos desafios de código estruturados e progressivos para guiar você desde suas primeiras linhas de código até a resolução avançada de problemas e Programação Orientada a Objetos (POO) — tudo dentro deste repositório praticando com fluxos reais de Git e GitHub:
-
-👉 **[Explorar Todos os Níveis de Código (levels/)](../../levels/)**
-
-### 🌟 Trilhas Ativas (10 Níveis Cada)
-
-- 🐍 **[Trilha Python (Níveis 1 - 10)](../../levels/python/)**: Do seu primeiro comando `print()` até listas, dicionários, algoritmos de texto e classes POO.
-- 🟨 **[Trilha JavaScript (Níveis 1 - 10)](../../levels/js/)**: De `console.log()` ao ES6+ moderno, métodos de array (`.filter()`, `.map()`), objetos e classes ES6.
-
-> [!TIP]
-> Cada nível inclui um guia dedicado com conceitos teóricos, exemplos passo a passo, saídas esperadas no terminal e uma solução de referência funcional (`jan.py` / `jan.js`). Comece no Nível 1!
+👉 **[Explorar Níveis de Código (levels/)](../../levels/)**
 
 ---
 

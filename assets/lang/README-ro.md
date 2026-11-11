@@ -423,21 +423,11 @@ Poți vedea rezultatul în timp real al contribuțiilor tuturor aici:
 
 ---
 
-## 🚀 ÎMBUNĂTĂȚEȘTE-ȚI ABILITĂȚILE DE PROGRAMARE!
+## 🚀 TRECI LA NIVELUL URMĂTOR!
 
-Ți-ai adăugat deja cardul de colaborator? Du-ți abilitățile la nivelul următor cu traseele noastre practice de programare!
+Ți-ai adăugat deja cardul de colaborator? Următorul nivel este **[levels/](../../levels/)**! Du-ți abilitățile mai departe cu provocările noastre practice de programare:
 
-Am creat provocări de cod structurate și progresive pentru a te ghida de la primele linii de cod până la rezolvarea avansată a problemelor și Programarea Orientată pe Obiecte (POO) — totul în acest depozit, folosind fluxuri reale de lucru Git și GitHub:
-
-👉 **[Explorează toate nivelurile de cod (levels/)](../../levels/)**
-
-### 🌟 Trasee active (câte 10 niveluri fiecare)
-
-- 🐍 **[Traseul Python (Nivelurile 1 - 10)](../../levels/python/)**: De la prima ta instrucțiune `print()` până la liste, dicționare, algoritmi pe șiruri și clase POO.
-- 🟨 **[Traseul JavaScript (Nivelurile 1 - 10)](../../levels/js/)**: De la `console.log()` la ES6+ modern, metode pentru array-uri (`.filter()`, `.map()`), obiecte și clase ES6.
-
-> [!TIP]
-> Fiecare nivel include un ghid dedicat cu noțiuni teoretice, exemple de cod, rezultatele așteptate în terminal și o soluție de referință completă (`jan.py` / `jan.js`). Începe cu Nivelul 1!
+👉 **[Explorează nivelurile de cod (levels/)](../../levels/)**
 
 ---
 

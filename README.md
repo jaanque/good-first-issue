@@ -425,19 +425,9 @@ You can see the live result of everyone's contributions here:
 
 ## 🚀 LEVEL UP YOUR CODING SKILLS!
 
-Already added your contributor card? Take your skills further with our hands-on programming tracks!
+Already added your contributor card? The next level is **[levels/](levels/)**! Take your skills further with our step-by-step programming challenges:
 
-We designed structured, progressive coding challenges to take you from your very first lines of code to advanced problem solving and Object-Oriented Programming (OOP) — all inside this repository using real Git & GitHub workflows:
-
-👉 **[Explore All Coding Levels (levels/)](levels/)**
-
-### 🌟 Active Tracks (10 Levels Each)
-
-- 🐍 **[Python Track (Levels 1 - 10)](levels/python/)**: From your very first `print()` statement to lists, dictionaries, string algorithms, and OOP classes.
-- 🟨 **[JavaScript Track (Levels 1 - 10)](levels/js/)**: From `console.log()` to modern ES6+, array methods (`.filter()`, `.map()`), object hash maps, and ES6 classes.
-
-> [!TIP]
-> Each level includes a dedicated guide with theoretical concepts, code walkthroughs, expected terminal outputs, and a working reference solution (`jan.py` / `jan.js`). Start at Level 1 and climb your way to the top!
+👉 **[Explore Coding Levels (levels/)](levels/)**
 
 ---
 

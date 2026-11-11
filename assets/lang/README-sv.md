@@ -423,21 +423,11 @@ Du kan se live-resultatet av alla bidrag här:
 
 ---
 
-## 🚀 UPPGRADERA DINA KODNINGSKUNSKAPER!
+## 🚀 TA NÄSTA STEG!
 
-Har du redan lagt till ditt bidragskort? Ta dina färdigheter till nästa nivå med våra praktiska programmeringsspår!
+Har du redan lagt till ditt bidragskort? Nästa nivå är **[levels/](../../levels/)**! Ta dina färdigheter längre med våra praktiska kodningsutmaningar:
 
-Vi har skapat strukturerade och progressiva kodningsutmaningar som tar dig från dina allra första kodrader till avancerad problemlösning och objektorienterad programmering (OOP) — direkt i detta arkiv med hjälp av riktiga Git- och GitHub-arbetsflöden:
-
-👉 **[Utforska alla kodningsnivåer (levels/)](../../levels/)**
-
-### 🌟 Aktiva spår (10 nivåer vardera)
-
-- 🐍 **[Python-spår (Nivå 1 - 10)](../../levels/python/)**: Från din första `print()`-instruktion till listor, dictionaries, textalgoritmer och OOP-klasser.
-- 🟨 **[JavaScript-spår (Nivå 1 - 10)](../../levels/js/)**: Från `console.log()` till modern ES6+, array-metoder (`.filter()`, `.map()`), objekt och ES6-klasser.
-
-> [!TIP]
-> Varje nivå innehåller en dedikerad guide med teoretiska begrepp, kodexempel, förväntad terminalutskrift och en fungerande referenslösning (`jan.py` / `jan.js`). Börja på nivå 1!
+👉 **[Utforska kodningsnivåer (levels/)](../../levels/)**
 
 ---
 

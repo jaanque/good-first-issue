@@ -423,21 +423,11 @@ Nyní, když je vaše větev na GitHubu, je čas odeslat váš příspěvek do p
 
 ---
 
-## 🚀 ZLEPŠETE SVÉ PROGRAMÁTORSKÉ DOVEDNOSTI!
+## 🚀 POSUŇTE SE NA DALŠÍ ÚROVEŇ!
 
-Už jste přidali svou kartu přispěvatele? Posuňte své dovednosti na další úroveň s našimi praktickými programátorskými výzvami!
+Už jste přidali svou kartu přispěvatele? Další úroveň je **[levels/](../../levels/)**! Posuňte své dovednosti dál s našimi programátorskými výzvami:
 
-Vytvořili jsme strukturované a postupné úkoly, které vás provedou od prvních řádků kódu až po pokročilé řešení problémů a objektově orientované programování (OOP) — přímo v tomto repozitáři s využitím skutečných pracovních postupů v Gitu a GitHubu:
-
-👉 **[Prozkoumat všechny úrovně (levels/)](../../levels/)**
-
-### 🌟 Aktivní dráhy (každá má 10 úrovní)
-
-- 🐍 **[Python dráha (úrovně 1 - 10)](../../levels/python/)**: Od vašeho prvního příkazu `print()` až po seznamy, slovníky, řetězcové algoritmy a třídy OOP.
-- 🟨 **[JavaScript dráha (úrovně 1 - 10)](../../levels/js/)**: Od `console.log()` po moderní ES6+, metody polí (`.filter()`, `.map()`), objekty a třídy ES6.
-
-> [!TIP]
-> Každá úroveň obsahuje průvodce s teoretickými koncepty, ukázkami kódu, očekávaným výstupem v terminálu a referenčním řešením (`jan.py` / `jan.js`). Začněte na úrovni 1 a postupujte dál!
+👉 **[Prozkoumat úrovně (levels/)](../../levels/)**
 
 ---
 

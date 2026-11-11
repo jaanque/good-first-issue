@@ -423,21 +423,11 @@ Możesz zobaczyć wkład wszystkich uczestników na żywo tutaj:
 
 ---
 
-## 🚀 WEJDŹ NA WYŻSZY POZIOM PROGRAMOWANIA!
+## 🚀 WEJDŹ NA WYŻSZY POZIOM!
 
-Dodałeś już swoją kartę współtwórcy? Rozwijaj swoje umiejętności dzięki naszym praktycznym ścieżkom programistycznym!
+Dodałeś już swoją kartę współtwórcy? Następny poziom to **[levels/](../../levels/)**! Rozwijaj swoje umiejętności dzięki naszym wyzwaniom programistycznym:
 
-Przygotowaliśmy ustrukturyzowane, progresywne wyzwania programistyczne, które poprowadzą Cię od pierwszych linijek kodu aż po zaawansowane rozwiązywanie problemów i programowanie obiektowe (OOP) — wszystko bezpośrednio w tym repozytorium z wykorzystaniem prawdziwego przepływu pracy Git i GitHub:
-
-👉 **[Odkryj wszystkie poziomy programowania (levels/)](../../levels/)**
-
-### 🌟 Aktywne ścieżki (po 10 poziomów każda)
-
-- 🐍 **[Ścieżka Python (Poziomy 1 - 10)](../../levels/python/)**: Od pierwszej instrukcji `print()` po listy, słowniki, algorytmy tekstowe i klasy OOP.
-- 🟨 **[Ścieżka JavaScript (Poziomy 1 - 10)](../../levels/js/)**: Od `console.log()` po nowoczesny ES6+, metody tablicowe (`.filter()`, `.map()`), obiekty i klasy ES6.
-
-> [!TIP]
-> Każdy poziom zawiera dedykowany przewodnik z pojęciami teoretycznymi, przykładami kodu, oczekiwanym wynikiem w terminalu oraz gotowym rozwiązaniem wzorcowym (`jan.py` / `jan.js`). Zacznij od poziomu 1!
+👉 **[Odkryj poziomy programowania (levels/)](../../levels/)**
 
 ---
 

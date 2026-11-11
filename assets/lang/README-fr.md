@@ -423,21 +423,11 @@ Vous pouvez voir le résultat en direct des contributions de chacun ici :
 
 ---
 
-## 🚀 DÉVELOPPEZ VOS COMPÉTENCES EN PROGRAMMATION !
+## 🚀 PASSEZ AU NIVEAU SUPÉRIEUR !
 
-Vous avez déjà ajouté votre carte de contributeur ? Allez plus loin grâce à nos parcours d'apprentissage pratiques !
+Vous avez déjà ajouté votre carte de contributeur ? Le niveau suivant, c'est **[levels/](../../levels/)** ! Allez plus loin grâce à nos défis pratiques de programmation :
 
-Nous avons conçu des défis de programmation progressifs et structurés pour vous accompagner de vos toutes premières lignes de code jusqu'à la résolution de problèmes avancés et la programmation orientée objet (POO) — le tout directement dans ce dépôt avec les vrais flux de travail Git et GitHub :
-
-👉 **[Explorer tous les niveaux de code (levels/)](../../levels/)**
-
-### 🌟 Parcours actifs (10 niveaux chacun)
-
-- 🐍 **[Parcours Python (Niveaux 1 à 10)](../../levels/python/)** : De votre toute première instruction `print()` aux listes, dictionnaires, algorithmes de texte et classes POO.
-- 🟨 **[Parcours JavaScript (Niveaux 1 à 10)](../../levels/js/)** : De `console.log()` à l'ES6+ moderne, aux méthodes de tableaux (`.filter()`, `.map()`), objets et classes ES6.
-
-> [!TIP]
-> Chaque niveau comprend un guide dédié avec des explications théoriques, des exemples pas à pas, les sorties de terminal attendues et une solution de référence complète (`jan.py` / `jan.js`). Commencez au niveau 1 et progressez à votre rythme !
+👉 **[Explorer les niveaux de code (levels/)](../../levels/)**
 
 ---
 
