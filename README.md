@@ -9,6 +9,7 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fjaanque.github.io%2Fgood-first-issue%2F)](https://jaanque.github.io/good-first-issue/)
 [![GitHub last commit](https://img.shields.io/github/last-commit/jaanque/good-first-issue)](https://github.com/jaanque/good-first-issue/commits/main)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjaanque%2Fgood-first-issue&label=visitors&countColor=%230c7ebe&style=flat&labelStyle=none)](https://github.com/jaanque/good-first-issue)
 
 <br/>
@@ -27,7 +28,7 @@
 - [5. 📇 Add Your Contributor Card](#5--add-your-contributor-card)
 - [6. 💾 Commit and Push Your Changes](#6--commit-and-push-your-changes)
 - [7. 🚀 Create the Pull Request](#7--create-the-pull-request)
-- [👥 Contributors](#-contributors)
+- [👥 Contributors](#contributors-)
 - [🎯 Level Up Your Coding Skills!](#level-up-your-coding-skills)
 
 </details>
@@ -194,9 +195,28 @@ git push origin <your-branch-name>
 
 ---
 
-## 👥 Contributors
+## Contributors ✨
 
-Usa el bot de All Contributors (@all-contributors). Este bot añade automáticamente la foto de perfil de cualquier persona que contribuya a tu README. A los desarrolladores les encanta este reconocimiento visual, lo que los motiva a compartir tu repo.
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jaanque"><img src="https://github.com/jaanque.png" width="100px;" alt="Jan"/><br /><sub><b>Jan</b></sub></a><br /><a href="https://github.com/jaanque/good-first-issue/commits?author=jaanque" title="Code">💻</a> <a href="https://github.com/jaanque/good-first-issue/commits?author=jaanque" title="Documentation">📖</a> <a href="#maintenance-jaanque" title="Maintenance">🚧</a> <a href="#ideas-jaanque" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BrochDev"><img src="https://github.com/BrochDev.png" width="100px;" alt="BrochDev"/><br /><sub><b>BrochDev</b></sub></a><br /><a href="#ideas-BrochDev" title="Ideas, Planning, & Feedback">🤔</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ---
 

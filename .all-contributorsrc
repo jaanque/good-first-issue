@@ -1,0 +1,38 @@
+{
+  "projectName": "good-first-issue",
+  "projectOwner": "jaanque",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "jaanque",
+      "name": "Jan",
+      "avatar_url": "https://github.com/jaanque.png",
+      "profile": "https://github.com/jaanque",
+      "contributions": [
+        "code",
+        "doc",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "BrochDev",
+      "name": "BrochDev",
+      "avatar_url": "https://github.com/BrochDev.png",
+      "profile": "https://github.com/BrochDev",
+      "contributions": [
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": true
+}
+
