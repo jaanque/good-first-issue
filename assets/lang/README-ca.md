@@ -213,8 +213,6 @@ Crec que la millor manera d'aprendre és **fent**, així que he creat un project
 
 ---
 
-<div align="justify">
-
 ## MATERIAL BÀSIC
 
 Abans de començar, assegura't de tenir a punt les següents eines bàsiques:
@@ -264,8 +262,8 @@ Ara has de descarregar el repositori forkejat al teu ordinador per poder editar 
    git clone https://github.com/<el-teu-usuari>/good-first-issue.git
    ```
 
-   > [!IMPORTANT]
-   > Substitueix `<el-teu-usuari>` pel teu nom d'usuari real de GitHub!
+> [!NOTE]
+> Substitueix `<el-teu-usuari>` pel teu nom d'usuari real de GitHub!
 
 4. Un cop completada la descàrrega, entra al directori del projecte:
 
@@ -295,8 +293,8 @@ Abans de fer cap canvi, és una bona pràctica crear una nova branca. Treballar 
 
    <br/>
 
-   > [!TIP]
-   > Consell: Si fas servir una versió més antiga de Git, també pots utilitzar `git checkout -b <nom-de-la-teva-branca>`.
+> [!NOTE]
+> Consell: Si fas servir una versió més antiga de Git, també pots utilitzar `git checkout -b <nom-de-la-teva-branca>`.
 
 🌿 **Tot a punt!** Qualsevol canvi que facis a partir d'ara es mantindrà a la teva nova branca.
 
@@ -355,7 +353,7 @@ El teu fitxer ha de seguir exactament la mateixa estructura que `jan.json`:
 2. Fes clic dret a la teva foto de perfil i selecciona **"Copia l'adreça de la imatge"** (o **"Copy image address"**).
 3. Enganxa aquest URL al camp `"img"`.
 
-> [!TIP]
+> [!NOTE]
 > Truc ràpid: També pots fer servir `https://github.com/<el-teu-usuari>.png` com a URL de la teva imatge!
 
 ### EXEMPLE
@@ -394,8 +392,8 @@ Abans de crear el Pull Request, has de desar els teus canvis i pujar la teva bra
    git push origin <nom-de-la-teva-branca>
    ```
 
-   > [!NOTE]
-   > Si t'ho demana, també pots executar `git push -u origin <nom-de-la-teva-branca>`.
+> [!NOTE]
+> Si t'ho demana, també pots executar `git push -u origin <nom-de-la-teva-branca>`.
 
 ## 7. CREA EL PULL REQUEST
 
@@ -431,7 +429,6 @@ Recorda, això és només el començament! Hi ha milers de projectes de codi obe
 
 Acabes d'enviar la teva primera col·laboració Open Source! Un cop fusionada, la teva targeta apareixerà automàticament a la vitrina de col·laboradors.
 
-</div>
 
 we 💖 you
 

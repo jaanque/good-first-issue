@@ -213,8 +213,6 @@ Uważam, że najlepszym sposobem na naukę jest **praktyka**, dlatego przygotowa
 
 ---
 
-<div align="justify">
-
 ## PODSTAWOWE NARZĘDZIA
 
 Zanim zaczniesz, upewnij się, że masz przygotowane następujące podstawowe narzędzia:
@@ -264,8 +262,8 @@ Teraz musisz pobrać sforkowane repozytorium na swój komputer, aby móc edytowa
    git clone https://github.com/<twoja-nazwa-uzytkownika>/good-first-issue.git
    ```
 
-   > [!IMPORTANT]
-   > Zastąp `<twoja-nazwa-uzytkownika>` swoją rzeczywistą nazwą użytkownika na GitHubie!
+> [!NOTE]
+> Zastąp `<twoja-nazwa-uzytkownika>` swoją rzeczywistą nazwą użytkownika na GitHubie!
 
 4. Po zakończeniu pobierania przejdź do katalogu projektu:
 
@@ -295,8 +293,8 @@ Zanim dokonasz jakichkolwiek zmian, dobrą praktyką jest utworzenie nowej gał�
 
    <br/>
 
-   > [!TIP]
-   > Wskazówka: Jeśli używasz starszej wersji Gita, możesz również użyć `git checkout -b <nazwa-twojej-galezi>`.
+> [!NOTE]
+> Wskazówka: Jeśli używasz starszej wersji Gita, możesz również użyć `git checkout -b <nazwa-twojej-galezi>`.
 
 🌿 **Wszystko gotowe!** Wszelkie zmiany od tej pory będą zapisywane na Twojej nowej gałęzi.
 
@@ -355,7 +353,7 @@ Twój plik musi mieć dokładnie taką samą strukturę jak `jan.json`:
 2. Kliknij prawym przyciskiem myszy na swoje zdjęcie profilowe i wybierz **"Kopiuj adres obrazu"** (lub **"Copy image address"**).
 3. Wklej skopiowany adres URL w polu `"img"`.
 
-> [!TIP]
+> [!NOTE]
 > Szybka sztuczka: Jako URL zdjęcia możesz także użyć `https://github.com/<twoja-nazwa-uzytkownika>.png`!
 
 ### PRZYKŁAD
@@ -394,8 +392,8 @@ Przed utworzeniem Pull Requesta musisz zapisać zmiany i wysłać swoją gałą�
    git push origin <nazwa-twojej-galezi>
    ```
 
-   > [!NOTE]
-   > W razie potrzeby możesz także użyć `git push -u origin <nazwa-twojej-galezi>`.
+> [!NOTE]
+> W razie potrzeby możesz także użyć `git push -u origin <nazwa-twojej-galezi>`.
 
 ## 7. UTWÓRZ PULL REQUEST
 
@@ -431,7 +429,6 @@ Pamiętaj, że to dopiero początek! Tysiące projektów open source czeka na Tw
 
 Właśnie zgłosiłeś swój pierwszy wkład w projekt Open Source! Po scaleniu zmian Twoja karta pojawi się automatycznie na liście współtwórców.
 
-</div>
 
 we 💖 you
 

@@ -213,8 +213,6 @@ Věřím, že nejlepší způsob, jak se učit, je **praxí**, proto jsem vytvo�
 
 ---
 
-<div align="justify">
-
 ## ZÁKLADNÍ VYBAVENÍ
 
 Než začnete, ujistěte se, že máte připraveny následující základní nástroje:
@@ -264,8 +262,8 @@ Nyní musíte stáhnout svůj forknutý repozitář do počítače, abyste mohli
    git clone https://github.com/<vase-uzivatelske-jmeno>/good-first-issue.git
    ```
 
-   > [!IMPORTANT]
-   > Nahraďte `<vase-uzivatelske-jmeno>` svým skutečným uživatelským jménem na GitHubu!
+> [!NOTE]
+> Nahraďte `<vase-uzivatelske-jmeno>` svým skutečným uživatelským jménem na GitHubu!
 
 4. Po dokončení stahování přejděte do adresáře projektu:
 
@@ -295,8 +293,8 @@ Před provedením jakýchkoli změn je osvědčeným postupem vytvořit novou v�
 
    <br/>
 
-   > [!TIP]
-   > Tip: Pokud používáte starší verzi Gitu, můžete použít také `git checkout -b <nazev-vasi-vetve>`.
+> [!NOTE]
+> Tip: Pokud používáte starší verzi Gitu, můžete použít také `git checkout -b <nazev-vasi-vetve>`.
 
 🌿 **Vše je připraveno!** Veškeré změny, které od této chvíle provedete, zůstanou ve vaší nové větvi.
 
@@ -355,7 +353,7 @@ Váš soubor musí mít přesně stejnou strukturu jako `jan.json`:
 2. Klikněte pravým tlačítkem myši na svůj profilový obrázek a vyberte **"Kopírovat adresu obrázku"** (nebo **"Copy image address"**).
 3. Vložte zkopírovanou URL do pole `"img"`.
 
-> [!TIP]
+> [!NOTE]
 > Rychlý tip: Jako URL obrázku můžete použít také `https://github.com/<vase-uzivatelske-jmeno>.png`!
 
 ### PŘÍKLAD
@@ -394,8 +392,8 @@ Před vytvořením Pull Requestu musíte uložit změny a odeslat větev na GitH
    git push origin <nazev-vasi-vetve>
    ```
 
-   > [!NOTE]
-   > Pokud vás k tomu systém vyzve, můžete také spustit `git push -u origin <nazev-vasi-vetve>`.
+> [!NOTE]
+> Pokud vás k tomu systém vyzve, můžete také spustit `git push -u origin <nazev-vasi-vetve>`.
 
 ## 7. VYTVOŘTE PULL REQUEST
 
@@ -431,6 +429,5 @@ Pamatujte, toto je teprve začátek! Na vaše příspěvky čekají tisíce open
 
 Právě jste odeslali svůj první příspěvek do světa Open Source! Po sloučení bude vaše karta automaticky přidána do přehlídky přispěvatelů.
 
-</div>
 
 we 💖 you

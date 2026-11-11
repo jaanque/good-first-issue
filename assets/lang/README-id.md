@@ -213,8 +213,6 @@ Saya percaya bahwa cara terbaik untuk belajar adalah **dengan praktik langsung**
 
 ---
 
-<div align="justify">
-
 ## ALAT DASAR
 
 Sebelum memulai, pastikan Anda telah menyiapkan alat-alat dasar berikut:
@@ -264,8 +262,8 @@ Sekarang Anda perlu mengunduh repositori yang telah di-fork ke komputer Anda aga
    git clone https://github.com/<username-anda>/good-first-issue.git
    ```
 
-   > [!IMPORTANT]
-   > Ganti `<username-anda>` dengan nama pengguna GitHub asli Anda!
+> [!NOTE]
+> Ganti `<username-anda>` dengan nama pengguna GitHub asli Anda!
 
 4. Setelah unduhan selesai, masuk ke direktori proyek:
 
@@ -295,8 +293,8 @@ Sebelum melakukan perubahan apa pun, praktik terbaiknya adalah membuat branch ba
 
    <br/>
 
-   > [!TIP]
-   > Tips: Jika Anda menggunakan versi Git yang lebih lama, Anda juga dapat menggunakan `git checkout -b <nama-branch-anda>`.
+> [!NOTE]
+> Tips: Jika Anda menggunakan versi Git yang lebih lama, Anda juga dapat menggunakan `git checkout -b <nama-branch-anda>`.
 
 🌿 **Semua siap!** Setiap perubahan yang Anda buat mulai sekarang akan tersimpan di branch baru Anda.
 
@@ -355,7 +353,7 @@ File Anda harus mengikuti struktur yang persis sama dengan `jan.json`:
 2. Klik kanan pada foto profil Anda dan pilih **"Salin alamat gambar"** (atau **"Copy image address"**).
 3. Tempel URL yang disalin tersebut ke kolom `"img"`.
 
-> [!TIP]
+> [!NOTE]
 > Trik cepat: Anda juga dapat menggunakan `https://github.com/<username-anda>.png` langsung sebagai URL gambar Anda!
 
 ### CONTOH
@@ -394,8 +392,8 @@ Sebelum membuat Pull Request, Anda perlu menyimpan perubahan dan mengunggah bran
    git push origin <nama-branch-anda>
    ```
 
-   > [!NOTE]
-   > Jika diminta, Anda juga dapat menjalankan `git push -u origin <nama-branch-anda>`.
+> [!NOTE]
+> Jika diminta, Anda juga dapat menjalankan `git push -u origin <nama-branch-anda>`.
 
 ## 7. BUAT PULL REQUEST
 
@@ -431,7 +429,6 @@ Ingat, ini hanyalah permulaan! Ada ribuan proyek open source di luar sana yang m
 
 Anda baru saja mengirimkan kontribusi Open Source pertama Anda! Setelah digabungkan (merge), kartu Anda akan otomatis ditampilkan di galeri kontributor.
 
-</div>
 
 we 💖 you
 

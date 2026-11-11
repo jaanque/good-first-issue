@@ -213,8 +213,6 @@ Credo che il modo migliore per imparare sia **facendo**, quindi ho creato un pro
 
 ---
 
-<div align="justify">
-
 ## MATERIALE DI BASE
 
 Prima di iniziare, assicurati di avere a disposizione i seguenti strumenti di base:
@@ -264,8 +262,8 @@ Ora devi scaricare il repository che hai forked sul tuo computer per poter modif
    git clone https://github.com/<tuo-username>/good-first-issue.git
    ```
 
-   > [!IMPORTANT]
-   > Sostituisci `<tuo-username>` con il tuo vero nome utente di GitHub!
+> [!NOTE]
+> Sostituisci `<tuo-username>` con il tuo vero nome utente di GitHub!
 
 4. Una volta completato il download, entra nella cartella del progetto:
 
@@ -295,8 +293,8 @@ Prima di apportare qualsiasi modifica, è buona norma creare un nuovo branch. La
 
    <br/>
 
-   > [!TIP]
-   > Suggerimento: se usi una versione precedente di Git, puoi anche utilizzare `git checkout -b <nome-del-tuo-branch>`.
+> [!NOTE]
+> Suggerimento: se usi una versione precedente di Git, puoi anche utilizzare `git checkout -b <nome-del-tuo-branch>`.
 
 🌿 **Tutto pronto!** Tutte le modifiche che farai d'ora in avanti rimarranno nel tuo nuovo branch.
 
@@ -355,7 +353,7 @@ Il tuo file deve seguire esattamente la stessa struttura di `jan.json`:
 2. Fai clic con il tasto destro del mouse sulla tua immagine del profilo e seleziona **"Copia indirizzo dell'immagine"** (o **"Copy image address"**).
 3. Incolla l'URL copiato nel campo `"img"`.
 
-> [!TIP]
+> [!NOTE]
 > Trucco veloce: Puoi anche usare `https://github.com/<tuo-username>.png` come URL della tua immagine!
 
 ### ESEMPIO
@@ -394,8 +392,8 @@ Prima di creare la Pull Request, devi salvare le tue modifiche e caricare il tuo
    git push origin <nome-del-tuo-branch>
    ```
 
-   > [!NOTE]
-   > Se richiesto, puoi anche eseguire `git push -u origin <nome-del-tuo-branch>`.
+> [!NOTE]
+> Se richiesto, puoi anche eseguire `git push -u origin <nome-del-tuo-branch>`.
 
 ## 7. CREA LA PULL REQUEST
 
@@ -431,6 +429,5 @@ Ricorda, questo è solo l'inizio! Ci sono migliaia di progetti open source che a
 
 Hai appena inviato il tuo primo contributo Open Source! Una volta accettata la modifica, la tua scheda apparirà automaticamente nella vetrina dei collaboratori.
 
-</div>
 
 we 💖 you

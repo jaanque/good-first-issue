@@ -213,8 +213,6 @@ Naniniwala ako na ang pinakamahusay na paraan ng pagkatuto ay **sa pamamagitan n
 
 ---
 
-<div align="justify">
-
 ## PANGUNAHING KAGAMITAN
 
 Bago magsimula, tiyaking handa mo ang mga sumusunod na pangunahing kagamitan:
@@ -264,8 +262,8 @@ Ngayon ay kailangan mong i-download ang na-fork na repository sa iyong kompyuter
    git clone https://github.com/<iyong-username>/good-first-issue.git
    ```
 
-   > [!IMPORTANT]
-   > Palitan ang `<iyong-username>` ng iyong totoong username sa GitHub!
+> [!NOTE]
+> Palitan ang `<iyong-username>` ng iyong totoong username sa GitHub!
 
 4. Kapag natapos na ang pag-download, mag-navigate papunta sa direktoryo ng proyekto:
 
@@ -295,8 +293,8 @@ Bago gumawa ng anumang pagbabago, pinakamainam na kasanayan ang paggawa ng bagon
 
    <br/>
 
-   > [!TIP]
-   > Tip: Kung gumagamit ka ng mas lumang bersyon ng Git, maaari mo ring gamitin ang `git checkout -b <pangalan-ng-iyong-branch>`.
+> [!NOTE]
+> Tip: Kung gumagamit ka ng mas lumang bersyon ng Git, maaari mo ring gamitin ang `git checkout -b <pangalan-ng-iyong-branch>`.
 
 🌿 **Handa na ang lahat!** Anumang pag-edit na gagawin mo mula ngayon ay mananatili sa iyong bagong branch.
 
@@ -355,7 +353,7 @@ Ang iyong file ay dapat sumunod sa eksaktong estruktura tulad ng `jan.json`:
 2. I-right click ang larawan ng iyong profile at piliin ang **"Copy image address"**.
 3. I-paste ang kinopyang URL sa field na `"img"`.
 
-> [!TIP]
+> [!NOTE]
 > Mabilis na tip: Maaari mo ring gamitin ang `https://github.com/<iyong-username>.png` bilang direktang URL ng iyong larawan!
 
 ### HALIMBAWA
@@ -394,8 +392,8 @@ Bago gumawa ng Pull Request, kailangan mong i-save ang iyong mga pagbabago at i-
    git push origin <pangalan-ng-iyong-branch>
    ```
 
-   > [!NOTE]
-   > Kung hihingin, maaari mo ring patakbuhin ang `git push -u origin <pangalan-ng-iyong-branch>`.
+> [!NOTE]
+> Kung hihingin, maaari mo ring patakbuhin ang `git push -u origin <pangalan-ng-iyong-branch>`.
 
 ## 7. GUMAWA NG PULL REQUEST
 
@@ -431,6 +429,5 @@ Tandaan, simula pa lamang ito! May libu-libong open source projects na naghihint
 
 Kakasumite mo pa lamang ng iyong unang Open Source contribution! Kapag na-merge na, awtomatikong lilitaw ang iyong card sa showcase ng mga contributor.
 
-</div>
 
 we 💖 you

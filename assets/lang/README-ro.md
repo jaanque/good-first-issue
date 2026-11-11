@@ -213,8 +213,6 @@ Cred că cel mai bun mod de a învăța este **făcând**, așa că am creat un 
 
 ---
 
-<div align="justify">
-
 ## INSTRUMENTE DE BAZĂ
 
 Înainte de a începe, asigură-te că ai la dispoziție următoarele instrumente de bază:
@@ -264,8 +262,8 @@ Acum trebuie să descarci depozitul forked pe calculatorul tău pentru a putea e
    git clone https://github.com/<numele-tau-de-utilizator>/good-first-issue.git
    ```
 
-   > [!IMPORTANT]
-   > Înlocuiește `<numele-tau-de-utilizator>` cu numele tău real de utilizator GitHub!
+> [!NOTE]
+> Înlocuiește `<numele-tau-de-utilizator>` cu numele tău real de utilizator GitHub!
 
 4. După finalizarea descărcării, intră în directorul proiectului:
 
@@ -295,8 +293,8 @@ Acum trebuie să descarci depozitul forked pe calculatorul tău pentru a putea e
 
    <br/>
 
-   > [!TIP]
-   > Sfat: Dacă folosești o versiune mai veche de Git, poți folosi comanda `git checkout -b <numele-ramurii-tale>`.
+> [!NOTE]
+> Sfat: Dacă folosești o versiune mai veche de Git, poți folosi comanda `git checkout -b <numele-ramurii-tale>`.
 
 🌿 **Totul este gata!** Orice modificare pe care o faci de acum înainte va rămâne pe noua ta ramură.
 
@@ -355,7 +353,7 @@ Fișierul tău trebuie să respecte exact aceeași structură ca `jan.json`:
 2. Fă clic dreapta pe poza ta de profil și alege **"Copy image address"** (Copiază adresa imaginii).
 3. Lipește acel URL în câmpul `"img"`.
 
-> [!TIP]
+> [!NOTE]
 > Truc rapid: Poți folosi direct `https://github.com/<numele-tau-de-utilizator>.png` ca URL al imaginii!
 
 ### EXEMPLU
@@ -394,8 +392,8 @@ Salvează fișierul după ce ai terminat. Ești pregătit pentru pasul următor!
    git push origin <numele-ramurii-tale>
    ```
 
-   > [!NOTE]
-   > Dacă ți se solicită, poți rula și `git push -u origin <numele-ramurii-tale>`.
+> [!NOTE]
+> Dacă ți se solicită, poți rula și `git push -u origin <numele-ramurii-tale>`.
 
 ## 7. CREEAZĂ UN PULL REQUEST
 
@@ -431,6 +429,5 @@ Amintește-ți, acesta este doar începutul! Există mii de proiecte open source
 
 Tocmai ai trimis prima ta contribuție Open Source! Odată îmbinată (merged), cardul tău va apărea automat în galeria colaboratorilor.
 
-</div>
 
 we 💖 you

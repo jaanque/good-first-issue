@@ -213,8 +213,6 @@ Acredito que a melhor maneira de aprender é **fazendo**, por isso criei um proj
 
 ---
 
-<div align="justify">
-
 ## MATERIAL BÁSICO
 
 Antes de começar, certifique-se de ter as seguintes ferramentas básicas prontas:
@@ -264,8 +262,8 @@ Agora você precisa baixar o repositório bifurcado para o seu computador para p
    git clone https://github.com/<seu-usuario>/good-first-issue.git
    ```
 
-   > [!IMPORTANT]
-   > Substitua `<seu-usuario>` pelo seu verdadeiro nome de usuário do GitHub!
+> [!NOTE]
+> Substitua `<seu-usuario>` pelo seu verdadeiro nome de usuário do GitHub!
 
 4. Assim que o download terminar, navegue até a pasta do projeto:
 
@@ -295,8 +293,8 @@ Antes de fazer qualquer alteração, a melhor prática é criar uma nova branch.
 
    <br/>
 
-   > [!TIP]
-   > Dica: Se estiver usando uma versão mais antiga do Git, você também pode usar `git checkout -b <nome-da-sua-branch>`.
+> [!NOTE]
+> Dica: Se estiver usando uma versão mais antiga do Git, você também pode usar `git checkout -b <nome-da-sua-branch>`.
 
 🌿 **Tudo pronto!** Todas as alterações que você fizer a partir de agora ficarão na sua nova branch.
 
@@ -355,7 +353,7 @@ Seu arquivo deve seguir exatamente a mesma estrutura de `jan.json`:
 2. Clique com o botão direito na sua foto de perfil e selecione **"Copiar endereço da imagem"** (ou **"Copy image address"**).
 3. Cole a URL copiada no campo `"img"`.
 
-> [!TIP]
+> [!NOTE]
 > Dica rápida: Você também pode usar `https://github.com/<seu-usuario>.png` como a URL da sua imagem!
 
 ### EXEMPLO
@@ -394,8 +392,8 @@ Antes de criar a Pull Request, você precisa salvar suas alterações e enviar s
    git push origin <nome-da-sua-branch>
    ```
 
-   > [!NOTE]
-   > Se solicitado, você também pode executar `git push -u origin <nome-da-sua-branch>`.
+> [!NOTE]
+> Se solicitado, você também pode executar `git push -u origin <nome-da-sua-branch>`.
 
 ## 7. CRIE A PULL REQUEST
 
@@ -431,6 +429,5 @@ Lembre-se, este é apenas o começo! Há milhares de projetos de código aberto 
 
 Você acabou de enviar sua primeira contribuição Open Source! Assim que for mesclada, seu cartão aparecerá automaticamente na vitrine de colaboradores.
 
-</div>
 
 we 💖 you

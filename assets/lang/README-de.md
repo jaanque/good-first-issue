@@ -213,8 +213,6 @@ Ich glaube, dass man am besten lernt, indem man **es selbst tut**. Deshalb habe 
 
 ---
 
-<div align="justify">
-
 ## GRUNDLEGENDE WERKZEUGE
 
 Bevor du beginnst, stelle sicher, dass du folgende grundlegende Werkzeuge parat hast:
@@ -264,8 +262,8 @@ Jetzt musst du dein geforktes Repository auf deinen Computer herunterladen, um d
    git clone https://github.com/<dein-benutzername>/good-first-issue.git
    ```
 
-   > [!IMPORTANT]
-   > Ersetze `<dein-benutzername>` durch deinen tatsächlichen GitHub-Benutzernamen!
+> [!NOTE]
+> Ersetze `<dein-benutzername>` durch deinen tatsächlichen GitHub-Benutzernamen!
 
 4. Sobald der Download abgeschlossen ist, navigiere in das Projektverzeichnis:
 
@@ -295,8 +293,8 @@ Bevor du Änderungen vornimmst, empfiehlt es sich, einen neuen Branch zu erstell
 
    <br/>
 
-   > [!TIP]
-   > Tipp: Wenn du eine ältere Git-Version verwendest, kannst du stattdessen `git checkout -b <dein-branch-name>` ausführen.
+> [!NOTE]
+> Tipp: Wenn du eine ältere Git-Version verwendest, kannst du stattdessen `git checkout -b <dein-branch-name>` ausführen.
 
 🌿 **Alles bereit!** Alle Änderungen, die du ab jetzt machst, bleiben in deinem neuen Branch.
 
@@ -355,7 +353,7 @@ Deine Datei muss genau denselben Aufbau wie `jan.json` haben:
 2. Klicke mit der rechten Maustaste auf dein Profilbild und wähle **"Grafikadresse kopieren"** (bzw. **"Copy image address"**).
 3. Füge die kopierte URL in das Feld `"img"` ein.
 
-> [!TIP]
+> [!NOTE]
 > Schneller Trick: Du kannst auch `https://github.com/<dein-benutzername>.png` als Bild-URL verwenden!
 
 ### BEISPIEL
@@ -394,8 +392,8 @@ Bevor du den Pull Request erstellst, musst du deine Änderungen speichern und de
    git push origin <dein-branch-name>
    ```
 
-   > [!NOTE]
-   > Falls aufgefordert, kannst du auch `git push -u origin <dein-branch-name>` ausführen.
+> [!NOTE]
+> Falls aufgefordert, kannst du auch `git push -u origin <dein-branch-name>` ausführen.
 
 ## 7. ERSTELLE DEN PULL REQUEST
 
@@ -431,6 +429,5 @@ Denk daran: Das ist erst der Anfang! Es gibt tausende Open-Source-Projekte, die 
 
 Du hast soeben deinen ersten Open-Source-Beitrag eingereicht! Sobald der Pull Request gemergt wird, erscheint deine Karte automatisch in der Contributor-Galerie.
 
-</div>
 
 we 💖 you

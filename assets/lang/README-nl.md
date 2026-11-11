@@ -213,8 +213,6 @@ Ik geloof dat de beste manier van leren **door te doen** is, dus heb ik een eenv
 
 ---
 
-<div align="justify">
-
 ## BASISGEREEDSCHAP
 
 Zorg ervoor dat je de volgende basistools bij de hand hebt voordat je begint:
@@ -264,8 +262,8 @@ Nu moet je de geforkte repository downloaden naar je computer zodat je de bestan
    git clone https://github.com/<jouw-gebruikersnaam>/good-first-issue.git
    ```
 
-   > [!IMPORTANT]
-   > Vervang `<jouw-gebruikersnaam>` door je daadwerkelijke GitHub-gebruikersnaam!
+> [!NOTE]
+> Vervang `<jouw-gebruikersnaam>` door je daadwerkelijke GitHub-gebruikersnaam!
 
 4. Zodra het downloaden is voltooid, navigeer je naar de projectmap:
 
@@ -295,8 +293,8 @@ Voordat je wijzigingen aanbrengt, is het een best practice om een nieuwe branch 
 
    <br/>
 
-   > [!TIP]
-   > Tip: Als je een oudere versie van Git gebruikt, kun je ook `git checkout -b <jouw-branch-naam>` gebruiken.
+> [!NOTE]
+> Tip: Als je een oudere versie van Git gebruikt, kun je ook `git checkout -b <jouw-branch-naam>` gebruiken.
 
 🌿 **Helemaal klaar!** Alle wijzigingen die je vanaf nu aanbrengt, blijven op je nieuwe branch.
 
@@ -355,7 +353,7 @@ Je bestand moet exact dezelfde structuur volgen als `jan.json`:
 2. Klik met de rechtermuisknop op je profielfoto en kies **"Afbeeldingsadres kopiëren"** (of **"Copy image address"**).
 3. Plak die gekopieerde URL in het veld `"img"`.
 
-> [!TIP]
+> [!NOTE]
 > Handige tip: Je kunt ook `https://github.com/<jouw-gebruikersnaam>.png` direct gebruiken als URL voor je afbeelding!
 
 ### VOORBEELD
@@ -394,8 +392,8 @@ Voordat je de Pull Request aanmaakt, moet je je wijzigingen opslaan en je branch
    git push origin <jouw-branch-naam>
    ```
 
-   > [!NOTE]
-   > Indien gevraagd, kun je ook `git push -u origin <jouw-branch-naam>` uitvoeren.
+> [!NOTE]
+> Indien gevraagd, kun je ook `git push -u origin <jouw-branch-naam>` uitvoeren.
 
 ## 7. MAAK DE PULL REQUEST AAN
 
@@ -431,7 +429,6 @@ Onthoud: dit is pas het begin! Er wachten duizenden open source-projecten op jou
 
 Je hebt zojuist je allereerste Open Source-bijdrage ingediend! Zodra deze is samengevoegd (gemerged), verschijnt je kaart automatisch in de galerij met bijdragers.
 
-</div>
 
 we 💖 you
 

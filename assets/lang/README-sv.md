@@ -213,8 +213,6 @@ Jag tror att det bästa sättet att lära sig är genom att **göra**, så jag h
 
 ---
 
-<div align="justify">
-
 ## GRUNDLÄGGANDE VERKTYG
 
 Innan du börjar, se till att du har följande grundläggande verktyg redo:
@@ -264,8 +262,8 @@ Nu behöver du ladda ner ditt forkade repository till din dator så att du kan r
    git clone https://github.com/<ditt-anvandarnamn>/good-first-issue.git
    ```
 
-   > [!IMPORTANT]
-   > Ersätt `<ditt-anvandarnamn>` med ditt riktiga användarnamn på GitHub!
+> [!NOTE]
+> Ersätt `<ditt-anvandarnamn>` med ditt riktiga användarnamn på GitHub!
 
 4. När nedladdningen är klar går du in i projektmappen:
 
@@ -295,8 +293,8 @@ Innan du gör några ändringar är det god praxis att skapa en ny branch. Att a
 
    <br/>
 
-   > [!TIP]
-   > Tips: Om du använder en äldre version av Git kan du även köra `git checkout -b <ditt-grennamn>`.
+> [!NOTE]
+> Tips: Om du använder en äldre version av Git kan du även köra `git checkout -b <ditt-grennamn>`.
 
 🌿 **Allt klart!** Alla ändringar du gör framöver kommer att hållas inom din nya gren.
 
@@ -355,7 +353,7 @@ Din fil måste följa exakt samma struktur som `jan.json`:
 2. Högerklicka på din profilbild och välj **"Kopiera bildadress"** (eller **"Copy image address"**).
 3. Klistra in den kopierade URL:en i fältet `"img"`.
 
-> [!TIP]
+> [!NOTE]
 > Snabbtips: Du kan också använda `https://github.com/<ditt-anvandarnamn>.png` som bildens URL!
 
 ### EXEMPEL
@@ -394,8 +392,8 @@ Innan du skapar en Pull Request måste du spara dina ändringar och ladda upp di
    git push origin <ditt-grennamn>
    ```
 
-   > [!NOTE]
-   > Om du uppmanas kan du också köra `git push -u origin <ditt-grennamn>`.
+> [!NOTE]
+> Om du uppmanas kan du också köra `git push -u origin <ditt-grennamn>`.
 
 ## 7. SKAPA EN PULL REQUEST
 
@@ -431,6 +429,5 @@ Kom ihåg att detta bara är början! Det finns tusentals öppen källkods-proje
 
 Du har precis skickat in ditt allra första bidrag till Open Source-världen! När det har slagits samman kommer ditt kort automatiskt att synas i galleriet.
 
-</div>
 
 we 💖 you

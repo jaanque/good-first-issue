@@ -213,8 +213,6 @@ Je suis convaincu que la meilleure façon d'apprendre est **par la pratique**, c
 
 ---
 
-<div align="justify">
-
 ## MATÉRIEL DE BASE
 
 Avant de commencer, assurez-vous d'avoir préparé les outils de base suivants :
@@ -264,8 +262,8 @@ Vous devez maintenant télécharger votre dépôt forké sur votre ordinateur af
    git clone https://github.com/<votre-nom-d-utilisateur>/good-first-issue.git
    ```
 
-   > [!IMPORTANT]
-   > Remplacez `<votre-nom-d-utilisateur>` par votre vrai nom d'utilisateur GitHub !
+> [!NOTE]
+> Remplacez `<votre-nom-d-utilisateur>` par votre vrai nom d'utilisateur GitHub !
 
 4. Une fois le téléchargement terminé, accédez au répertoire du projet :
 
@@ -295,8 +293,8 @@ Avant d'effectuer la moindre modification, il est recommandé de créer une nouv
 
    <br/>
 
-   > [!TIP]
-   > Astuce : Si vous utilisez une version plus ancienne de Git, vous pouvez également utiliser `git checkout -b <nom-de-votre-branche>`.
+> [!NOTE]
+> Astuce : Si vous utilisez une version plus ancienne de Git, vous pouvez également utiliser `git checkout -b <nom-de-votre-branche>`.
 
 🌿 **Tout est prêt !** Toutes les modifications que vous effectuerez à partir de maintenant resteront sur votre nouvelle branche.
 
@@ -355,7 +353,7 @@ Votre fichier doit respecter exactement la même structure que `jan.json` :
 2. Faites un clic droit sur votre photo de profil et sélectionnez **"Copier l'adresse de l'image"** (ou **"Copy image address"**).
 3. Collez cette URL copiée dans le champ `"img"`.
 
-> [!TIP]
+> [!NOTE]
 > Astuce rapide : Vous pouvez également utiliser `https://github.com/<votre-nom-d-utilisateur>.png` comme URL pour votre image !
 
 ### EXEMPLE
@@ -394,8 +392,8 @@ Avant de créer la Pull Request, vous devez enregistrer vos modifications et env
    git push origin <nom-de-votre-branche>
    ```
 
-   > [!NOTE]
-   > Si vous y êtes invité, vous pouvez également exécuter `git push -u origin <nom-de-votre-branche>`.
+> [!NOTE]
+> Si vous y êtes invité, vous pouvez également exécuter `git push -u origin <nom-de-votre-branche>`.
 
 ## 7. CRÉER LA PULL REQUEST
 
@@ -431,6 +429,5 @@ Rappelez-vous, ce n'est que le début ! Des milliers de projets open source atte
 
 Vous venez de soumettre votre toute première contribution Open Source ! Une fois fusionnée, votre carte apparaîtra automatiquement dans la vitrine des contributeurs.
 
-</div>
 
 we 💖 you

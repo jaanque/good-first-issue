@@ -213,8 +213,6 @@ Creo que la mejor manera de aprender es **haciendo**, así que he creado un proy
 
 ---
 
-<div align="justify">
-
 ## MATERIAL BÁSICO
 
 Antes de comenzar, asegúrate de tener listas las siguientes herramientas básicas:
@@ -264,8 +262,8 @@ Ahora necesitas descargar tu repositorio forkeado a tu computadora para poder ed
    git clone https://github.com/<tu-usuario>/good-first-issue.git
    ```
 
-   > [!IMPORTANT]
-   > ¡Reemplaza `<tu-usuario>` por tu nombre de usuario real de GitHub!
+> [!NOTE]
+> ¡Reemplaza `<tu-usuario>` por tu nombre de usuario real de GitHub!
 
 4. Una vez completada la descarga, entra en el directorio del proyecto:
 
@@ -295,8 +293,8 @@ Antes de hacer cualquier cambio, es una buena práctica crear una nueva rama. Tr
 
    <br/>
 
-   > [!TIP]
-   > Consejo: Si estás usando una versión más antigua de Git, también puedes usar `git checkout -b <nombre-de-tu-rama>`.
+> [!NOTE]
+> Consejo: Si estás usando una versión más antigua de Git, también puedes usar `git checkout -b <nombre-de-tu-rama>`.
 
 🌿 **¡Todo listo!** Cualquier cambio que hagas a partir de ahora se mantendrá en tu nueva rama.
 
@@ -355,7 +353,7 @@ Tu archivo debe seguir exactamente la misma estructura que `jan.json`:
 2. Haz clic derecho en tu foto de perfil y selecciona **"Copiar dirección de imagen"** (o **"Copy image address"**).
 3. Pega esa URL copiada en el campo `"img"`.
 
-> [!TIP]
+> [!NOTE]
 > Truco rápido: ¡También puedes usar `https://github.com/<tu-usuario>.png` como la URL de tu imagen!
 
 ### EJEMPLO
@@ -394,8 +392,8 @@ Antes de crear el Pull Request, necesitas guardar tus cambios y subir tu rama a 
    git push origin <nombre-de-tu-rama>
    ```
 
-   > [!NOTE]
-   > Si te lo solicita, también puedes ejecutar `git push -u origin <nombre-de-tu-rama>`.
+> [!NOTE]
+> Si te lo solicita, también puedes ejecutar `git push -u origin <nombre-de-tu-rama>`.
 
 ## 7. CREA EL PULL REQUEST
 
@@ -431,6 +429,5 @@ Puedes ver el resultado en vivo de las contribuciones de todos aquí:
 
 ¡Acabas de enviar tu primera contribución al mundo Open Source! Una vez fusionada, tu tarjeta se añadirá automáticamente a la vitrina de colaboradores.
 
-</div>
 
 we 💖 you

@@ -213,8 +213,6 @@ Tôi tin rằng cách học tốt nhất là **thực hành**, vì vậy tôi đ
 
 ---
 
-<div align="justify">
-
 ## CÔNG CỤ CƠ BẢN
 
 Trước khi bắt đầu, hãy đảm bảo bạn đã chuẩn bị sẵn các công cụ cơ bản sau:
@@ -264,8 +262,8 @@ Bây giờ bạn cần tải kho lưu trữ đã fork về máy tính để có 
    git clone https://github.com/<ten-nguoi-dung-cua-ban>/good-first-issue.git
    ```
 
-   > [!IMPORTANT]
-   > Thay thế `<ten-nguoi-dung-cua-ban>` bằng tên người dùng GitHub thật của bạn!
+> [!NOTE]
+> Thay thế `<ten-nguoi-dung-cua-ban>` bằng tên người dùng GitHub thật của bạn!
 
 4. Khi quá trình tải hoàn tất, chuyển vào thư mục dự án:
 
@@ -295,8 +293,8 @@ Trước khi thực hiện bất kỳ thay đổi nào, bạn nên tạo một n
 
    <br/>
 
-   > [!TIP]
-   > Mẹo: Nếu bạn đang dùng phiên bản Git cũ hơn, bạn cũng có thể dùng `git checkout -b <ten-nhanh-cua-ban>`.
+> [!NOTE]
+> Mẹo: Nếu bạn đang dùng phiên bản Git cũ hơn, bạn cũng có thể dùng `git checkout -b <ten-nhanh-cua-ban>`.
 
 🌿 **Đã xong!** Mọi chỉnh sửa từ giờ sẽ được lưu trên nhánh mới của bạn.
 
@@ -355,7 +353,7 @@ Tệp của bạn phải tuân thủ chính xác cấu trúc giống như `jan.j
 2. Nhấp chuột phải vào ảnh hồ sơ của bạn và chọn **"Sao chép địa chỉ hình ảnh"** (hoặc **"Copy image address"**).
 3. Dán URL đã sao chép vào trường `"img"`.
 
-> [!TIP]
+> [!NOTE]
 > Mẹo nhỏ: Bạn cũng có thể dùng trực tiếp `https://github.com/<ten-nguoi-dung-cua-ban>.png` làm URL ảnh!
 
 ### VÍ DỤ
@@ -394,8 +392,8 @@ Trước khi tạo Pull Request, bạn cần lưu các thay đổi và tải nh�
    git push origin <ten-nhanh-cua-ban>
    ```
 
-   > [!NOTE]
-   > Nếu được yêu cầu, bạn cũng có thể chạy `git push -u origin <ten-nhanh-cua-ban>`.
+> [!NOTE]
+> Nếu được yêu cầu, bạn cũng có thể chạy `git push -u origin <ten-nhanh-cua-ban>`.
 
 ## 7. TẠO PULL REQUEST
 
@@ -431,7 +429,6 @@ Hãy nhớ rằng, đây mới chỉ là khởi đầu! Có hàng ngàn dự án
 
 Bạn vừa gửi thành công đóng góp Mã nguồn mở đầu tiên của mình! Sau khi được hợp nhất, thẻ của bạn sẽ xuất hiện trên bảng vinh danh những người đóng góp.
 
-</div>
 
 we 💖 you
 

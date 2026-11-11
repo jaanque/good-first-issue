@@ -213,8 +213,6 @@ Bu depo, hiçbir şeyi bozma korkusu olmadan, güvenli bir ortamda **Açık Kayn
 
 ---
 
-<div align="justify">
-
 ## TEMEL ARAÇLAR
 
 Başlamadan önce aşağıdaki temel araçların hazır olduğundan emin olun:
@@ -264,8 +262,8 @@ Başlamadan önce aşağıdaki temel araçların hazır olduğundan emin olun:
    git clone https://github.com/<kullanici-adiniz>/good-first-issue.git
    ```
 
-   > [!IMPORTANT]
-   > `<kullanici-adiniz>` kısmını gerçek GitHub kullanıcı adınızla değiştirin!
+> [!NOTE]
+> `<kullanici-adiniz>` kısmını gerçek GitHub kullanıcı adınızla değiştirin!
 
 4. İndirme tamamlandığında, proje dizinine geçin:
 
@@ -295,8 +293,8 @@ Herhangi bir değişiklik yapmadan önce yeni bir dal oluşturmak en iyi uygulam
 
    <br/>
 
-   > [!TIP]
-   > İpucu: Git'in daha eski bir sürümünü kullanıyorsanız `git checkout -b <dal-adiniz>` komutunu da kullanabilirsiniz.
+> [!NOTE]
+> İpucu: Git'in daha eski bir sürümünü kullanıyorsanız `git checkout -b <dal-adiniz>` komutunu da kullanabilirsiniz.
 
 🌿 **Her şey hazır!** Bundan sonra yapacağınız tüm değişiklikler bu yeni dalda kalacaktır.
 
@@ -355,7 +353,7 @@ Dosyanız `jan.json` ile birebir aynı yapıyı izlemelidir:
 2. Profil resminize sağ tıklayın ve **"Resim adresini kopyala"** (veya **"Copy image address"**) seçeneğini seçin.
 3. Kopyalanan bu adresi `"img"` alanına yapıştırın.
 
-> [!TIP]
+> [!NOTE]
 > Küçük bir ipucu: Resim URL'si olarak doğrudan `https://github.com/<kullanici-adiniz>.png` adresini de kullanabilirsiniz!
 
 ### ÖRNEK
@@ -394,8 +392,8 @@ Pull Request oluşturmadan önce değişikliklerinizi kaydetmeniz ve dalınızı
    git push origin <dal-adiniz>
    ```
 
-   > [!NOTE]
-   > İstenirse `git push -u origin <dal-adiniz>` komutunu da çalıştırabilirsiniz.
+> [!NOTE]
+> İstenirse `git push -u origin <dal-adiniz>` komutunu da çalıştırabilirsiniz.
 
 ## 7. PULL REQUEST OLUŞTURUN
 
@@ -431,7 +429,6 @@ Unutmayın, bu sadece bir başlangıç! Katkınızı bekleyen binlerce açık ka
 
 İlk Açık Kaynak katkınızı başarıyla gönderdiniz! Dalınız birleştirildiğinde, kartınız katkıda bulunanlar vitrininde otomatik olarak yer alacaktır.
 
-</div>
 
 we 💖 you
 

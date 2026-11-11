@@ -213,8 +213,6 @@ Hiszek abban, hogy a tanulás legjobb módja a **gyakorlat**, ezért készített
 
 ---
 
-<div align="justify">
-
 ## ALAPVETŐ ESZKÖZÖK
 
 Mielőtt elkezdenéd, győződj meg róla, hogy készen állnak a következő alapvető eszközök:
@@ -264,8 +262,8 @@ Most le kell töltened a forkrepódat a számítógépedre, hogy helyben szerkes
    git clone https://github.com/<felhasznaloneved>/good-first-issue.git
    ```
 
-   > [!IMPORTANT]
-   > Cseréld le a `<felhasznaloneved>` részt a valódi GitHub felhasználónevedre!
+> [!NOTE]
+> Cseréld le a `<felhasznaloneved>` részt a valódi GitHub felhasználónevedre!
 
 4. Ha a letöltés befejeződött, lépj be a projekt könyvtárába:
 
@@ -295,8 +293,8 @@ Mielőtt bármit módosítanál, érdemes egy új ágat létrehozni. A külön �
 
    <br/>
 
-   > [!TIP]
-   > Tipp: Ha régebbi Git verziót használsz, a `git checkout -b <uj-ag-neve>` parancsot is használhatod.
+> [!NOTE]
+> Tipp: Ha régebbi Git verziót használsz, a `git checkout -b <uj-ag-neve>` parancsot is használhatod.
 
 🌿 **Minden kész!** Bármilyen módosítást végzel ezután, az az új ágadban marad.
 
@@ -355,7 +353,7 @@ A fájlodnak pontosan ugyanazt a szerkezetet kell követnie, mint a `jan.json`-n
 2. Kattints jobb gombbal a profilképedre, és válaszd a **"Kép címének másolása"** (vagy **"Copy image address"**) lehetőséget.
 3. Illeszd be a másolt URL-t az `"img"` mezőbe.
 
-> [!TIP]
+> [!NOTE]
 > Gyors tipp: A `https://github.com/<felhasznaloneved>.png` címet is használhatod képed URL-jeként!
 
 ### PÉLDA
@@ -394,8 +392,8 @@ A Pull Request létrehozása előtt el kell mentened a változtatásokat, és fe
    git push origin <uj-ag-neve>
    ```
 
-   > [!NOTE]
-   > Ha kéri, a `git push -u origin <uj-ag-neve>` parancsot is futtathatod.
+> [!NOTE]
+> Ha kéri, a `git push -u origin <uj-ag-neve>` parancsot is futtathatod.
 
 ## 7. HOZD LÉTRE A PULL REQUESTET
 
@@ -431,6 +429,5 @@ Ne feledd, ez még csak a kezdet! Több ezer nyílt forráskódú projekt várja
 
 Épp most küldted be az első hozzájárulásodat az Open Source világába! Az összefésülés után a kártyád automatikusan felkerül a közreműködők falára.
 
-</div>
 
 we 💖 you

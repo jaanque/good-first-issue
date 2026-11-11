@@ -213,8 +213,6 @@ I believe that the best way to learn is **by doing**, so I've created a simple p
 
 ---
 
-<div align="justify">
-
 ## BASIC MATERIAL
 
 Before getting started, make sure you have the following basic tools ready:
@@ -264,8 +262,8 @@ Now you need to download your forked repository to your computer so you can edit
    git clone https://github.com/<your-username>/good-first-issue.git
    ```
 
-   > [!IMPORTANT]
-   > Replace `<your-username>` with your actual GitHub username!
+> [!NOTE]
+> Replace `<your-username>` with your actual GitHub username!
 
 4. Once the download is complete, navigate into the project directory:
 
@@ -295,8 +293,8 @@ Before making any changes, it is best practice to create a new branch. Working o
 
    <br/>
 
-   > [!TIP]
-   > Tip: If you are using an older version of Git, you can also use `git checkout -b <your-branch-name>`.
+> [!NOTE]
+> Tip: If you are using an older version of Git, you can also use `git checkout -b <your-branch-name>`.
 
 🌿 **You're all set!** Any edits you make from now on will stay on your new branch.
 
@@ -355,7 +353,7 @@ Your file must follow the exact same structure as `jan.json`:
 2. Right-click on your profile picture and select **"Copy image address"** (or **"Copiar dirección de imagen"**).
 3. Paste that copied URL into the `"img"` field.
 
-> [!TIP]
+> [!NOTE]
 > Quick trick: You can also use `https://github.com/<your-username>.png` as your image URL!
 
 ### EXAMPLE
@@ -394,8 +392,8 @@ Before creating the Pull Request, you need to save your changes and upload your 
    git push origin <your-branch-name>
    ```
 
-   > [!NOTE]
-   > If prompted, you can also run `git push -u origin <your-branch-name>`.
+> [!NOTE]
+> If prompted, you can also run `git push -u origin <your-branch-name>`.
 
 ## 7. CREATE THE PULL REQUEST
 
@@ -431,6 +429,5 @@ Remember, this is just the beginning! There are thousands of open source project
 
 You've just submitted your first Open Source contribution! Once merged, your card will automatically be added to the contributors showcase.
 
-</div>
 
 we 💖 you
