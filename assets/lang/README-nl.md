@@ -421,6 +421,16 @@ Nu je branch op GitHub staat, is het tijd om je bijdrage in te dienen bij het pr
 Je kunt het live resultaat van alle bijdragen hier bekijken:
 👉 **[Onze bijdragers](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 NAAR HET VOLGENDE NIVEAU!
+
+Heb je je bijdragerskaart al toegevoegd? Het volgende niveau is **[levels/](../../levels/)**! Breng je vaardigheden naar een hoger niveau met onze programmeeruitdagingen:
+
+👉 **[Ontdek de programmeerniveaus (levels/)](../../levels/)**
+
+---
+
 ##
 
 Onthoud: dit is pas het begin! Er wachten duizenden open source-projecten op jouw bijdrage, en de workflow is vrijwel overal hetzelfde: fork de repository, maak een branch aan, voer je wijzigingen door en dien een pull request in.

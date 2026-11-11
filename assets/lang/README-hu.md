@@ -421,6 +421,16 @@ Most, hogy az ágad felkerült a GitHubra, ideje beküldeni a hozzájárulásoda
 Itt tekintheted meg élőben az összes közreműködő munkáját:
 👉 **[Közreműködőink](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 LÉPJ A KÖVETKEZŐ SZINTRE!
+
+Már hozzáadtad a közreműködői kártyádat? A következő szint a **[levels/](../../levels/)**! Fejleszd a tudásodat a gyakorlati programozási kihívásainkkal:
+
+👉 **[Szintek felfedezése (levels/)](../../levels/)**
+
+---
+
 ##
 
 Ne feledd, ez még csak a kezdet! Több ezer nyílt forráskódú projekt várja a hozzájárulásodat, és a folyamat mindenhol alapvetően ugyanaz: forkold a repozitóriumot, hozz létre egy ágat, végezd el a változtatásokat, és küldj egy pull requestet.

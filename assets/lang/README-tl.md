@@ -421,6 +421,16 @@ Ngayong naka-upload na ang iyong branch sa GitHub, oras na para isumite ang iyon
 Maaari mong makita ang live na resulta ng mga kontribusyon ng lahat dito:
 👉 **[Ang Aming Mga Contributor](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 TUMUNGO SA SUSUNOD NA LEVEL!
+
+Naidagdag mo na ba ang iyong contributor card? Ang susunod na antas ay **[levels/](../../levels/)**! Dalhin ang iyong mga kasanayan sa susunod na antas gamit ang aming mga hamon sa pag-code:
+
+👉 **[Tuklasin ang Mga Coding Level (levels/)](../../levels/)**
+
+---
+
 ##
 
 Tandaan, simula pa lamang ito! May libu-libong open source projects na naghihintay para sa iyong kontribusyon, at ang proseso ay halos pareho sa lahat ng dako: i-fork ang repository, gumawa ng branch, gawin ang mga pagbabago, at magsumite ng pull request.

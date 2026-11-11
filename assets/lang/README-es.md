@@ -421,6 +421,16 @@ Ahora que tu rama está subida a GitHub, ¡es hora de enviar tu contribución al
 Puedes ver el resultado en vivo de las contribuciones de todos aquí:
 👉 **[Nuestros Colaboradores](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 ¡SUBE DE NIVEL TUS HABILIDADES!
+
+¿Ya añadiste tu tarjeta de colaborador? ¡El siguiente nivel es **[levels/](../../levels/)**! Lleva tus habilidades más lejos con nuestros retos prácticos de programación:
+
+👉 **[Explorar Niveles de Código (levels/)](../../levels/)**
+
+---
+
 ##
 
 ¡Recuerda, esto es solo el comienzo! Hay miles de proyectos de código abierto esperando tu contribución, y el flujo de trabajo es básicamente el mismo en todas partes: haz un fork del repositorio, crea una rama, realiza tus cambios y envía un pull request.

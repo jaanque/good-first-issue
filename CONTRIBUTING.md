@@ -38,3 +38,19 @@ If you prefer reading the instructions in another language, check out the transl
 
 Once accepted, your card will automatically appear on our [Contributors Showcase](https://jaanque.github.io/good-first-issue/)!
 
+## 🚀 Want More Practice? Try Coding Levels!
+
+Take your contributions further with our progressive programming tracks:
+👉 **[Explore Coding Levels (levels/)](levels/)**
+
+### Active Tracks:
+- 🐍 **[Python Track (10 Levels)](levels/python/)**: From basic `print()` to data structures, string manipulation, and OOP.
+- 🟨 **[JavaScript Track (10 Levels)](levels/js/)**: From `console.log()` to array algorithms, hash maps, and ES6 classes.
+
+### How to Contribute to a Level:
+1. Navigate to the level folder (e.g. `levels/python/level-1/` or `levels/js/level-1/`).
+2. Read the level's `README.md` for clear specifications, theory, and examples.
+3. Create your own solution file named `<your-username>.<ext>` (e.g. `octocat.py` or `octocat.js`).
+4. Test your code locally to ensure it runs without errors.
+5. Submit a Pull Request following standard Git workflow. Note: Please do not modify existing contributors' solutions!
+

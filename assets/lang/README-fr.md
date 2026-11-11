@@ -421,6 +421,16 @@ Maintenant que votre branche est en ligne sur GitHub, il est temps de soumettre 
 Vous pouvez voir le résultat en direct des contributions de chacun ici :
 👉 **[Nos Contributeurs](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 PASSEZ AU NIVEAU SUPÉRIEUR !
+
+Vous avez déjà ajouté votre carte de contributeur ? Le niveau suivant, c'est **[levels/](../../levels/)** ! Allez plus loin grâce à nos défis pratiques de programmation :
+
+👉 **[Explorer les niveaux de code (levels/)](../../levels/)**
+
+---
+
 ##
 
 Rappelez-vous, ce n'est que le début ! Des milliers de projets open source attendent vos contributions, et le processus est essentiellement le même partout : forker le dépôt, créer une branche, apporter ses modifications et soumettre une pull request.

@@ -421,6 +421,16 @@ Sekarang branch Anda telah diunggah ke GitHub, saatnya mengirimkan kontribusi An
 Anda dapat melihat hasil langsung dari kontribusi semua orang di sini:
 👉 **[Kontributor Kami](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 NAIK KE LEVEL BERIKUTNYA!
+
+Sudah menambahkan kartu kontributor Anda? Level berikutnya adalah **[levels/](../../levels/)**! Kembangkan keahlian Anda lebih jauh dengan tantangan pemrograman praktis kami:
+
+👉 **[Jelajahi Level Koding (levels/)](../../levels/)**
+
+---
+
 ##
 
 Ingat, ini hanyalah permulaan! Ada ribuan proyek open source di luar sana yang menunggu kontribusi Anda, dan alur kerjanya pada dasarnya sama di mana saja: fork repositori, buat branch, lakukan perubahan, dan kirimkan pull request.

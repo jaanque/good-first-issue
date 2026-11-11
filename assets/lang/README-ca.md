@@ -421,6 +421,16 @@ Ara que la teva branca està pujada a GitHub, és hora d'enviar la teva col·lab
 Pots veure el resultat en viu de les contribucions de tothom aquí:
 👉 **[Els nostres col·laboradors](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 PUJA DE NIVELL LES TEVES HABILITATS!
+
+Ja has afegit la teva targeta de col·laborador? El següent nivell és **[levels/](../../levels/)**! Porta les teves habilitats més lluny amb els nostres reptes pràctics de programació:
+
+👉 **[Explora els nivells de programació (levels/)](../../levels/)**
+
+---
+
 ##
 
 Recorda, això és només el començament! Hi ha milers de projectes de codi obert esperant la teva col·laboració, i el flux de treball és pràcticament el mateix a tot arreu: fes un fork del repositori, crea una branca, fes els teus canvis i envia un pull request.

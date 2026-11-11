@@ -421,6 +421,16 @@ Bây giờ nhánh của bạn đã được tải lên GitHub, đã đến lúc 
 Bạn có thể xem kết quả đóng góp của mọi người trực tiếp tại đây:
 👉 **[Những người đóng góp](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 TIẾN TỚI CẤP ĐỘ TIẾP THEO!
+
+Bạn đã thêm thẻ đóng góp của mình chưa? Cấp độ tiếp theo chính là **[levels/](../../levels/)**! Nâng cao kỹ năng hơn nữa với các thử thách lập trình thực tế của chúng tôi:
+
+👉 **[Khám phá các cấp độ lập trình (levels/)](../../levels/)**
+
+---
+
 ##
 
 Hãy nhớ rằng, đây mới chỉ là khởi đầu! Có hàng ngàn dự án nguồn mở ngoài kia đang chờ đón sự đóng góp của bạn, và quy trình ở đâu cũng tương tự nhau: fork kho lưu trữ, tạo nhánh, chỉnh sửa và gửi pull request.

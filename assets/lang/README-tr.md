@@ -421,6 +421,16 @@ Dalınız GitHub'a yüklendiğine göre, artık projeye katkınızı sunma zaman
 Herkesin katkılarını canlı olarak buradan görebilirsiniz:
 👉 **[Katkıda Bulunanlar](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 BİR SONRAKİ SEVİYEYE GEÇİN!
+
+Katkıda bulunan kartınızı eklediniz mi? Bir sonraki seviye **[levels/](../../levels/)**! Uygulamalı kodlama görevlerimizle becerilerinizi daha da ileriye taşıyın:
+
+👉 **[Kodlama Seviyelerini Keşfedin (levels/)](../../levels/)**
+
+---
+
 ##
 
 Unutmayın, bu sadece bir başlangıç! Katkınızı bekleyen binlerce açık kaynak projesi var ve iş akışı her yerde temelde aynıdır: depoyu fork'layın, dal oluşturun, değişikliklerinizi yapın ve pull request gönderin.

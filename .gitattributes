@@ -1,0 +1,12 @@
+levels/js/**/*.js linguist-detectable=true
+levels/python/**/*.py linguist-detectable=true
+
+assets/pages/*.html linguist-detectable=false
+index.html linguist-detectable=false
+
+assets/cards/*.json linguist-detectable=false
+final-list.json linguist-detectable=false
+assets/cards/brochdev.json linguist-detectable=false
+assets/cards/jan.json linguist-detectable=false
+
+assets/lang/*.md linguist-documentation=true

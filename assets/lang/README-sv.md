@@ -421,6 +421,16 @@ Nu när din gren är uppladdad till GitHub är det dags att skicka in ditt bidra
 Du kan se live-resultatet av alla bidrag här:
 👉 **[Våra bidragsgivare](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 TA NÄSTA STEG!
+
+Har du redan lagt till ditt bidragskort? Nästa nivå är **[levels/](../../levels/)**! Ta dina färdigheter längre med våra praktiska kodningsutmaningar:
+
+👉 **[Utforska kodningsnivåer (levels/)](../../levels/)**
+
+---
+
 ##
 
 Kom ihåg att detta bara är början! Det finns tusentals öppen källkods-projekt som väntar på ditt bidrag, och arbetsflödet är i grunden detsamma överallt: forka repositoryt, skapa en gren, gör dina ändringar och skicka en pull request.

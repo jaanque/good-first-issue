@@ -421,6 +421,16 @@ Nyní, když je vaše větev na GitHubu, je čas odeslat váš příspěvek do p
 Živý výsledek příspěvků všech účastníků si můžete prohlédnout zde:
 👉 **[Naši přispěvatelé](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 POSUŇTE SE NA DALŠÍ ÚROVEŇ!
+
+Už jste přidali svou kartu přispěvatele? Další úroveň je **[levels/](../../levels/)**! Posuňte své dovednosti dál s našimi programátorskými výzvami:
+
+👉 **[Prozkoumat úrovně (levels/)](../../levels/)**
+
+---
+
 ##
 
 Pamatujte, toto je teprve začátek! Na vaše příspěvky čekají tisíce open source projektů a postup je všude v podstatě stejný: forknout repozitář, vytvořit větev, provést změny a poslat pull request.

@@ -421,6 +421,16 @@ Agora que sua branch foi enviada para o GitHub, é hora de enviar sua contribui�
 Você pode conferir o resultado em tempo real das contribuições de todos aqui:
 👉 **[Nossos Colaboradores](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 EVOLUA SUAS HABILIDADES!
+
+Já adicionou seu cartão de colaborador? O próximo nível é **[levels/](../../levels/)**! Leve suas habilidades mais longe com nossos desafios práticos de programação:
+
+👉 **[Explorar Níveis de Código (levels/)](../../levels/)**
+
+---
+
 ##
 
 Lembre-se, este é apenas o começo! Há milhares de projetos de código aberto esperando pela sua contribuição, e o fluxo de trabalho é essencialmente o mesmo em qualquer lugar: faça o fork do repositório, crie uma branch, faça suas alterações e envie um pull request.

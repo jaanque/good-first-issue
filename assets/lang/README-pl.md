@@ -421,6 +421,16 @@ Gdy Twoja gałąź znajduje się już na GitHubie, czas zgłosić swój wkład d
 Możesz zobaczyć wkład wszystkich uczestników na żywo tutaj:
 👉 **[Nasi Współtwórcy](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 WEJDŹ NA WYŻSZY POZIOM!
+
+Dodałeś już swoją kartę współtwórcy? Następny poziom to **[levels/](../../levels/)**! Rozwijaj swoje umiejętności dzięki naszym wyzwaniom programistycznym:
+
+👉 **[Odkryj poziomy programowania (levels/)](../../levels/)**
+
+---
+
 ##
 
 Pamiętaj, że to dopiero początek! Tysiące projektów open source czeka na Twój wkład, a proces wygląda niemal identycznie wszędzie: sforkuj repozytorium, stwórz gałąź, wprowadź zmiany i wyślij pull request.

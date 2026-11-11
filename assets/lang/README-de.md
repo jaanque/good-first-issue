@@ -421,6 +421,16 @@ Da dein Branch nun auf GitHub hochgeladen ist, kannst du deinen Beitrag zum Proj
 Hier kannst du das Live-Ergebnis aller Beiträge sehen:
 👉 **[Unsere Mitwirkenden](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 VERBESSERE DEINE SKILLS!
+
+Hast du deine Mitwirkenden-Karte bereits hinzugefügt? Das nächste Level ist **[levels/](../../levels/)**! Bringe deine Fähigkeiten mit unseren Coding-Herausforderungen auf die nächste Stufe:
+
+👉 **[Coding-Level entdecken (levels/)](../../levels/)**
+
+---
+
 ##
 
 Denk daran: Das ist erst der Anfang! Es gibt tausende Open-Source-Projekte, die sich über deine Mitarbeit freuen, und der Ablauf ist überall derselbe: Repository forken, Branch erstellen, Änderungen vornehmen und einen Pull Request einreichen.

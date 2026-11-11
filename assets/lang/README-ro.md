@@ -421,6 +421,16 @@ Acum că ramura ta este încărcată pe GitHub, este timpul să trimiți contrib
 Poți vedea rezultatul în timp real al contribuțiilor tuturor aici:
 👉 **[Colaboratorii Noștri](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 TRECI LA NIVELUL URMĂTOR!
+
+Ți-ai adăugat deja cardul de colaborator? Următorul nivel este **[levels/](../../levels/)**! Du-ți abilitățile mai departe cu provocările noastre practice de programare:
+
+👉 **[Explorează nivelurile de cod (levels/)](../../levels/)**
+
+---
+
 ##
 
 Amintește-ți, acesta este doar începutul! Există mii de proiecte open source care așteaptă contribuția ta, iar fluxul de lucru este în esență același peste tot: fă fork depozitului, creează o ramură, fă modificările și trimite un pull request.
