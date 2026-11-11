@@ -53,10 +53,12 @@ if __name__ == "__main__":
 
 ## 🧪 Testing your solution
 
-Run your script in the terminal:
+Run your script in the terminal (use `python` or `python3` depending on your environment):
 
 ```bash
 python levels/python/level-7/<your-username>.py
+# or:
+python3 levels/python/level-7/<your-username>.py
 ```
 
 > [!NOTE]

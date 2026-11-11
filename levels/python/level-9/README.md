@@ -71,10 +71,12 @@ print(analyze_scores(records))
 
 ## 🧪 Testing your solution
 
-Run your script in the terminal:
+Run your script in the terminal (use `python` or `python3` depending on your environment):
 
 ```bash
 python levels/python/level-9/<your-username>.py
+# or:
+python3 levels/python/level-9/<your-username>.py
 ```
 
 > [!NOTE]

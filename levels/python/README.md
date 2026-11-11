@@ -36,7 +36,9 @@ Welcome to the **Python Track**! Here you will find 10 progressive coding challe
    All challenges can be solved using the Python Standard Library only (`math`, `re`, `collections`, etc.).
 
 > [!NOTE]
-> Make sure your code runs cleanly without errors before submitting a Pull Request:
+> Make sure your code runs cleanly without errors before submitting a Pull Request (use `python` or `python3` depending on your environment):
 > ```bash
 > python levels/python/level-1/<your-username>.py
+> # or:
+> python3 levels/python/level-1/<your-username>.py
 > ```
