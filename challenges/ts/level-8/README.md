@@ -126,3 +126,4 @@ Check [`jan.ts`](jan.ts) in this directory for a complete working reference solu
 
 | ⬅️ [Previous: Level 7](../level-7/) | 🏠 [TypeScript Track Overview](../README.md) | ➡️ [Next: Level 9 (Data Aggregation) →](../level-9/) |
 | :---: | :---: | :---: |
+

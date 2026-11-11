@@ -118,3 +118,4 @@ assert.deepStrictEqual(json.completedLevels, [1, 2, 3, 4, 5]);
 assert.ok(json.languages.includes("Python"));
 
 console.log("✅ All tests passed successfully!");
+

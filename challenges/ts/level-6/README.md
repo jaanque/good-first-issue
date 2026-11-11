@@ -84,3 +84,4 @@ Check [`jan.ts`](jan.ts) in this directory for a complete working reference solu
 
 | ⬅️ [Previous: Level 5](../level-5/) | 🏠 [TypeScript Track Overview](../README.md) | ➡️ [Next: Level 7 (Strings & Palindromes) →](../level-7/) |
 | :---: | :---: | :---: |
+

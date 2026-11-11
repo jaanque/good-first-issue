@@ -99,3 +99,4 @@ Check [`jan.ts`](jan.ts) in this directory for a complete working reference solu
 
 | ⬅️ [Previous: Level 6](../level-6/) | 🏠 [TypeScript Track Overview](../README.md) | ➡️ [Next: Level 8 (Record & Word Frequency) →](../level-8/) |
 | :---: | :---: | :---: |
+

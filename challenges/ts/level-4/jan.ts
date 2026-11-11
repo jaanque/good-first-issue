@@ -41,3 +41,4 @@ tests.forEach(([a, b, op, expected]) => {
 });
 
 console.log("✅ All tests passed successfully!");
+

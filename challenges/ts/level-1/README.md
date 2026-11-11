@@ -79,3 +79,4 @@ Check [`jan.ts`](jan.ts) in this directory for a complete working reference solu
 
 | 🏠 [TypeScript Track Overview](../README.md) | 🚀 [All Tracks](../../README.md) | ➡️ [Next: Level 2 (Variables & Types) →](../level-2/) |
 | :---: | :---: | :---: |
+

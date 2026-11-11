@@ -24,3 +24,4 @@ samples.forEach(([nums, expected]) => {
 });
 
 console.log("✅ All tests passed successfully!");
+

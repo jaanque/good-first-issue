@@ -21,3 +21,4 @@ assert.strictEqual(level, 2);
 assert.strictEqual(isAvailable, true);
 assert.ok(profile.includes("Contributor: Jan (@jaanque)"));
 console.log("✅ All assertions passed successfully!");
+

@@ -139,3 +139,4 @@ Check [`jan.ts`](jan.ts) in this directory for a complete working reference solu
 
 | ⬅️ [Previous: Level 8](../level-8/) | 🏠 [TypeScript Track Overview](../README.md) | ➡️ [Next: Level 10 (OOP & Interfaces) →](../level-10/) |
 | :---: | :---: | :---: |
+

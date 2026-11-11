@@ -88,3 +88,4 @@ assert.deepStrictEqual(analyzeScores(null), {
 });
 
 console.log("✅ All tests passed successfully!");
+

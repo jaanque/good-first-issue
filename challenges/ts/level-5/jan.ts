@@ -41,3 +41,4 @@ assert.deepStrictEqual(fizzBuzz(0), []);
 assert.deepStrictEqual(fizzBuzz(3), ["1", "2", "Fizz"]);
 assert.deepStrictEqual(fizzBuzz(5), ["1", "2", "Fizz", "4", "Buzz"]);
 console.log("✅ All tests passed successfully!");
+
