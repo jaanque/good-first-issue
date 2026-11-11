@@ -215,6 +215,7 @@
 - [5. 📇 Add Your Contributor Card](#5--add-your-contributor-card)
 - [6. 💾 Commit and Push Your Changes](#6--commit-and-push-your-changes)
 - [7. 🚀 Create the Pull Request](#7--create-the-pull-request)
+- [👥 Contributors](#-contributors)
 - [🎯 Level Up Your Coding Skills!](#level-up-your-coding-skills)
 
 </details>
@@ -378,6 +379,12 @@ git push origin <your-branch-name>
 
 > [!TIP]
 > Once reviewed and merged, your card will automatically go live on the [Contributors Showcase](https://jaanque.github.io/good-first-issue/)!
+
+---
+
+## 👥 Contributors
+
+Usa el bot de All Contributors (@all-contributors). Este bot añade automáticamente la foto de perfil de cualquier persona que contribuya a tu README. A los desarrolladores les encanta este reconocimiento visual, lo que los motiva a compartir tu repo.
 
 ---
 
