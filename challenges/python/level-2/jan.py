@@ -13,3 +13,11 @@ profile = (
 )
 
 print(profile)
+
+if __name__ == "__main__":
+    assert username == "jaanque"
+    assert name == "Jan"
+    assert favorite_language == "Python"
+    assert level == 2
+    assert "Contributor: Jan (@jaanque)" in profile
+    print("✅ All assertions passed successfully!")

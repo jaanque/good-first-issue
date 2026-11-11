@@ -24,7 +24,7 @@ Object-Oriented Programming models real-world concepts by bundling data (attribu
 2. **The Dangerous Mutable Default Argument Trap:**
    In Python, never use a mutable default like `languages: list = []` in function signatures! In Python, default lists are created once when the function is defined and shared across all instances.
    > [!IMPORTANT]
-   > The standard Pythonic pattern is:
+   > The standard Pythonic pattern is (using `from __future__ import annotations` for universal compatibility across Python versions):
    > ```python
    > languages: list[str] | None = None
    > # Then inside __init__:
@@ -95,6 +95,8 @@ Create a file named `<your-username>.py` in this directory containing a class `C
 
 Contributor: @octocat
 """
+
+from __future__ import annotations
 
 
 class ContributorProfile:

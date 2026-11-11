@@ -3,6 +3,8 @@
 Contributor: @jaanque (Jan)
 """
 
+from __future__ import annotations
+
 
 def calculate(a: float, b: float, operation: str) -> float | str:
     """Perform a basic arithmetic operation between two numbers."""
@@ -27,9 +29,12 @@ if __name__ == "__main__":
         (15, 3, "/", 5.0),
         (10, 0, "/", "Error: Division by zero"),
         (4, 2, "%", "Error: Invalid operation"),
+        (7, 2, "^", "Error: Invalid operation"),
     ]
 
     for a, b, op, expected in tests:
         res = calculate(a, b, op)
-        status = "✅ PASS" if res == expected else "❌ FAIL"
-        print(f"{status} | {a} {op} {b} = {res}")
+        assert res == expected, f"Expected {expected}, got {res}"
+        print(f"✅ PASS | {a} {op} {b} = {res}")
+
+    print("✅ All tests passed successfully!")

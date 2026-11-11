@@ -21,7 +21,7 @@ Clean code must anticipate and handle invalid user inputs and mathematical edge 
    In Python, attempting to evaluate `10 / 0` crashes your program immediately with a `ZeroDivisionError`. Defensive programming checks for `b == 0` beforehand and returns a user-friendly error message.
 
 3. **Type Hint Union (`float | str`):**
-   Since our function returns a number on success and an error string on failure, Python 3.10+ expresses this cleanly using `float | str`.
+   Since our function returns a number on success and an error string on failure, Python 3.10+ expresses this cleanly using `float | str`. Adding `from __future__ import annotations` at the top ensures this syntax works seamlessly across all Python versions.
 
 ---
 
@@ -55,6 +55,8 @@ Create a file named `<your-username>.py` in this directory containing a function
 
 Contributor: @octocat
 """
+
+from __future__ import annotations
 
 
 def calculate(a: float, b: float, operation: str) -> float | str:

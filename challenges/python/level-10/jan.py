@@ -3,6 +3,8 @@
 Contributor: @jaanque (Jan)
 """
 
+from __future__ import annotations
+
 
 class ContributorProfile:
     """Manages an open-source contributor profile and tracks level completion."""
@@ -67,11 +69,39 @@ if __name__ == "__main__":
     profile = ContributorProfile("jaanque", "Jan", ["Python", "JavaScript"])
     print(profile.introduce())
 
+    assert profile.username == "jaanque"
+    assert profile.name == "Jan"
+    assert profile.languages == ["Python", "JavaScript"]
+    assert profile.completed_levels == []
+    assert profile.get_progress() == 0.0
+
+    # Test duplicate language prevention
+    profile.add_language("Python")
+    assert profile.languages == ["Python", "JavaScript"]
+
+    # Test completing valid levels
     for lvl in [1, 2, 3, 4, 5]:
-        profile.complete_level(lvl)
+        assert profile.complete_level(lvl) is True
+
+    # Test completing duplicate level returns False
+    assert profile.complete_level(3) is False
+
+    # Test completing invalid levels returns False
+    assert profile.complete_level(0) is False
+    assert profile.complete_level(11) is False
+
+    assert profile.completed_levels == [1, 2, 3, 4, 5]
+    assert profile.get_progress() == 50.0
 
     profile.add_language("Rust")
     print("\nAfter progress:")
     print(profile.introduce())
-    print("\nSerialized profile:\n", profile.to_dict())
 
+    data = profile.to_dict()
+    print("\nSerialized profile:\n", data)
+    assert data["username"] == "jaanque"
+    assert data["progress"] == 50.0
+    assert data["completed_levels"] == [1, 2, 3, 4, 5]
+    assert "Rust" in data["languages"]
+
+    print("✅ All tests passed successfully!")

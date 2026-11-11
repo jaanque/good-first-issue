@@ -1,4 +1,4 @@
-# 🐍 Python Track — 10 Progressive Coding Levels
+# 🐍 Python Track — 10 Progressive Coding Challenges
 
 Welcome to the **Python Track**!
 

@@ -3,6 +3,8 @@
 Contributor: @jaanque (Jan)
 """
 
+from __future__ import annotations
+
 
 def analyze_scores(records: list[dict]) -> dict:
     """Analyze participant score records and calculate summary metrics."""
@@ -40,8 +42,23 @@ if __name__ == "__main__":
     ]
 
     print("Sample records:\n", sample_records)
-    print("\nScore Analysis:\n", analyze_scores(sample_records))
+    analysis = analyze_scores(sample_records)
+    print("\nScore Analysis:\n", analysis)
 
-    empty_records = []
-    print("\nEmpty records analysis:\n", analyze_scores(empty_records))
+    assert analysis["total"] == 5
+    assert analysis["average"] == 70.4
+    assert analysis["highest"] == {"name": "Charlie", "score": 92}
+    assert analysis["lowest"] == {"name": "Evan", "score": 45}
+    assert analysis["passed"] == ["Alice", "Charlie", "Diana"]
 
+    # Test empty list edge case
+    empty_res = analyze_scores([])
+    assert empty_res == {
+        "total": 0,
+        "average": 0.0,
+        "highest": None,
+        "lowest": None,
+        "passed": [],
+    }
+
+    print("✅ All tests passed successfully!")

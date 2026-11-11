@@ -1,4 +1,4 @@
-# 🟨 JavaScript (JS) Track — 10 Progressive Coding Levels
+# 🟨 JavaScript (JS) Track — 10 Progressive Coding Challenges
 
 Welcome to the **JavaScript Track**! 
 

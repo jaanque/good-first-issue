@@ -3,6 +3,8 @@
 Contributor: @jaanque (Jan)
 """
 
+from __future__ import annotations
+
 
 def process_numbers(numbers: list[int]) -> list[int]:
     """Filter positive even numbers and square them."""
@@ -20,6 +22,7 @@ if __name__ == "__main__":
 
     for nums, expected in samples:
         result = process_numbers(nums)
-        status = "✅ PASS" if result == expected else "❌ FAIL"
-        print(f"{status} | Input: {nums} -> Output: {result}")
+        assert result == expected, f"Expected {expected}, got {result}"
+        print(f"✅ PASS | Input: {nums} -> Output: {result}")
 
+    print("✅ All tests passed successfully!")

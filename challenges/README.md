@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🚀 CODING LEVELS
+# 🚀 CODING CHALLENGES
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](python/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](js/)
 
 </div>
 
-Welcome to the **Coding Levels**!
+Welcome to the **Coding Challenges**!
 
 Here you can practice programming and open-source contributions through hands-on, step-by-step coding challenges across different languages and technologies.
 
@@ -15,11 +15,11 @@ Here you can practice programming and open-source contributions through hands-on
 
 ## 🗺️ Available Tracks
 
-| Track                        |   Status   |    Levels     | Directory                   |
-| :--------------------------- | :--------: | :-----------: | :-------------------------- |
-| **Python** 🐍                | ✅ Active  | Levels 1 - 10 | [`challenges/python/`](python/) |
-| **JavaScript** 🟨            | ✅ Active  | Levels 1 - 10 | [`challenges/js/`](js/)         |
-| _More tracks coming soon..._ | ⏳ Planned |       -       | -                           |
+| Track                        |   Status   |   Challenges   | Directory                       |
+| :--------------------------- | :--------: | :------------: | :------------------------------ |
+| **Python** 🐍                | ✅ Active  | Levels 1 - 10  | [`challenges/python/`](python/) |
+| **JavaScript** 🟨            | ✅ Active  | Levels 1 - 10  | [`challenges/js/`](js/)         |
+| _More tracks coming soon..._ | ⏳ Planned |       -        | -                               |
 
 ---
 
@@ -47,15 +47,15 @@ Here you can practice programming and open-source contributions through hands-on
 ## ❓ Frequently Asked Questions (FAQ)
 
 <details>
-<summary><b>Do I have to complete all levels in order?</b></summary>
+<summary><b>Do I have to complete all challenges in order?</b></summary>
 <br/>
-We recommend completing them sequentially from Level 1 to Level 10 because concepts build on each other, but you are free to jump to any level that matches your skill.
+We recommend completing them sequentially from Level 1 to Level 10 because concepts build on each other, but you are free to jump to any challenge that matches your skill.
 </details>
 
 <details>
-<summary><b>Can I submit multiple levels in a single Pull Request?</b></summary>
+<summary><b>Can I submit multiple challenges in a single Pull Request?</b></summary>
 <br/>
-Yes! You can submit one level per PR or complete several levels on the same branch and submit them together.
+Yes! You can submit one challenge per PR or complete several challenges on the same branch and submit them together.
 </details>
 
 <details>
@@ -67,7 +67,7 @@ That is completely fine! There are many ways to solve a problem. As long as your
 <details>
 <summary><b>Can I contribute a new track or language?</b></summary>
 <br/>
-Yes! If you'd like to help add a new language track with 10 progressive levels, feel free to open an issue or pull request.
+Yes! If you'd like to help add a new language track with 10 progressive challenges, feel free to open an issue or pull request.
 </details>
 
 ---

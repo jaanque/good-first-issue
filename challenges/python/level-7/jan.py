@@ -3,6 +3,8 @@
 Contributor: @jaanque (Jan)
 """
 
+from __future__ import annotations
+
 import re
 
 
@@ -23,10 +25,13 @@ if __name__ == "__main__":
         ("python", False),
         ("open source", False),
         ("", True),
+        ("12321", True),
+        ("12345", False),
     ]
 
     for sample, expected in test_cases:
         result = is_palindrome(sample)
-        status = "✅ PASS" if result == expected else "❌ FAIL"
-        print(f"{status} | '{sample}' -> {result}")
+        assert result == expected, f"For '{sample}', expected {expected}, got {result}"
+        print(f"✅ PASS | '{sample}' -> {result}")
 
+    print("✅ All tests passed successfully!")
