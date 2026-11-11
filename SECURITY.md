@@ -4,9 +4,13 @@
 
 We actively support the latest version of the repository on the `main` branch.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| main    | :white_check_mark: |
+| Branch / Version | Supported          | Status                                                |
+| ---------------- | ------------------ | ----------------------------------------------------- |
+| `main`           | :white_check_mark: | Active branch for contributions and releases          |
+| `dev`            | :x:                | Protected development branch (**do not modify**)      |
+
+> [!IMPORTANT]
+> **Branch Policy:** The `dev` branch is reserved for internal development and **must not be modified directly**. Please do not push commits directly to `dev` or target pull requests to it. All contributions and security fixes must target the `main` branch.
 
 ## Reporting a Vulnerability
 
