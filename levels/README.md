@@ -18,15 +18,14 @@ Here you can practice programming and open-source contributions through hands-on
 
 ## 📌 How It Works
 
-1. **Pick a track:** Choose a language from the table above.
-2. **Choose a level:** Start at `level-1` and progress through `level-10`.
-3. **Read the instructions:** Each level folder has its own `README.md` explaining the concepts and requirements.
-4. **Create your file:** Inside the level folder, add a file named with your GitHub username:
+1. **Fork & Branch:** Fork this repository and create a new branch for your work (e.g. `git switch -c solution-branch`).
+2. **Pick a Track & Level:** Choose a language from the table above, start at `level-1`, and check the level's `README.md`.
+3. **Work Locally:** Inside the level directory, add your solution file named with your GitHub username:
    ```text
    levels/<track>/level-X/<your-username>.<ext>
    ```
-5. **Test your code:** Run and verify your solution locally. Each level includes a working reference file (`jan.<ext>`) for comparison.
-6. **Submit a Pull Request:** Open a PR from your branch!
+4. **Test & Compare:** Run your code locally to verify it works. You can inspect the reference file (`jan.<ext>`) for comparison.
+5. **Open a Pull Request:** Commit, push to your fork, and open a PR targeting the `main` branch of this repository!
 
 ---
 
