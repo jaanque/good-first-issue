@@ -264,7 +264,8 @@ Git과 GitHub을 처음 사용하시나요? **아주 잘 찾아오셨습니다!*
    git clone https://github.com/<본인-사용자명>/good-first-issue.git
    ```
 
-   > 💡 _`<본인-사용자명>`을 실제 GitHub 사용자명으로 변경하세요!_
+   > [!IMPORTANT]
+   > `<본인-사용자명>`을 실제 GitHub 사용자명으로 변경하세요!
 
 4. 다운로드가 완료되면 프로젝트 디렉토리로 이동합니다:
 
@@ -294,7 +295,8 @@ Git과 GitHub을 처음 사용하시나요? **아주 잘 찾아오셨습니다!*
 
    <br/>
 
-   > 💡 _팁: 이전 버전의 Git을 사용하는 경우 `git checkout -b <브랜치명>` 명령어를 사용할 수도 있습니다._
+   > [!TIP]
+   > 팁: 이전 버전의 Git을 사용하는 경우 `git checkout -b <브랜치명>` 명령어를 사용할 수도 있습니다.
 
 🌿 **준비 완료!** 지금부터 수행하는 모든 변경 사항은 새 브랜치에 유지됩니다.
 
@@ -322,7 +324,8 @@ code .
 
 <br/>
 
-> 💡 _아직 VS Code가 설치되어 있지 않나요? [code.visualstudio.com](https://code.visualstudio.com/)에서 무료로 다운로드할 수 있습니다._
+> [!NOTE]
+> 아직 VS Code가 설치되어 있지 않나요? [code.visualstudio.com](https://code.visualstudio.com/)에서 무료로 다운로드할 수 있습니다.
 
 💻 **준비 완료!** 이제 에디터에 프로젝트가 열렸으며 수정을 시작할 수 있습니다.
 
@@ -352,7 +355,8 @@ code .
 2. 프로필 사진을 우클릭하고 **"이미지 주소 복사"** (또는 **"Copy image address"**)를 선택합니다.
 3. 복사한 URL을 `"img"` 필드에 붙여넣습니다.
 
-> 💡 _꿀팁: 이미지 URL로 `https://github.com/<본인-사용자명>.png`를 바로 사용할 수도 있습니다!_
+> [!TIP]
+> 꿀팁: 이미지 URL로 `https://github.com/<본인-사용자명>.png`를 바로 사용할 수도 있습니다!
 
 ### 예시
 
@@ -390,7 +394,8 @@ Pull Request를 생성하기 전에 변경 사항을 저장하고 브랜치를 G
    git push origin <브랜치명>
    ```
 
-   > 💡 _안내 메시지가 나타나면 `git push -u origin <브랜치명>`을 실행해도 됩니다._
+   > [!NOTE]
+   > 안내 메시지가 나타나면 `git push -u origin <브랜치명>`을 실행해도 됩니다.
 
 ## 7. PULL REQUEST 생성하기
 

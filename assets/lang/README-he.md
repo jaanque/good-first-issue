@@ -264,7 +264,8 @@
    git clone https://github.com/<your-username>/good-first-issue.git
    ```
 
-   > 💡 _החליפו את `<your-username>` בשם המשתמש האמיתי שלכם ב-GitHub!_
+   > [!IMPORTANT]
+   > החליפו את `<your-username>` בשם המשתמש האמיתי שלכם ב-GitHub!
 
 4. לאחר סיום ההורדה, היכנסו לתיקיית הפרויקט:
 
@@ -294,7 +295,8 @@
 
    <br/>
 
-   > 💡 _טיפ: אם אתם משתמשים בגרסה ישנה יותר של Git, תוכלו להשתמש גם ב-`git checkout -b <branch-name>`._
+   > [!TIP]
+   > טיפ: אם אתם משתמשים בגרסה ישנה יותר של Git, תוכלו להשתמש גם ב-`git checkout -b <branch-name>`.
 
 🌿 **הכל מוכן!** כל שינוי שתבצעו מעתה והלאה יישמר בענף החדש שלכם.
 
@@ -322,7 +324,8 @@ code .
 
 <br/>
 
-> 💡 _עדיין לא התקנתם את VS Code? תוכלו להוריד אותו בחינם מ-[code.visualstudio.com](https://code.visualstudio.com/)._
+> [!NOTE]
+> עדיין לא התקנתם את VS Code? תוכלו להוריד אותו בחינם מ-[code.visualstudio.com](https://code.visualstudio.com/).
 
 💻 **מוכן!** הפרויקט פתוח כעת בעורך שלכם ואתם מוכנים להתחיל לערוך.
 
@@ -352,7 +355,8 @@ code .
 2. לחצו לחיצה ימנית על תמונת הפרופיל שלכם ובחרו ב-**"העתק כתובת תמונה"** (או **"Copy image address"**).
 3. הדביקו את ה-URL שהעתקתם בשדה `"img"`.
 
-> 💡 _טיפ מהיר: תוכלו גם להשתמש בכתובת `https://github.com/<your-username>.png` ככתובת התמונה!_
+> [!TIP]
+> טיפ מהיר: תוכלו גם להשתמש בכתובת `https://github.com/<your-username>.png` ככתובת התמונה!
 
 ### דוגמה
 
@@ -390,7 +394,8 @@ code .
    git push origin <branch-name>
    ```
 
-   > 💡 _אם תתבקשו, תוכלו גם להריץ `git push -u origin <branch-name>`._
+   > [!NOTE]
+   > אם תתבקשו, תוכלו גם להריץ `git push -u origin <branch-name>`.
 
 ## 7. צרו את ה-PULL REQUEST
 

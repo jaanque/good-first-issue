@@ -264,7 +264,8 @@ Başlamadan önce aşağıdaki temel araçların hazır olduğundan emin olun:
    git clone https://github.com/<kullanici-adiniz>/good-first-issue.git
    ```
 
-   > 💡 _`<kullanici-adiniz>` kısmını gerçek GitHub kullanıcı adınızla değiştirin!_
+   > [!IMPORTANT]
+   > `<kullanici-adiniz>` kısmını gerçek GitHub kullanıcı adınızla değiştirin!
 
 4. İndirme tamamlandığında, proje dizinine geçin:
 
@@ -294,7 +295,8 @@ Herhangi bir değişiklik yapmadan önce yeni bir dal oluşturmak en iyi uygulam
 
    <br/>
 
-   > 💡 _İpucu: Git'in daha eski bir sürümünü kullanıyorsanız `git checkout -b <dal-adiniz>` komutunu da kullanabilirsiniz._
+   > [!TIP]
+   > İpucu: Git'in daha eski bir sürümünü kullanıyorsanız `git checkout -b <dal-adiniz>` komutunu da kullanabilirsiniz.
 
 🌿 **Her şey hazır!** Bundan sonra yapacağınız tüm değişiklikler bu yeni dalda kalacaktır.
 
@@ -322,7 +324,8 @@ Proje dosyalarını dosya gezgininde göreceksiniz:
 
 <br/>
 
-> 💡 _Henüz VS Code yüklü değil mi? [code.visualstudio.com](https://code.visualstudio.com/) adresinden ücretsiz indirebilirsiniz._
+> [!NOTE]
+> Henüz VS Code yüklü değil mi? [code.visualstudio.com](https://code.visualstudio.com/) adresinden ücretsiz indirebilirsiniz.
 
 💻 **Hazır!** Proje düzenleyicinizde açıldı ve düzenlemeye başlayabilirsiniz.
 
@@ -352,7 +355,8 @@ Dosyanız `jan.json` ile birebir aynı yapıyı izlemelidir:
 2. Profil resminize sağ tıklayın ve **"Resim adresini kopyala"** (veya **"Copy image address"**) seçeneğini seçin.
 3. Kopyalanan bu adresi `"img"` alanına yapıştırın.
 
-> 💡 _Küçük bir ipucu: Resim URL'si olarak doğrudan `https://github.com/<kullanici-adiniz>.png` adresini de kullanabilirsiniz!_
+> [!TIP]
+> Küçük bir ipucu: Resim URL'si olarak doğrudan `https://github.com/<kullanici-adiniz>.png` adresini de kullanabilirsiniz!
 
 ### ÖRNEK
 
@@ -390,7 +394,8 @@ Pull Request oluşturmadan önce değişikliklerinizi kaydetmeniz ve dalınızı
    git push origin <dal-adiniz>
    ```
 
-   > 💡 _İstenirse `git push -u origin <dal-adiniz>` komutunu da çalıştırabilirsiniz._
+   > [!NOTE]
+   > İstenirse `git push -u origin <dal-adiniz>` komutunu da çalıştırabilirsiniz.
 
 ## 7. PULL REQUEST OLUŞTURUN
 

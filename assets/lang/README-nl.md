@@ -264,7 +264,8 @@ Nu moet je de geforkte repository downloaden naar je computer zodat je de bestan
    git clone https://github.com/<jouw-gebruikersnaam>/good-first-issue.git
    ```
 
-   > 💡 _Vervang `<jouw-gebruikersnaam>` door je daadwerkelijke GitHub-gebruikersnaam!_
+   > [!IMPORTANT]
+   > Vervang `<jouw-gebruikersnaam>` door je daadwerkelijke GitHub-gebruikersnaam!
 
 4. Zodra het downloaden is voltooid, navigeer je naar de projectmap:
 
@@ -294,7 +295,8 @@ Voordat je wijzigingen aanbrengt, is het een best practice om een nieuwe branch 
 
    <br/>
 
-   > 💡 _Tip: Als je een oudere versie van Git gebruikt, kun je ook `git checkout -b <jouw-branch-naam>` gebruiken._
+   > [!TIP]
+   > Tip: Als je een oudere versie van Git gebruikt, kun je ook `git checkout -b <jouw-branch-naam>` gebruiken.
 
 🌿 **Helemaal klaar!** Alle wijzigingen die je vanaf nu aanbrengt, blijven op je nieuwe branch.
 
@@ -322,7 +324,8 @@ Je zou de projectbestanden in de verkenner moeten zien:
 
 <br/>
 
-> 💡 _Heb je VS Code nog niet geïnstalleerd? Je kunt het gratis downloaden via [code.visualstudio.com](https://code.visualstudio.com/)._
+> [!NOTE]
+> Heb je VS Code nog niet geïnstalleerd? Je kunt het gratis downloaden via [code.visualstudio.com](https://code.visualstudio.com/).
 
 💻 **Alles klaar!** Je hebt nu het project geopend in je editor en kunt beginnen met bewerken.
 
@@ -352,7 +355,8 @@ Je bestand moet exact dezelfde structuur volgen als `jan.json`:
 2. Klik met de rechtermuisknop op je profielfoto en kies **"Afbeeldingsadres kopiëren"** (of **"Copy image address"**).
 3. Plak die gekopieerde URL in het veld `"img"`.
 
-> 💡 _Handige tip: Je kunt ook `https://github.com/<jouw-gebruikersnaam>.png` direct gebruiken als URL voor je afbeelding!_
+> [!TIP]
+> Handige tip: Je kunt ook `https://github.com/<jouw-gebruikersnaam>.png` direct gebruiken als URL voor je afbeelding!
 
 ### VOORBEELD
 
@@ -390,7 +394,8 @@ Voordat je de Pull Request aanmaakt, moet je je wijzigingen opslaan en je branch
    git push origin <jouw-branch-naam>
    ```
 
-   > 💡 _Indien gevraagd, kun je ook `git push -u origin <jouw-branch-naam>` uitvoeren._
+   > [!NOTE]
+   > Indien gevraagd, kun je ook `git push -u origin <jouw-branch-naam>` uitvoeren.
 
 ## 7. MAAK DE PULL REQUEST AAN
 

@@ -264,7 +264,8 @@ Agora você precisa baixar o repositório bifurcado para o seu computador para p
    git clone https://github.com/<seu-usuario>/good-first-issue.git
    ```
 
-   > 💡 _Substitua `<seu-usuario>` pelo seu verdadeiro nome de usuário do GitHub!_
+   > [!IMPORTANT]
+   > Substitua `<seu-usuario>` pelo seu verdadeiro nome de usuário do GitHub!
 
 4. Assim que o download terminar, navegue até a pasta do projeto:
 
@@ -294,7 +295,8 @@ Antes de fazer qualquer alteração, a melhor prática é criar uma nova branch.
 
    <br/>
 
-   > 💡 _Dica: Se estiver usando uma versão mais antiga do Git, você também pode usar `git checkout -b <nome-da-sua-branch>`._
+   > [!TIP]
+   > Dica: Se estiver usando uma versão mais antiga do Git, você também pode usar `git checkout -b <nome-da-sua-branch>`.
 
 🌿 **Tudo pronto!** Todas as alterações que você fizer a partir de agora ficarão na sua nova branch.
 
@@ -322,7 +324,8 @@ Você deverá ver os arquivos do projeto no explorador:
 
 <br/>
 
-> 💡 _Ainda não tem o VS Code instalado? Você pode baixá-lo gratuitamente em [code.visualstudio.com](https://code.visualstudio.com/)._
+> [!NOTE]
+> Ainda não tem o VS Code instalado? Você pode baixá-lo gratuitamente em [code.visualstudio.com](https://code.visualstudio.com/).
 
 💻 **Tudo pronto!** Você agora tem o projeto aberto no seu editor e está pronto para começar a editar.
 
@@ -352,7 +355,8 @@ Seu arquivo deve seguir exatamente a mesma estrutura de `jan.json`:
 2. Clique com o botão direito na sua foto de perfil e selecione **"Copiar endereço da imagem"** (ou **"Copy image address"**).
 3. Cole a URL copiada no campo `"img"`.
 
-> 💡 _Dica rápida: Você também pode usar `https://github.com/<seu-usuario>.png` como a URL da sua imagem!_
+> [!TIP]
+> Dica rápida: Você também pode usar `https://github.com/<seu-usuario>.png` como a URL da sua imagem!
 
 ### EXEMPLO
 
@@ -390,7 +394,8 @@ Antes de criar a Pull Request, você precisa salvar suas alterações e enviar s
    git push origin <nome-da-sua-branch>
    ```
 
-   > 💡 _Se solicitado, você também pode executar `git push -u origin <nome-da-sua-branch>`._
+   > [!NOTE]
+   > Se solicitado, você também pode executar `git push -u origin <nome-da-sua-branch>`.
 
 ## 7. CRIE A PULL REQUEST
 

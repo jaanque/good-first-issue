@@ -264,7 +264,8 @@ Teraz musisz pobrać sforkowane repozytorium na swój komputer, aby móc edytowa
    git clone https://github.com/<twoja-nazwa-uzytkownika>/good-first-issue.git
    ```
 
-   > 💡 _Zastąp `<twoja-nazwa-uzytkownika>` swoją rzeczywistą nazwą użytkownika na GitHubie!_
+   > [!IMPORTANT]
+   > Zastąp `<twoja-nazwa-uzytkownika>` swoją rzeczywistą nazwą użytkownika na GitHubie!
 
 4. Po zakończeniu pobierania przejdź do katalogu projektu:
 
@@ -294,7 +295,8 @@ Zanim dokonasz jakichkolwiek zmian, dobrą praktyką jest utworzenie nowej gał�
 
    <br/>
 
-   > 💡 _Wskazówka: Jeśli używasz starszej wersji Gita, możesz również użyć `git checkout -b <nazwa-twojej-galezi>`._
+   > [!TIP]
+   > Wskazówka: Jeśli używasz starszej wersji Gita, możesz również użyć `git checkout -b <nazwa-twojej-galezi>`.
 
 🌿 **Wszystko gotowe!** Wszelkie zmiany od tej pory będą zapisywane na Twojej nowej gałęzi.
 
@@ -322,7 +324,8 @@ W eksploratorze powinieneś zobaczyć pliki projektu:
 
 <br/>
 
-> 💡 _Nie masz jeszcze zainstalowanego VS Code? Możesz pobrać go bezpłatnie ze strony [code.visualstudio.com](https://code.visualstudio.com/)._
+> [!NOTE]
+> Nie masz jeszcze zainstalowanego VS Code? Możesz pobrać go bezpłatnie ze strony [code.visualstudio.com](https://code.visualstudio.com/).
 
 💻 **Gotowe!** Projekt jest otwarty w edytorze i możesz przystąpić do edycji.
 
@@ -352,7 +355,8 @@ Twój plik musi mieć dokładnie taką samą strukturę jak `jan.json`:
 2. Kliknij prawym przyciskiem myszy na swoje zdjęcie profilowe i wybierz **"Kopiuj adres obrazu"** (lub **"Copy image address"**).
 3. Wklej skopiowany adres URL w polu `"img"`.
 
-> 💡 _Szybka sztuczka: Jako URL zdjęcia możesz także użyć `https://github.com/<twoja-nazwa-uzytkownika>.png`!_
+> [!TIP]
+> Szybka sztuczka: Jako URL zdjęcia możesz także użyć `https://github.com/<twoja-nazwa-uzytkownika>.png`!
 
 ### PRZYKŁAD
 
@@ -390,7 +394,8 @@ Przed utworzeniem Pull Requesta musisz zapisać zmiany i wysłać swoją gałą�
    git push origin <nazwa-twojej-galezi>
    ```
 
-   > 💡 _W razie potrzeby możesz także użyć `git push -u origin <nazwa-twojej-galezi>`._
+   > [!NOTE]
+   > W razie potrzeby możesz także użyć `git push -u origin <nazwa-twojej-galezi>`.
 
 ## 7. UTWÓRZ PULL REQUEST
 

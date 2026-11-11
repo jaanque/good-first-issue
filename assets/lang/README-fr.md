@@ -264,7 +264,8 @@ Vous devez maintenant télécharger votre dépôt forké sur votre ordinateur af
    git clone https://github.com/<votre-nom-d-utilisateur>/good-first-issue.git
    ```
 
-   > 💡 _Remplacez `<votre-nom-d-utilisateur>` par votre vrai nom d'utilisateur GitHub !_
+   > [!IMPORTANT]
+   > Remplacez `<votre-nom-d-utilisateur>` par votre vrai nom d'utilisateur GitHub !
 
 4. Une fois le téléchargement terminé, accédez au répertoire du projet :
 
@@ -294,7 +295,8 @@ Avant d'effectuer la moindre modification, il est recommandé de créer une nouv
 
    <br/>
 
-   > 💡 _Astuce : Si vous utilisez une version plus ancienne de Git, vous pouvez également utiliser `git checkout -b <nom-de-votre-branche>`._
+   > [!TIP]
+   > Astuce : Si vous utilisez une version plus ancienne de Git, vous pouvez également utiliser `git checkout -b <nom-de-votre-branche>`.
 
 🌿 **Tout est prêt !** Toutes les modifications que vous effectuerez à partir de maintenant resteront sur votre nouvelle branche.
 
@@ -322,7 +324,8 @@ Vous devriez voir les fichiers du projet dans l'explorateur :
 
 <br/>
 
-> 💡 _Vous n'avez pas encore installé VS Code ? Vous pouvez le télécharger gratuitement sur [code.visualstudio.com](https://code.visualstudio.com/)._
+> [!NOTE]
+> Vous n'avez pas encore installé VS Code ? Vous pouvez le télécharger gratuitement sur [code.visualstudio.com](https://code.visualstudio.com/).
 
 💻 **Tout est paré !** Le projet est ouvert dans votre éditeur et vous êtes prêt à commencer les modifications.
 
@@ -352,7 +355,8 @@ Votre fichier doit respecter exactement la même structure que `jan.json` :
 2. Faites un clic droit sur votre photo de profil et sélectionnez **"Copier l'adresse de l'image"** (ou **"Copy image address"**).
 3. Collez cette URL copiée dans le champ `"img"`.
 
-> 💡 _Astuce rapide : Vous pouvez également utiliser `https://github.com/<votre-nom-d-utilisateur>.png` comme URL pour votre image !_
+> [!TIP]
+> Astuce rapide : Vous pouvez également utiliser `https://github.com/<votre-nom-d-utilisateur>.png` comme URL pour votre image !
 
 ### EXEMPLE
 
@@ -390,7 +394,8 @@ Avant de créer la Pull Request, vous devez enregistrer vos modifications et env
    git push origin <nom-de-votre-branche>
    ```
 
-   > 💡 _Si vous y êtes invité, vous pouvez également exécuter `git push -u origin <nom-de-votre-branche>`._
+   > [!NOTE]
+   > Si vous y êtes invité, vous pouvez également exécuter `git push -u origin <nom-de-votre-branche>`.
 
 ## 7. CRÉER LA PULL REQUEST
 

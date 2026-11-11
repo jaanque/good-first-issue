@@ -264,7 +264,8 @@ Nyní musíte stáhnout svůj forknutý repozitář do počítače, abyste mohli
    git clone https://github.com/<vase-uzivatelske-jmeno>/good-first-issue.git
    ```
 
-   > 💡 _Nahraďte `<vase-uzivatelske-jmeno>` svým skutečným uživatelským jménem na GitHubu!_
+   > [!IMPORTANT]
+   > Nahraďte `<vase-uzivatelske-jmeno>` svým skutečným uživatelským jménem na GitHubu!
 
 4. Po dokončení stahování přejděte do adresáře projektu:
 
@@ -294,7 +295,8 @@ Před provedením jakýchkoli změn je osvědčeným postupem vytvořit novou v�
 
    <br/>
 
-   > 💡 _Tip: Pokud používáte starší verzi Gitu, můžete použít také `git checkout -b <nazev-vasi-vetve>`._
+   > [!TIP]
+   > Tip: Pokud používáte starší verzi Gitu, můžete použít také `git checkout -b <nazev-vasi-vetve>`.
 
 🌿 **Vše je připraveno!** Veškeré změny, které od této chvíle provedete, zůstanou ve vaší nové větvi.
 
@@ -322,7 +324,8 @@ V průzkumníku byste měli vidět soubory projektu:
 
 <br/>
 
-> 💡 _Ještě nemáte nainstalovaný VS Code? Můžete si jej zdarma stáhnout z [code.visualstudio.com](https://code.visualstudio.com/)._
+> [!NOTE]
+> Ještě nemáte nainstalovaný VS Code? Můžete si jej zdarma stáhnout z [code.visualstudio.com](https://code.visualstudio.com/).
 
 💻 **Hotovo!** Nyní máte projekt otevřený v editoru a můžete začít upravovat.
 
@@ -352,7 +355,8 @@ Váš soubor musí mít přesně stejnou strukturu jako `jan.json`:
 2. Klikněte pravým tlačítkem myši na svůj profilový obrázek a vyberte **"Kopírovat adresu obrázku"** (nebo **"Copy image address"**).
 3. Vložte zkopírovanou URL do pole `"img"`.
 
-> 💡 _Rychlý tip: Jako URL obrázku můžete použít také `https://github.com/<vase-uzivatelske-jmeno>.png`!_
+> [!TIP]
+> Rychlý tip: Jako URL obrázku můžete použít také `https://github.com/<vase-uzivatelske-jmeno>.png`!
 
 ### PŘÍKLAD
 
@@ -390,7 +394,8 @@ Před vytvořením Pull Requestu musíte uložit změny a odeslat větev na GitH
    git push origin <nazev-vasi-vetve>
    ```
 
-   > 💡 _Pokud vás k tomu systém vyzve, můžete také spustit `git push -u origin <nazev-vasi-vetve>`._
+   > [!NOTE]
+   > Pokud vás k tomu systém vyzve, můžete také spustit `git push -u origin <nazev-vasi-vetve>`.
 
 ## 7. VYTVOŘTE PULL REQUEST
 

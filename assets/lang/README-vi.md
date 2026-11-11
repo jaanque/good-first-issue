@@ -264,7 +264,8 @@ Bây giờ bạn cần tải kho lưu trữ đã fork về máy tính để có 
    git clone https://github.com/<ten-nguoi-dung-cua-ban>/good-first-issue.git
    ```
 
-   > 💡 _Thay thế `<ten-nguoi-dung-cua-ban>` bằng tên người dùng GitHub thật của bạn!_
+   > [!IMPORTANT]
+   > Thay thế `<ten-nguoi-dung-cua-ban>` bằng tên người dùng GitHub thật của bạn!
 
 4. Khi quá trình tải hoàn tất, chuyển vào thư mục dự án:
 
@@ -294,7 +295,8 @@ Trước khi thực hiện bất kỳ thay đổi nào, bạn nên tạo một n
 
    <br/>
 
-   > 💡 _Mẹo: Nếu bạn đang dùng phiên bản Git cũ hơn, bạn cũng có thể dùng `git checkout -b <ten-nhanh-cua-ban>`._
+   > [!TIP]
+   > Mẹo: Nếu bạn đang dùng phiên bản Git cũ hơn, bạn cũng có thể dùng `git checkout -b <ten-nhanh-cua-ban>`.
 
 🌿 **Đã xong!** Mọi chỉnh sửa từ giờ sẽ được lưu trên nhánh mới của bạn.
 
@@ -322,7 +324,8 @@ Bạn sẽ thấy các tệp của dự án trong trình quản lý tệp:
 
 <br/>
 
-> 💡 _Chưa cài đặt VS Code? Bạn có thể tải miễn phí tại [code.visualstudio.com](https://code.visualstudio.com/)._
+> [!NOTE]
+> Chưa cài đặt VS Code? Bạn có thể tải miễn phí tại [code.visualstudio.com](https://code.visualstudio.com/).
 
 💻 **Tất cả đã sẵn sàng!** Dự án đã mở trong trình biên tập và bạn có thể bắt đầu chỉnh sửa.
 
@@ -352,7 +355,8 @@ Tệp của bạn phải tuân thủ chính xác cấu trúc giống như `jan.j
 2. Nhấp chuột phải vào ảnh hồ sơ của bạn và chọn **"Sao chép địa chỉ hình ảnh"** (hoặc **"Copy image address"**).
 3. Dán URL đã sao chép vào trường `"img"`.
 
-> 💡 _Mẹo nhỏ: Bạn cũng có thể dùng trực tiếp `https://github.com/<ten-nguoi-dung-cua-ban>.png` làm URL ảnh!_
+> [!TIP]
+> Mẹo nhỏ: Bạn cũng có thể dùng trực tiếp `https://github.com/<ten-nguoi-dung-cua-ban>.png` làm URL ảnh!
 
 ### VÍ DỤ
 
@@ -390,7 +394,8 @@ Trước khi tạo Pull Request, bạn cần lưu các thay đổi và tải nh�
    git push origin <ten-nhanh-cua-ban>
    ```
 
-   > 💡 _Nếu được yêu cầu, bạn cũng có thể chạy `git push -u origin <ten-nhanh-cua-ban>`._
+   > [!NOTE]
+   > Nếu được yêu cầu, bạn cũng có thể chạy `git push -u origin <ten-nhanh-cua-ban>`.
 
 ## 7. TẠO PULL REQUEST
 

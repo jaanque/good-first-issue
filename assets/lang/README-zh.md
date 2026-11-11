@@ -264,7 +264,8 @@
    git clone https://github.com/<你的用户名>/good-first-issue.git
    ```
 
-   > 💡 _请将 `<你的用户名>` 替换为你真实的 GitHub 用户名！_
+   > [!IMPORTANT]
+   > 请将 `<你的用户名>` 替换为你真实的 GitHub 用户名！
 
 4. 下载完成后，进入项目目录：
 
@@ -294,7 +295,8 @@
 
    <br/>
 
-   > 💡 _提示：如果你使用的是较旧版本的 Git，也可以使用 `git checkout -b <你的分支名称>`。_
+   > [!TIP]
+   > 提示：如果你使用的是较旧版本的 Git，也可以使用 `git checkout -b <你的分支名称>`。
 
 🌿 **准备就绪！** 从现在开始，你所做的所有更改都会保存在新分支中。
 
@@ -322,7 +324,8 @@ code .
 
 <br/>
 
-> 💡 _还没有安装 VS Code？可以前往 [code.visualstudio.com](https://code.visualstudio.com/) 免费下载。_
+> [!NOTE]
+> 还没有安装 VS Code？可以前往 [code.visualstudio.com](https://code.visualstudio.com/) 免费下载。
 
 💻 **搞定！** 项目已在编辑器中打开，你可以开始编辑了。
 
@@ -352,7 +355,8 @@ code .
 2. 在个人头像上右键点击，选择 **"复制图片地址"**（或 **"Copy image address"**）。
 3. 将复制的 URL 粘贴到 `"img"` 字段中。
 
-> 💡 _小技巧：你也可以直接使用 `https://github.com/<你的用户名>.png` 作为头像链接！_
+> [!TIP]
+> 小技巧：你也可以直接使用 `https://github.com/<你的用户名>.png` 作为头像链接！
 
 ### 示例
 
@@ -390,7 +394,8 @@ code .
    git push origin <你的分支名称>
    ```
 
-   > 💡 _如果系统提示，你也可以运行 `git push -u origin <你的分支名称>`。_
+   > [!NOTE]
+   > 如果系统提示，你也可以运行 `git push -u origin <你的分支名称>`。
 
 ## 7. 创建 PULL REQUEST
 

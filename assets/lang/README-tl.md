@@ -264,7 +264,8 @@ Ngayon ay kailangan mong i-download ang na-fork na repository sa iyong kompyuter
    git clone https://github.com/<iyong-username>/good-first-issue.git
    ```
 
-   > 💡 _Palitan ang `<iyong-username>` ng iyong totoong username sa GitHub!_
+   > [!IMPORTANT]
+   > Palitan ang `<iyong-username>` ng iyong totoong username sa GitHub!
 
 4. Kapag natapos na ang pag-download, mag-navigate papunta sa direktoryo ng proyekto:
 
@@ -294,7 +295,8 @@ Bago gumawa ng anumang pagbabago, pinakamainam na kasanayan ang paggawa ng bagon
 
    <br/>
 
-   > 💡 _Tip: Kung gumagamit ka ng mas lumang bersyon ng Git, maaari mo ring gamitin ang `git checkout -b <pangalan-ng-iyong-branch>`._
+   > [!TIP]
+   > Tip: Kung gumagamit ka ng mas lumang bersyon ng Git, maaari mo ring gamitin ang `git checkout -b <pangalan-ng-iyong-branch>`.
 
 🌿 **Handa na ang lahat!** Anumang pag-edit na gagawin mo mula ngayon ay mananatili sa iyong bagong branch.
 
@@ -322,7 +324,8 @@ Dapat mong makita ang mga file ng proyekto sa explorer:
 
 <br/>
 
-> 💡 _Wala ka pa bang VS Code? Maaari mo itong i-download nang libre mula sa [code.visualstudio.com](https://code.visualstudio.com/)._
+> [!NOTE]
+> Wala ka pa bang VS Code? Maaari mo itong i-download nang libre mula sa [code.visualstudio.com](https://code.visualstudio.com/).
 
 💻 **Ayos na!** Nakabukas na ang proyekto sa iyong editor at handa ka nang magsimulang mag-edit.
 
@@ -352,7 +355,8 @@ Ang iyong file ay dapat sumunod sa eksaktong estruktura tulad ng `jan.json`:
 2. I-right click ang larawan ng iyong profile at piliin ang **"Copy image address"**.
 3. I-paste ang kinopyang URL sa field na `"img"`.
 
-> 💡 _Mabilis na tip: Maaari mo ring gamitin ang `https://github.com/<iyong-username>.png` bilang direktang URL ng iyong larawan!_
+> [!TIP]
+> Mabilis na tip: Maaari mo ring gamitin ang `https://github.com/<iyong-username>.png` bilang direktang URL ng iyong larawan!
 
 ### HALIMBAWA
 
@@ -390,7 +394,8 @@ Bago gumawa ng Pull Request, kailangan mong i-save ang iyong mga pagbabago at i-
    git push origin <pangalan-ng-iyong-branch>
    ```
 
-   > 💡 _Kung hihingin, maaari mo ring patakbuhin ang `git push -u origin <pangalan-ng-iyong-branch>`._
+   > [!NOTE]
+   > Kung hihingin, maaari mo ring patakbuhin ang `git push -u origin <pangalan-ng-iyong-branch>`.
 
 ## 7. GUMAWA NG PULL REQUEST
 

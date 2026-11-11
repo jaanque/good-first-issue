@@ -264,7 +264,8 @@ Ara has de descarregar el repositori forkejat al teu ordinador per poder editar 
    git clone https://github.com/<el-teu-usuari>/good-first-issue.git
    ```
 
-   > 💡 _Substitueix `<el-teu-usuari>` pel teu nom d'usuari real de GitHub!_
+   > [!IMPORTANT]
+   > Substitueix `<el-teu-usuari>` pel teu nom d'usuari real de GitHub!
 
 4. Un cop completada la descàrrega, entra al directori del projecte:
 
@@ -294,7 +295,8 @@ Abans de fer cap canvi, és una bona pràctica crear una nova branca. Treballar 
 
    <br/>
 
-   > 💡 _Consell: Si fas servir una versió més antiga de Git, també pots utilitzar `git checkout -b <nom-de-la-teva-branca>`._
+   > [!TIP]
+   > Consell: Si fas servir una versió més antiga de Git, també pots utilitzar `git checkout -b <nom-de-la-teva-branca>`.
 
 🌿 **Tot a punt!** Qualsevol canvi que facis a partir d'ara es mantindrà a la teva nova branca.
 
@@ -322,7 +324,8 @@ Hauries de veure els fitxers del projecte a l'explorador:
 
 <br/>
 
-> 💡 _Encara no tens instal·lat VS Code? El pots descarregar gratuïtament des de [code.visualstudio.com](https://code.visualstudio.com/)._
+> [!NOTE]
+> Encara no tens instal·lat VS Code? El pots descarregar gratuïtament des de [code.visualstudio.com](https://code.visualstudio.com/).
 
 💻 **Llest!** Ja tens el projecte obert al teu editor i estàs preparat per començar a editar.
 
@@ -352,7 +355,8 @@ El teu fitxer ha de seguir exactament la mateixa estructura que `jan.json`:
 2. Fes clic dret a la teva foto de perfil i selecciona **"Copia l'adreça de la imatge"** (o **"Copy image address"**).
 3. Enganxa aquest URL al camp `"img"`.
 
-> 💡 _Truc ràpid: També pots fer servir `https://github.com/<el-teu-usuari>.png` com a URL de la teva imatge!_
+> [!TIP]
+> Truc ràpid: També pots fer servir `https://github.com/<el-teu-usuari>.png` com a URL de la teva imatge!
 
 ### EXEMPLE
 
@@ -390,7 +394,8 @@ Abans de crear el Pull Request, has de desar els teus canvis i pujar la teva bra
    git push origin <nom-de-la-teva-branca>
    ```
 
-   > 💡 _Si t'ho demana, també pots executar `git push -u origin <nom-de-la-teva-branca>`._
+   > [!NOTE]
+   > Si t'ho demana, també pots executar `git push -u origin <nom-de-la-teva-branca>`.
 
 ## 7. CREA EL PULL REQUEST
 

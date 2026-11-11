@@ -264,7 +264,8 @@ Ahora necesitas descargar tu repositorio forkeado a tu computadora para poder ed
    git clone https://github.com/<tu-usuario>/good-first-issue.git
    ```
 
-   > 💡 _¡Reemplaza `<tu-usuario>` por tu nombre de usuario real de GitHub!_
+   > [!IMPORTANT]
+   > ¡Reemplaza `<tu-usuario>` por tu nombre de usuario real de GitHub!
 
 4. Una vez completada la descarga, entra en el directorio del proyecto:
 
@@ -294,7 +295,8 @@ Antes de hacer cualquier cambio, es una buena práctica crear una nueva rama. Tr
 
    <br/>
 
-   > 💡 _Consejo: Si estás usando una versión más antigua de Git, también puedes usar `git checkout -b <nombre-de-tu-rama>`._
+   > [!TIP]
+   > Consejo: Si estás usando una versión más antigua de Git, también puedes usar `git checkout -b <nombre-de-tu-rama>`.
 
 🌿 **¡Todo listo!** Cualquier cambio que hagas a partir de ahora se mantendrá en tu nueva rama.
 
@@ -322,7 +324,8 @@ Deberías ver los archivos del proyecto en el explorador:
 
 <br/>
 
-> 💡 _¿Aún no tienes instalado VS Code? Puedes descargarlo gratis desde [code.visualstudio.com](https://code.visualstudio.com/)._
+> [!NOTE]
+> ¿Aún no tienes instalado VS Code? Puedes descargarlo gratis desde [code.visualstudio.com](https://code.visualstudio.com/).
 
 💻 **¡Listo!** Ya tienes el proyecto abierto en tu editor y estás preparado para empezar a editar.
 
@@ -352,7 +355,8 @@ Tu archivo debe seguir exactamente la misma estructura que `jan.json`:
 2. Haz clic derecho en tu foto de perfil y selecciona **"Copiar dirección de imagen"** (o **"Copy image address"**).
 3. Pega esa URL copiada en el campo `"img"`.
 
-> 💡 _Truco rápido: ¡También puedes usar `https://github.com/<tu-usuario>.png` como la URL de tu imagen!_
+> [!TIP]
+> Truco rápido: ¡También puedes usar `https://github.com/<tu-usuario>.png` como la URL de tu imagen!
 
 ### EJEMPLO
 
@@ -390,7 +394,8 @@ Antes de crear el Pull Request, necesitas guardar tus cambios y subir tu rama a 
    git push origin <nombre-de-tu-rama>
    ```
 
-   > 💡 _Si te lo solicita, también puedes ejecutar `git push -u origin <nombre-de-tu-rama>`._
+   > [!NOTE]
+   > Si te lo solicita, también puedes ejecutar `git push -u origin <nombre-de-tu-rama>`.
 
 ## 7. CREA EL PULL REQUEST
 

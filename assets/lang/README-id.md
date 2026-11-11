@@ -264,7 +264,8 @@ Sekarang Anda perlu mengunduh repositori yang telah di-fork ke komputer Anda aga
    git clone https://github.com/<username-anda>/good-first-issue.git
    ```
 
-   > 💡 _Ganti `<username-anda>` dengan nama pengguna GitHub asli Anda!_
+   > [!IMPORTANT]
+   > Ganti `<username-anda>` dengan nama pengguna GitHub asli Anda!
 
 4. Setelah unduhan selesai, masuk ke direktori proyek:
 
@@ -294,7 +295,8 @@ Sebelum melakukan perubahan apa pun, praktik terbaiknya adalah membuat branch ba
 
    <br/>
 
-   > 💡 _Tips: Jika Anda menggunakan versi Git yang lebih lama, Anda juga dapat menggunakan `git checkout -b <nama-branch-anda>`._
+   > [!TIP]
+   > Tips: Jika Anda menggunakan versi Git yang lebih lama, Anda juga dapat menggunakan `git checkout -b <nama-branch-anda>`.
 
 🌿 **Semua siap!** Setiap perubahan yang Anda buat mulai sekarang akan tersimpan di branch baru Anda.
 
@@ -322,7 +324,8 @@ Anda akan melihat file proyek di file explorer:
 
 <br/>
 
-> 💡 _Belum menginstal VS Code? Anda dapat mengunduhnya secara gratis di [code.visualstudio.com](https://code.visualstudio.com/)._
+> [!NOTE]
+> Belum menginstal VS Code? Anda dapat mengunduhnya secara gratis di [code.visualstudio.com](https://code.visualstudio.com/).
 
 💻 **Selesai!** Proyek sekarang terbuka di editor Anda dan Anda siap untuk mulai mengedit.
 
@@ -352,7 +355,8 @@ File Anda harus mengikuti struktur yang persis sama dengan `jan.json`:
 2. Klik kanan pada foto profil Anda dan pilih **"Salin alamat gambar"** (atau **"Copy image address"**).
 3. Tempel URL yang disalin tersebut ke kolom `"img"`.
 
-> 💡 _Trik cepat: Anda juga dapat menggunakan `https://github.com/<username-anda>.png` langsung sebagai URL gambar Anda!_
+> [!TIP]
+> Trik cepat: Anda juga dapat menggunakan `https://github.com/<username-anda>.png` langsung sebagai URL gambar Anda!
 
 ### CONTOH
 
@@ -390,7 +394,8 @@ Sebelum membuat Pull Request, Anda perlu menyimpan perubahan dan mengunggah bran
    git push origin <nama-branch-anda>
    ```
 
-   > 💡 _Jika diminta, Anda juga dapat menjalankan `git push -u origin <nama-branch-anda>`._
+   > [!NOTE]
+   > Jika diminta, Anda juga dapat menjalankan `git push -u origin <nama-branch-anda>`.
 
 ## 7. BUAT PULL REQUEST
 

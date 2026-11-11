@@ -264,7 +264,8 @@ Most le kell töltened a forkrepódat a számítógépedre, hogy helyben szerkes
    git clone https://github.com/<felhasznaloneved>/good-first-issue.git
    ```
 
-   > 💡 _Cseréld le a `<felhasznaloneved>` részt a valódi GitHub felhasználónevedre!_
+   > [!IMPORTANT]
+   > Cseréld le a `<felhasznaloneved>` részt a valódi GitHub felhasználónevedre!
 
 4. Ha a letöltés befejeződött, lépj be a projekt könyvtárába:
 
@@ -294,7 +295,8 @@ Mielőtt bármit módosítanál, érdemes egy új ágat létrehozni. A külön �
 
    <br/>
 
-   > 💡 _Tipp: Ha régebbi Git verziót használsz, a `git checkout -b <uj-ag-neve>` parancsot is használhatod._
+   > [!TIP]
+   > Tipp: Ha régebbi Git verziót használsz, a `git checkout -b <uj-ag-neve>` parancsot is használhatod.
 
 🌿 **Minden kész!** Bármilyen módosítást végzel ezután, az az új ágadban marad.
 
@@ -322,7 +324,8 @@ A projektfájlokat látnod kell az intézőben:
 
 <br/>
 
-> 💡 _Még nincs telepítve a VS Code? Ingyesen letöltheted a [code.visualstudio.com](https://code.visualstudio.com/) oldalról._
+> [!NOTE]
+> Még nincs telepítve a VS Code? Ingyesen letöltheted a [code.visualstudio.com](https://code.visualstudio.com/) oldalról.
 
 💻 **Kész!** A projekt nyitva van a szerkesztődben, és készen állsz a szerkesztésre.
 
@@ -352,7 +355,8 @@ A fájlodnak pontosan ugyanazt a szerkezetet kell követnie, mint a `jan.json`-n
 2. Kattints jobb gombbal a profilképedre, és válaszd a **"Kép címének másolása"** (vagy **"Copy image address"**) lehetőséget.
 3. Illeszd be a másolt URL-t az `"img"` mezőbe.
 
-> 💡 _Gyors tipp: A `https://github.com/<felhasznaloneved>.png` címet is használhatod képed URL-jeként!_
+> [!TIP]
+> Gyors tipp: A `https://github.com/<felhasznaloneved>.png` címet is használhatod képed URL-jeként!
 
 ### PÉLDA
 
@@ -390,7 +394,8 @@ A Pull Request létrehozása előtt el kell mentened a változtatásokat, és fe
    git push origin <uj-ag-neve>
    ```
 
-   > 💡 _Ha kéri, a `git push -u origin <uj-ag-neve>` parancsot is futtathatod._
+   > [!NOTE]
+   > Ha kéri, a `git push -u origin <uj-ag-neve>` parancsot is futtathatod.
 
 ## 7. HOZD LÉTRE A PULL REQUESTET
 

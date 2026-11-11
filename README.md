@@ -264,7 +264,8 @@ Now you need to download your forked repository to your computer so you can edit
    git clone https://github.com/<your-username>/good-first-issue.git
    ```
 
-   > 💡 _Replace `<your-username>` with your actual GitHub username!_
+   > [!IMPORTANT]
+   > Replace `<your-username>` with your actual GitHub username!
 
 4. Once the download is complete, navigate into the project directory:
 
@@ -294,7 +295,8 @@ Before making any changes, it is best practice to create a new branch. Working o
 
    <br/>
 
-   > 💡 _Tip: If you are using an older version of Git, you can also use `git checkout -b <your-branch-name>`._
+   > [!TIP]
+   > Tip: If you are using an older version of Git, you can also use `git checkout -b <your-branch-name>`.
 
 🌿 **You're all set!** Any edits you make from now on will stay on your new branch.
 
@@ -322,7 +324,8 @@ You should see the project files in the explorer:
 
 <br/>
 
-> 💡 _Don't have VS Code installed yet? You can download it for free from [code.visualstudio.com](https://code.visualstudio.com/)._
+> [!NOTE]
+> Don't have VS Code installed yet? You can download it for free from [code.visualstudio.com](https://code.visualstudio.com/).
 
 💻 **All set!** You now have the project open in your editor and you're ready to start editing.
 
@@ -352,7 +355,8 @@ Your file must follow the exact same structure as `jan.json`:
 2. Right-click on your profile picture and select **"Copy image address"** (or **"Copiar dirección de imagen"**).
 3. Paste that copied URL into the `"img"` field.
 
-> 💡 _Quick trick: You can also use `https://github.com/<your-username>.png` as your image URL!_
+> [!TIP]
+> Quick trick: You can also use `https://github.com/<your-username>.png` as your image URL!
 
 ### EXAMPLE
 
@@ -390,7 +394,8 @@ Before creating the Pull Request, you need to save your changes and upload your 
    git push origin <your-branch-name>
    ```
 
-   > 💡 _If prompted, you can also run `git push -u origin <your-branch-name>`._
+   > [!NOTE]
+   > If prompted, you can also run `git push -u origin <your-branch-name>`.
 
 ## 7. CREATE THE PULL REQUEST
 
