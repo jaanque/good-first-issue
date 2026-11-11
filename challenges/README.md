@@ -4,6 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](python/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](js/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](ts/)
 
 </div>
 
@@ -19,6 +20,7 @@ Here you can practice programming and open-source contributions through hands-on
 | :--------------------------- | :--------: | :------------: | :------------------------------ |
 | **Python** 🐍                | ✅ Active  | Levels 1 - 10  | [`challenges/python/`](python/) |
 | **JavaScript** 🟨            | ✅ Active  | Levels 1 - 10  | [`challenges/js/`](js/)         |
+| **TypeScript** 🔷            | ✅ Active  | Levels 1 - 10  | [`challenges/ts/`](ts/)         |
 | _More tracks coming soon..._ | ⏳ Planned |       -        | -                               |
 
 ---
