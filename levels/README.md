@@ -1,4 +1,11 @@
-# 🚀 Coding Levels
+<div align="center">
+
+# 🚀 CODING LEVELS
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](python/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](js/)
+
+</div>
 
 Welcome to the **Coding Levels**!
 
@@ -8,11 +15,11 @@ Here you can practice programming and open-source contributions through hands-on
 
 ## 🗺️ Available Tracks
 
-| Track | Status | Levels | Directory |
-| :--- | :---: | :---: | :--- |
-| **Python** 🐍 | ✅ Active | Levels 1 - 10 | [`levels/python/`](python/) |
-| **JavaScript** 🟨 | ✅ Active | Levels 1 - 10 | [`levels/js/`](js/) |
-| *More tracks coming soon...* | ⏳ Planned | - | - |
+| Track                        |   Status   |    Levels     | Directory                   |
+| :--------------------------- | :--------: | :-----------: | :-------------------------- |
+| **Python** 🐍                | ✅ Active  | Levels 1 - 10 | [`levels/python/`](python/) |
+| **JavaScript** 🟨            | ✅ Active  | Levels 1 - 10 | [`levels/js/`](js/)         |
+| _More tracks coming soon..._ | ⏳ Planned |       -       | -                           |
 
 ---
 
@@ -64,10 +71,3 @@ Yes! If you'd like to help add a new language track with 10 progressive levels, 
 </details>
 
 ---
-
-## 🏁 Ready to begin?
-
-Pick a track and dive into Level 1:
-
-- 🐍 **[Start Python Track](python/)**
-- 🟨 **[Start JavaScript Track](js/)**
