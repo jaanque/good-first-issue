@@ -421,6 +421,26 @@ Bây giờ nhánh của bạn đã được tải lên GitHub, đã đến lúc 
 Bạn có thể xem kết quả đóng góp của mọi người trực tiếp tại đây:
 👉 **[Những người đóng góp](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 NÂNG CAO KỸ NĂNG LẬP TRÌNH CỦA BẠN!
+
+Bạn đã thêm thẻ đóng góp của mình chưa? Hãy nâng cao kỹ năng hơn nữa với các lộ trình lập trình thực hành của chúng tôi!
+
+Chúng tôi đã thiết kế các thử thách lập trình có cấu trúc và tiến bộ để đồng hành cùng bạn từ những dòng mã đầu tiên đến giải quyết vấn đề nâng cao và Lập trình Hướng đối tượng (OOP) — tất cả đều diễn ra ngay trong kho lưu trữ này với quy trình làm việc thực tế trên Git và GitHub:
+
+👉 **[Khám phá tất cả các cấp độ lập trình (levels/)](../../levels/)**
+
+### 🌟 Lộ trình đang hoạt động (Mỗi lộ trình 10 cấp độ)
+
+- 🐍 **[Lộ trình Python (Cấp độ 1 - 10)](../../levels/python/)**: Từ câu lệnh `print()` đầu tiên đến danh sách, từ điển, thuật toán chuỗi và lớp OOP.
+- 🟨 **[Lộ trình JavaScript (Cấp độ 1 - 10)](../../levels/js/)**: Từ `console.log()` đến ES6+ hiện đại, các phương thức mảng (`.filter()`, `.map()`), đối tượng và lớp ES6.
+
+> [!TIP]
+> Mỗi cấp độ bao gồm hướng dẫn chi tiết với kiến thức lý thuyết, ví dụ mã, kết quả đầu ra mong đợi trên terminal và giải pháp tham khảo đầy đủ (`jan.py` / `jan.js`). Hãy bắt đầu từ Cấp độ 1!
+
+---
+
 ##
 
 Hãy nhớ rằng, đây mới chỉ là khởi đầu! Có hàng ngàn dự án nguồn mở ngoài kia đang chờ đón sự đóng góp của bạn, và quy trình ở đâu cũng tương tự nhau: fork kho lưu trữ, tạo nhánh, chỉnh sửa và gửi pull request.

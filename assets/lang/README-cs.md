@@ -421,6 +421,26 @@ Nyní, když je vaše větev na GitHubu, je čas odeslat váš příspěvek do p
 Živý výsledek příspěvků všech účastníků si můžete prohlédnout zde:
 👉 **[Naši přispěvatelé](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 ZLEPŠETE SVÉ PROGRAMÁTORSKÉ DOVEDNOSTI!
+
+Už jste přidali svou kartu přispěvatele? Posuňte své dovednosti na další úroveň s našimi praktickými programátorskými výzvami!
+
+Vytvořili jsme strukturované a postupné úkoly, které vás provedou od prvních řádků kódu až po pokročilé řešení problémů a objektově orientované programování (OOP) — přímo v tomto repozitáři s využitím skutečných pracovních postupů v Gitu a GitHubu:
+
+👉 **[Prozkoumat všechny úrovně (levels/)](../../levels/)**
+
+### 🌟 Aktivní dráhy (každá má 10 úrovní)
+
+- 🐍 **[Python dráha (úrovně 1 - 10)](../../levels/python/)**: Od vašeho prvního příkazu `print()` až po seznamy, slovníky, řetězcové algoritmy a třídy OOP.
+- 🟨 **[JavaScript dráha (úrovně 1 - 10)](../../levels/js/)**: Od `console.log()` po moderní ES6+, metody polí (`.filter()`, `.map()`), objekty a třídy ES6.
+
+> [!TIP]
+> Každá úroveň obsahuje průvodce s teoretickými koncepty, ukázkami kódu, očekávaným výstupem v terminálu a referenčním řešením (`jan.py` / `jan.js`). Začněte na úrovni 1 a postupujte dál!
+
+---
+
 ##
 
 Pamatujte, toto je teprve začátek! Na vaše příspěvky čekají tisíce open source projektů a postup je všude v podstatě stejný: forknout repozitář, vytvořit větev, provést změny a poslat pull request.

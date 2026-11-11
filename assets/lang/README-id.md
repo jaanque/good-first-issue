@@ -421,6 +421,26 @@ Sekarang branch Anda telah diunggah ke GitHub, saatnya mengirimkan kontribusi An
 Anda dapat melihat hasil langsung dari kontribusi semua orang di sini:
 👉 **[Kontributor Kami](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 TINGKATKAN KEMAMPUAN CODING ANDA!
+
+Sudah menambahkan kartu kontributor Anda? Kembangkan keahlian Anda lebih jauh dengan jalur pemrograman praktis kami!
+
+Kami merancang tantangan pemrograman yang terstruktur dan progresif untuk memandu Anda dari baris kode pertama hingga pemecahan masalah tingkat lanjut dan Pemrograman Berorientasi Objek (OOP) — langsung di dalam repositori ini dengan alur kerja Git & GitHub nyata:
+
+👉 **[Jelajahi Semua Level Koding (levels/)](../../levels/)**
+
+### 🌟 Jalur Aktif (Masing-masing 10 Level)
+
+- 🐍 **[Jalur Python (Level 1 - 10)](../../levels/python/)**: Dari pernyataan `print()` pertama Anda hingga list, dictionary, algoritma string, dan kelas OOP.
+- 🟨 **[Jalur JavaScript (Level 1 - 10)](../../levels/js/)**: Dari `console.log()` hingga ES6+ modern, metode array (`.filter()`, `.map()`), objek, dan kelas ES6.
+
+> [!TIP]
+> Setiap level dilengkapi panduan khusus dengan konsep teori, contoh kode, output terminal yang diharapkan, dan solusi referensi lengkap (`jan.py` / `jan.js`). Mulai dari Level 1 dan terus tingkatkan!
+
+---
+
 ##
 
 Ingat, ini hanyalah permulaan! Ada ribuan proyek open source di luar sana yang menunggu kontribusi Anda, dan alur kerjanya pada dasarnya sama di mana saja: fork repositori, buat branch, lakukan perubahan, dan kirimkan pull request.

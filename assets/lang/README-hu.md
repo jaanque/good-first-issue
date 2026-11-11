@@ -421,6 +421,26 @@ Most, hogy az ágad felkerült a GitHubra, ideje beküldeni a hozzájárulásoda
 Itt tekintheted meg élőben az összes közreműködő munkáját:
 👉 **[Közreműködőink](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 FEJLEISZD A PROGRAMOZÓI TUDÁSOD!
+
+Már hozzáadtad a közreműködői kártyádat? Emeld magasabb szintre a tudásodat a gyakorlati programozási útvonalainkkal!
+
+Strukturált, fokozatosan nehezedő feladatokat hoztunk létre, amelyek az első kódsoroktól a haladó problémamegoldásig és az objektumorientált programozásig (OOP) vezetnek — közvetlenül ebben a tárolóban, valódi Git és GitHub munkafolyamatokkal:
+
+👉 **[Összes szint felfedezése (levels/)](../../levels/)**
+
+### 🌟 Aktív útvonalak (egyenként 10 szint)
+
+- 🐍 **[Python útvonal (1 - 10. szint)](../../levels/python/)**: Az első `print()` utasításodtól a listákig, szótárakig, szöveges algoritmusokig és OOP osztályokig.
+- 🟨 **[JavaScript útvonal (1 - 10. szint)](../../levels/js/)**: A `console.log()`-tól a modern ES6+-ig, tömb metódusokig (`.filter()`, `.map()`), objektumokig és ES6 osztályokig.
+
+> [!TIP]
+> Minden szinthez külön útmutató tartozik elméleti fogalmakkal, kódpéldákkal, elvárt terminál-kimenettel és referencia-megoldással (`jan.py` / `jan.js`). Kezdd az 1. szinttel!
+
+---
+
 ##
 
 Ne feledd, ez még csak a kezdet! Több ezer nyílt forráskódú projekt várja a hozzájárulásodat, és a folyamat mindenhol alapvetően ugyanaz: forkold a repozitóriumot, hozz létre egy ágat, végezd el a változtatásokat, és küldj egy pull requestet.

@@ -421,6 +421,26 @@ Ora che il tuo branch è caricato su GitHub, è il momento di inviare il tuo con
 Puoi vedere il risultato in tempo reale dei contributi di tutti qui:
 👉 **[I nostri collaboratori](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 MIGLIORA LE TUE COMPETENZE DI PROGRAMMAZIONE!
+
+Hai già aggiunto la tua scheda collaboratore? Porta le tue competenze al livello successivo con i nostri percorsi pratici di programmazione!
+
+Abbiamo progettato sfide di programmazione strutturate e progressive per accompagnarti dalle tue prime righe di codice fino alla risoluzione avanzata dei problemi e alla Programmazione Orientata agli Oggetti (OOP) — tutto all'interno di questo repository utilizzando i veri flussi di lavoro di Git e GitHub:
+
+👉 **[Esplora tutti i livelli di programmazione (levels/)](../../levels/)**
+
+### 🌟 Percorsi attivi (10 livelli ciascuno)
+
+- 🐍 **[Percorso Python (Livelli 1 - 10)](../../levels/python/)**: Dalla tua prima istruzione `print()` a liste, dizionari, algoritmi di testo e classi OOP.
+- 🟨 **[Percorso JavaScript (Livelli 1 - 10)](../../levels/js/)**: Da `console.log()` a ES6+ moderno, metodi per array (`.filter()`, `.map()`), oggetti e classi ES6.
+
+> [!TIP]
+> Ogni livello include una guida dedicata con concetti teorici, esempi di codice passo-passo, output attesi da terminale e una soluzione di riferimento pronta (`jan.py` / `jan.js`). Inizia dal Livello 1 e scala la classifica!
+
+---
+
 ##
 
 Ricorda, questo è solo l'inizio! Ci sono migliaia di progetti open source che aspettano il tuo contributo, e il flusso di lavoro è praticamente lo stesso ovunque: fai il fork del repository, crea un branch, apporta le modifiche e invia una pull request.

@@ -421,6 +421,26 @@ Dalınız GitHub'a yüklendiğine göre, artık projeye katkınızı sunma zaman
 Herkesin katkılarını canlı olarak buradan görebilirsiniz:
 👉 **[Katkıda Bulunanlar](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 KODLAMA BECERİLERİNİZİ BİR ÜST SEVİYEYE TAŞIYIN!
+
+Katkıda bulunan kartınızı eklediniz mi? Uygulamalı programlama yollarımızla becerilerinizi daha da ileriye taşıyın!
+
+İlk kod satırlarınızdan ileri düzey problem çözme ve Nesne Yönelimli Programlamaya (OOP) kadar size rehberlik edecek aşamalı kodlama görevleri hazırladık — üstelik doğrudan bu depoda, gerçek Git ve GitHub iş akışlarını kullanarak:
+
+👉 **[Tüm Kodlama Seviyelerini Keşfedin (levels/)](../../levels/)**
+
+### 🌟 Aktif Yollar (Her biri 10 Seviye)
+
+- 🐍 **[Python Yolu (Seviye 1 - 10)](../../levels/python/)**: İlk `print()` ifadenizden listelere, sözlüklere, metin algoritmalarına ve OOP sınıflarına kadar.
+- 🟨 **[JavaScript Yolu (Seviye 1 - 10)](../../levels/js/)**: `console.log()`tan modern ES6+ özelliklerine, dizi metotlarına (`.filter()`, `.map()`), nesnelere ve ES6 sınıflarına kadar.
+
+> [!TIP]
+> Her seviye; teorik kavramlar, kod örnekleri, beklenen terminal çıktıları ve çalışan bir referans çözüm (`jan.py` / `jan.js`) içeren özel bir kılavuz barındırır. Seviye 1'den başlayın ve zirveye ulaşın!
+
+---
+
 ##
 
 Unutmayın, bu sadece bir başlangıç! Katkınızı bekleyen binlerce açık kaynak projesi var ve iş akışı her yerde temelde aynıdır: depoyu fork'layın, dal oluşturun, değişikliklerinizi yapın ve pull request gönderin.

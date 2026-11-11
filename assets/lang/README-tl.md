@@ -421,6 +421,26 @@ Ngayong naka-upload na ang iyong branch sa GitHub, oras na para isumite ang iyon
 Maaari mong makita ang live na resulta ng mga kontribusyon ng lahat dito:
 👉 **[Ang Aming Mga Contributor](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 ITAAS ANG IYONG KASANAYAN SA PAGCO-CODE!
+
+Naidagdag mo na ba ang iyong contributor card? Dalhin ang iyong mga kasanayan sa susunod na antas gamit ang aming mga praktikal na programming track!
+
+Nagdisenyo kami ng sunod-sunod at maayos na mga hamon sa pag-code upang gabayan ka mula sa iyong mga unang linya ng code hanggang sa advanced problem solving at Object-Oriented Programming (OOP) — direkta sa repositoryong ito gamit ang totoong Git at GitHub workflow:
+
+👉 **[Tuklasin ang Lahat ng Coding Level (levels/)](../../levels/)**
+
+### 🌟 Mga Aktibong Track (10 Antas Bawat Isa)
+
+- 🐍 **[Python Track (Antas 1 - 10)](../../levels/python/)**: Mula sa iyong unang `print()` statement hanggang sa mga list, dictionary, string algorithm, at OOP class.
+- 🟨 **[JavaScript Track (Antas 1 - 10)](../../levels/js/)**: Mula sa `console.log()` hanggang sa modernong ES6+, array methods (`.filter()`, `.map()`), mga object, at ES6 class.
+
+> [!TIP]
+> Bawat antas ay may kasamang gabay na may teoretikal na konsepto, mga halimbawa ng code, inaasahang terminal output, at gumaganang reference solution (`jan.py` / `jan.js`). Magsimula sa Antas 1!
+
+---
+
 ##
 
 Tandaan, simula pa lamang ito! May libu-libong open source projects na naghihintay para sa iyong kontribusyon, at ang proseso ay halos pareho sa lahat ng dako: i-fork ang repository, gumawa ng branch, gawin ang mga pagbabago, at magsumite ng pull request.

@@ -421,6 +421,26 @@ Nu je branch op GitHub staat, is het tijd om je bijdrage in te dienen bij het pr
 Je kunt het live resultaat van alle bijdragen hier bekijken:
 👉 **[Onze bijdragers](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 VERHOOG JE PROGRAMMEERVAARDIGHEDEN!
+
+Heb je je bijdragerskaart al toegevoegd? Breng je vaardigheden naar een hoger niveau met onze praktische programmeertracks!
+
+We hebben gestructureerde, progressieve codeeruitdagingen ontworpen die je meenemen van je allereerste regels code tot geavanceerde probleemoplossing en Object-Georiënteerd Programmeren (OOP) — allemaal binnen deze repository via echte Git- en GitHub-workflows:
+
+👉 **[Ontdek alle programmeerniveaus (levels/)](../../levels/)**
+
+### 🌟 Actieve tracks (elk 10 niveaus)
+
+- 🐍 **[Python-track (Niveaus 1 - 10)](../../levels/python/)**: Van je allereerste `print()`-opdracht tot lijsten, dictionaries, tekstalgoritmen en OOP-klassen.
+- 🟨 **[JavaScript-track (Niveaus 1 - 10)](../../levels/js/)**: Van `console.log()` tot modern ES6+, array-methoden (`.filter()`, `.map()`), objecten en ES6-klassen.
+
+> [!TIP]
+> Elk niveau bevat een speciale gids met theoretische concepten, codevoorbeelden, verwachte terminaluitvoer en een werkende referentieoplossing (`jan.py` / `jan.js`). Begin bij niveau 1 en klim omhoog!
+
+---
+
 ##
 
 Onthoud: dit is pas het begin! Er wachten duizenden open source-projecten op jouw bijdrage, en de workflow is vrijwel overal hetzelfde: fork de repository, maak een branch aan, voer je wijzigingen door en dien een pull request in.

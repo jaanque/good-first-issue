@@ -421,6 +421,26 @@ Ara que la teva branca està pujada a GitHub, és hora d'enviar la teva col·lab
 Pots veure el resultat en viu de les contribucions de tothom aquí:
 👉 **[Els nostres col·laboradors](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 PUJA DE NIVELL LES TEVES HABILITATS DE PROGRAMACIÓ!
+
+Ja has afegit la teva targeta de col·laborador? Porta les teves habilitats més lluny amb els nostres reptes pràctics de programació!
+
+Hem dissenyat reptes estructurats i progressius per acompanyar-te des de les teves primeres línies de codi fins a la resolució avançada de problemes i la Programació Orientada a Objectes (POO) — tot dins d'aquest repositori utilitzant fluxos de treball reals de Git i GitHub:
+
+👉 **[Explora tots els nivells de programació (levels/)](../../levels/)**
+
+### 🌟 Rutes actives (10 nivells cadascuna)
+
+- 🐍 **[Ruta de Python (Nivells 1 - 10)](../../levels/python/)**: Des del teu primer `print()` fins a llistes, diccionaris, algorismes de text i classes POO.
+- 🟨 **[Ruta de JavaScript (Nivells 1 - 10)](../../levels/js/)**: Des de `console.log()` fins a ES6+ modern, mètodes d'arrays (`.filter()`, `.map()`), objectes i classes ES6.
+
+> [!TIP]
+> Cada nivell inclou una guia dedicada amb conceptes teòrics, exemples pas a pas, sortides de terminal esperades i una solució de referència funcional (`jan.py` / `jan.js`). Comença al Nivell 1 i avança al teu ritme!
+
+---
+
 ##
 
 Recorda, això és només el començament! Hi ha milers de projectes de codi obert esperant la teva col·laboració, i el flux de treball és pràcticament el mateix a tot arreu: fes un fork del repositori, crea una branca, fes els teus canvis i envia un pull request.
