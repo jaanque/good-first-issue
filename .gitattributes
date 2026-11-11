@@ -8,5 +8,3 @@ assets/cards/*.json linguist-detectable=false
 final-list.json linguist-detectable=false
 assets/cards/brochdev.json linguist-detectable=false
 assets/cards/jan.json linguist-detectable=false
-
-assets/lang/*.md linguist-documentation=true
