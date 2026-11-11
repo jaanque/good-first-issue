@@ -44,5 +44,8 @@ Take your contributions further with our progressive challenges grouped by langu
 👉 **[Explore Coding Levels (levels/)](levels/)**
 
 Currently available:
-- 🐍 **[Python Levels](levels/python/)**: Practice Python from basic greetings to OOP and data analysis.
+- 🐍 **[Python Track (10 Levels)](levels/python/)**: From basic `print()` to OOP and data analysis.
+- 🌐 **[HTML Track (10 Levels)](levels/html/)**: From basic headings to semantic layouts and interactive components.
+- 🎨 **[CSS Track (10 Levels)](levels/css/)**: From basic colors to Flexbox, CSS Grid, animations, and dark mode.
+- 🟨 **[JavaScript Track (10 Levels)](levels/js/)**: From `console.log()` to array algorithms and ES6 classes.
 

@@ -1,0 +1,42 @@
+/* Level 10: Glassmorphism & Dark Mode System */
+/* Contributor: @jaanque (Jan) */
+
+:root {
+  --bg-gradient: linear-gradient(135deg, #e0e7ff 0%, #fae8ff 100%);
+  --card-bg: rgba(255, 255, 255, 0.65);
+  --card-border: rgba(255, 255, 255, 0.8);
+  --text-color: #1e1b4b;
+  --card-shadow: 0 20px 30px rgba(0, 0, 0, 0.08);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-gradient: linear-gradient(135deg, #090d16 0%, #1e1035 100%);
+    --card-bg: rgba(18, 24, 38, 0.7);
+    --card-border: rgba(255, 255, 255, 0.12);
+    --text-color: #f1f5f9;
+    --card-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+  }
+}
+
+body {
+  min-height: 100vh;
+  background: var(--bg-gradient);
+  color: var(--text-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: system-ui, sans-serif;
+}
+
+.glass-card {
+  width: 90%;
+  max-width: 450px;
+  padding: 2.5rem;
+  background: var(--card-bg);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--card-border);
+  border-radius: 20px;
+  box-shadow: var(--card-shadow);
+}

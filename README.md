@@ -421,6 +421,33 @@ Now that your branch is uploaded to GitHub, it's time to submit your contributio
 You can see the live result of everyone's contributions here:
 👉 **[Our Contributors](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 LEVEL UP YOUR CODING SKILLS!
+
+Already added your contributor card? Take your skills further with our step-by-step programming challenges:
+
+👉 **[Explore Coding Levels (levels/)](levels/)**
+
+- 🐍 **[Python Track (10 Levels)](levels/python/)**: From your very first `print()` statement to Object-Oriented Programming (OOP) and data analysis.
+- 🌐 **[HTML Track (10 Levels)](levels/html/)**: From basic headings to semantic layouts and interactive components.
+- 🎨 **[CSS Track (10 Levels)](levels/css/)**: From basic colors to Flexbox, CSS Grid, animations, and dark mode.
+- 🟨 **[JavaScript Track (10 Levels)](levels/js/)**: From `console.log()` to array algorithms and ES6 classes.
+
+---
+
+---
+
+## 🚀 LEVEL UP YOUR CODING SKILLS!
+
+Already added your contributor card? Take your skills further with our step-by-step programming challenges:
+
+👉 **[Explore Coding Levels (levels/)](levels/)**
+
+- 🐍 **[Python Track (10 Levels)](levels/python/)**: From your very first `print()` statement to Object-Oriented Programming (OOP) and data analysis.
+
+---
+
 ##
 
 Remember, this is just the beginning! There are thousands of open source projects out there waiting for your contribution, and the workflow is essentially the same everywhere: fork the repository, create a branch, make your changes, and submit a pull request.
