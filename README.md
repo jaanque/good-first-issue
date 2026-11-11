@@ -1,6 +1,8 @@
 <div align="center">
 
-# GOOD FIRST ISSUE
+# 🚀 GOOD FIRST ISSUE
+
+### The friendliest way to make your very first Open Source contribution.
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Repo stars](https://img.shields.io/github/stars/jaanque/good-first-issue)](https://github.com/jaanque/good-first-issue/stargazers)
@@ -8,12 +10,11 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/jaanque/good-first-issue)](https://github.com/jaanque/good-first-issue/commits/main)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjaanque%2Fgood-first-issue&label=visitors&countColor=%230c7ebe&style=flat&labelStyle=none)](https://github.com/jaanque/good-first-issue)
-![GitHub repo size](https://img.shields.io/github/repo-size/jaanque/good-first-issue)
 
 ##
 
 <details>
-  <summary><b>OTHER LANGUAGES? HELL YEAH.</b></summary>
+  <summary><b>🌍 Available in 29 Languages (Click to expand)</b></summary>
   <br/>
 
 <table>
@@ -200,147 +201,128 @@
 </table>
 </details>
 
-##
+<br/>
 
-Is this your first time using Git and GitHub? **You're in the right place!**
+<details>
+  <summary><b>📑 Table of Contents (Click to expand)</b></summary>
+  <br/>
 
-This repository is designed to help you take your first steps into the **Open Source** world in a safe environment, without the fear of breaking anything.
+- [🛠️ Prerequisites & Tools](#prerequisites--tools)
+- [1. 🍴 Fork the Repository](#1--fork-the-repository)
+- [2. 📥 Clone the Repository](#2--clone-the-repository)
+- [3. 🌿 Create a New Branch](#3--create-a-new-branch)
+- [4. 💻 Open in Code Editor](#4--open-the-project-in-your-code-editor)
+- [5. 📇 Add Your Contributor Card](#5--add-your-contributor-card)
+- [6. 💾 Commit and Push Your Changes](#6--commit-and-push-your-changes)
+- [7. 🚀 Create the Pull Request](#7--create-the-pull-request)
+- [🎯 Level Up Your Coding Skills!](#level-up-your-coding-skills)
 
-I believe that the best way to learn is **by doing**, so I've created a simple project that you can easily modify and improve.
-
-**Your mission is simple:** Follow the step-by-step instructions to add your name and photo to the project.
-
-**Ready to get started?** Go to **Step 1** and let's make some magic!
+</details>
 
 </div>
 
 ---
 
-## BASIC MATERIAL
+## 🛠️ Prerequisites & Tools
 
-Before getting started, make sure you have the following basic tools ready:
+Before getting started, make sure you have these basic tools ready:
 
-| Tool               |                                                               Logo                                                               | Description                                         | Link                                               |
+| Tool               |                                                               Icon                                                               | Purpose                                             | Link                                               |
 | :----------------- | :------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------- | :------------------------------------------------- |
-| **GitHub Account** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" alt="GitHub" />  | Create your account to host code and contribute     | [Sign up](https://github.com/signup)               |
-| **Git**            |      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" />      | Version control tool to manage your code changes    | [Download](https://git-scm.com/downloads)          |
-| **VS Code**        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /> | Recommended code editor _(or your favorite editor)_ | [Download](https://code.visualstudio.com/download) |
+| **GitHub Account** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26" height="26" alt="GitHub" />  | Hosts code and tracks contributions                 | [Sign up](https://github.com/signup)               |
+| **Git**            |      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26" height="26" alt="Git" />      | Version control software to manage code             | [Download](https://git-scm.com/downloads)          |
+| **VS Code**        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26" height="26" alt="VS Code" /> | Recommended code editor _(or your favorite editor)_ | [Download](https://code.visualstudio.com/download) |
 
-## 1. FORK THE REPOSITORY
+---
 
-A **fork** is your own copy of this repository under your GitHub account. It lets you make changes safely without affecting the original project!
+## 1. 🍴 Fork the Repository
 
-1. Go to the top-right corner of this page and click on the **Fork** button:
+A **fork** is your personal copy of this repository under your GitHub account.
 
-   <br/>
+1. Click the **Fork** button at the top-right corner of this page:
 
-   <img src="assets/src/image.png" alt="Fork button" width="400" />
+   <p align="center">
+     <img src="assets/src/image.png" alt="Fork button" width="400" />
+   </p>
 
-   <br/>
+2. Keep the default settings and click **Create fork**.
+3. You will be redirected to your fork at:
+   ```text
+   https://github.com/<your-username>/good-first-issue
+   ```
 
-2. On the **Create a new fork** page, leave the repository name as it is and click **Create fork**.
+---
 
-3. After a few seconds, GitHub will redirect you to your newly created copy at:
+## 2. 📥 Clone the Repository
 
-   `https://github.com/<your-username>/good-first-issue`
+Download your forked repository to your computer so you can edit the files locally.
 
-🎉 **Awesome!** You now have your own working copy of the project.
+1. On **your forked repository page**, click the green **`<> Code`** button.
+2. Under the **HTTPS** tab, copy your repository URL:
 
-## 2. CLONE THE REPOSITORY
+   <p align="center">
+     <img src="assets/src/image2.png" alt="Clone URL" width="360" />
+   </p>
 
-Now you need to download your forked repository to your computer so you can edit the files locally.
-
-1. On **your forked repository page** on GitHub, click the green "**<> Code**" button.
-2. In the dropdown menu, make sure the **HTTPS** tab is selected, and click the copy icon to copy your repository URL:
-
-   <br/>
-
-   <img src="assets/src/image2.png" alt="Clone repository" width="360" />
-
-   <br/>
-
-3. Open your terminal and run the `git clone` command followed by the URL you copied:
+3. Open your terminal and run:
 
    ```bash
    git clone https://github.com/<your-username>/good-first-issue.git
    ```
 
-> [!NOTE]
-> Replace `<your-username>` with your actual GitHub username!
-
-4. Once the download is complete, navigate into the project directory:
-
+4. Navigate into the project folder:
    ```bash
    cd good-first-issue
    ```
 
-🚀 **Great job!** You now have the project files on your local machine and you're ready to make your changes.
+---
 
-## 3. CREATE A NEW BRANCH
+## 3. 🌿 Create a New Branch
 
-Before making any changes, it is best practice to create a new branch. Working on a separate branch keeps your work organized and leaves the `main` branch clean.
+Always create a new branch before making edits to keep your work organized and isolated from `main`.
 
-1. In your terminal (inside the `good-first-issue` folder), run the `git switch -c` command followed by the name of your branch:
+1. In your terminal (inside the `good-first-issue` folder), run:
 
    ```bash
    git switch -c <your-branch-name>
    ```
 
-   _(Give it a descriptive name, such as `add-your-name` or `the-branch-name-you-want`)_
+   _(e.g. `git switch -c add-card`)_
 
-2. Git will confirm that you have created and switched to your new branch:
+2. Git will confirm that you switched to your new branch:
 
-   <br/>
-
-   <img src="assets/src/image3.png" alt="Create new branch" width="550" />
-
-   <br/>
+   <p align="center">
+     <img src="assets/src/image3.png" alt="Create new branch" width="520" />
+   </p>
 
 > [!NOTE]
-> Tip: If you are using an older version of Git, you can also use `git checkout -b <your-branch-name>`.
+> On older versions of Git, you can also use `git checkout -b <your-branch-name>`.
 
-🌿 **You're all set!** Any edits you make from now on will stay on your new branch.
+---
 
-## 4. OPEN THE PROJECT IN YOUR CODE EDITOR
+## 4. 💻 Open the Project in Your Code Editor
 
-Now that you have the project locally and your branch is ready, it's time to open it in your code editor. In this guide, we'll use **Visual Studio Code (VS Code)**, but you can use any editor you prefer.
-
-If you have VS Code configured in your command line, simply run the following command from inside the `good-first-issue` folder:
+Open the `good-first-issue` folder in **Visual Studio Code** (or your favorite editor):
 
 ```bash
 code .
 ```
 
-Alternatively, you can open it manually:
+_Or open VS Code, go to **File** > **Open Folder...**, and select `good-first-issue`._
 
-1. Launch **Visual Studio Code**.
-2. Go to **File** > **Open Folder...** (or press `Ctrl + K, Ctrl + O` on Windows / `Cmd + O` on macOS).
-3. Select the `good-first-issue` folder.
+<p align="center">
+  <img src="assets/src/image4.png" alt="Project open in VS Code" width="300" />
+</p>
 
-You should see the project files in the explorer:
+---
 
-<br/>
+## 5. 📇 Add Your Contributor Card
 
-<img src="assets/src/image4.png" alt="Project open in VS Code" width="310" />
+Create your contributor card inside the `assets/cards/` directory named with your GitHub username:
 
-<br/>
+📄 **`assets/cards/<your-username>.json`**
 
-> [!NOTE]
-> Don't have VS Code installed yet? You can download it for free from [code.visualstudio.com](https://code.visualstudio.com/).
-
-💻 **All set!** You now have the project open in your editor and you're ready to start editing.
-
-## 5. ADD YOUR CONTRIBUTOR CARD
-
-Now comes the fun part: adding your own card to the project!
-
-Inside the `assets/cards/` directory, create a new file named with your GitHub username followed by `.json`:
-
-📄 `assets/cards/<your-username>.json` _(e.g. `octocat.json`)_
-
-### STRUCTURE
-
-Your file must follow the exact same structure as `jan.json`:
+### File Structure
 
 ```json
 {
@@ -350,18 +332,10 @@ Your file must follow the exact same structure as `jan.json`:
 }
 ```
 
-### HOW TO GET YOUR PROFILE IMAGE URL (`IMG`):
+> [!TIP]
+> **Avatar URL:** You can use `https://github.com/<your-username>.png` directly as your `"img"` URL!
 
-1. Open your GitHub profile page in your browser (`https://github.com/<your-username>`).
-2. Right-click on your profile picture and select **"Copy image address"** (or **"Copiar dirección de imagen"**).
-3. Paste that copied URL into the `"img"` field.
-
-> [!NOTE]
-> Quick trick: You can also use `https://github.com/<your-username>.png` as your image URL!
-
-### EXAMPLE
-
-If your username is `octocat`, you would create `assets/cards/octocat.json` with the following content:
+### Example (`assets/cards/octocat.json`)
 
 ```json
 {
@@ -371,75 +345,56 @@ If your username is `octocat`, you would create `assets/cards/octocat.json` with
 }
 ```
 
-Save the file when you're done. Once created, you are ready for the next step!
+---
 
-## 6. COMMIT AND PUSH YOUR CHANGES
+## 6. 💾 Commit and Push Your Changes
 
-Before creating the Pull Request, you need to save your changes and upload your branch to GitHub.
+Save your changes locally and upload your branch to GitHub:
 
-1. Open your terminal inside the project directory and stage your new file:
-
-   ```bash
-   git add assets/cards/<your-username>.json
-   ```
-
-2. Commit the changes with a short, descriptive message:
-
-   ```bash
-   git commit -m "feat: add <your-username> card"
-   ```
-
-3. Push your branch to your GitHub fork:
-
-   ```bash
-   git push origin <your-branch-name>
-   ```
+```bash
+git add assets/cards/<your-username>.json
+git commit -m "feat: add <your-username> card"
+git push origin <your-branch-name>
+```
 
 > [!NOTE]
-> If prompted, you can also run `git push -u origin <your-branch-name>`.
+> If prompted on the first push, run: `git push -u origin <your-branch-name>`.
 
-## 7. CREATE THE PULL REQUEST
+---
 
-Now that your branch is uploaded to GitHub, it's time to submit your contribution to the project!
+## 7. 🚀 Create the Pull Request
 
-1. Go to your fork page on GitHub (or visit the original repository: [jaanque/good-first-issue](https://github.com/jaanque/good-first-issue)).
-2. Click on the **"Contribute"** button and select **"Open pull request"** (or click the **"Compare & pull request"** button in the yellow banner):
+1. Go to your fork page on GitHub (or visit the main repository: [jaanque/good-first-issue](https://github.com/jaanque/good-first-issue)).
+2. Click **"Contribute"** > **"Open pull request"** (or click the green **"Compare & pull request"** button):
 
-   <br/>
+   <p align="center">
+     <img src="assets/src/image5.png" alt="Open pull request banner" width="450" />
+   </p>
 
-   <img src="assets/src/image5.png" alt="Open pull request" width="450" />
-
-   <br/>
-
-3. Verify that:
+3. Verify:
    - **Base repository:** `jaanque/good-first-issue` (branch `main`)
-   - **Head repository:** your fork (your branch)
-4. In the title and description, clearly describe what you have modified:
-   - **Title:** Add a descriptive title (e.g. `Add <your-username> card`).
-   - **Description:** Write a brief description explaining what you modified (e.g. that you added your contributor card in `assets/cards/<your-username>.json`).
-5. Click the green **Create pull request** button!
+   - **Head repository:** your fork (branch `your-branch-name`)
+4. Add a title (e.g. `feat: add <your-username> card`) and click **Create pull request**!
 
-### NOW JUST WAIT FOR THE REVIEW OF YOUR PULL REQUEST. AFTER THE REVIEW, IF IT IS ACCEPTED, YOUR CARD WILL BE AUTOMATICALLY ADDED TO THE CONTRIBUTORS SHOWCASE.
-
-You can see the live result of everyone's contributions here:
-👉 **[Our Contributors](https://jaanque.github.io/good-first-issue/)**
+> [!TIP]
+> Once reviewed and merged, your card will automatically go live on the [Contributors Showcase](https://jaanque.github.io/good-first-issue/)!
 
 ---
 
-## 🚀 LEVEL UP YOUR CODING SKILLS!
+## 🎯 Level Up Your Coding Skills!
 
-Already added your contributor card? The next level is **[levels/](levels/)**! Take your skills further with our step-by-step programming challenges:
+Already submitted your contributor card? The next level is **[levels/](levels/)**! Take your skills further with progressive programming challenges:
 
-👉 **[Explore Coding Levels (levels/)](levels/)**
+👉 **[Explore Coding Levels (`levels/`)](levels/)**
 
 ---
 
-##
+<div align="center">
 
-Remember, this is just the beginning! There are thousands of open source projects out there waiting for your contribution, and the workflow is essentially the same everywhere: fork the repository, create a branch, make your changes, and submit a pull request.
+## 🎉 Congratulations!
 
-## 🎉 **CONGRATULATIONS!**
+You've completed your first Open Source contribution!
 
-You've just submitted your first Open Source contribution! Once merged, your card will automatically be added to the contributors showcase.
+<sub>Made with 💖 for beginners everywhere</sub>
 
-we 💖 you
+</div>
