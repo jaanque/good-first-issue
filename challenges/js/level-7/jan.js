@@ -1,19 +1,28 @@
 // Level 7: String Manipulation & Palindrome Checker
 // Contributor: @jaanque (Jan)
 
+const assert = require("node:assert/strict");
+
 function isPalindrome(text) {
   const cleaned = text.toLowerCase().replace(/[^a-z0-9]/g, "");
   return cleaned === cleaned.split("").reverse().join("");
 }
 
-const tests = [
-  "radar",
-  "A man, a plan, a canal: Panama",
-  "Was it a car or a cat I saw?",
-  "javascript",
-  "open source",
+const testCases = [
+  ["radar", true],
+  ["A man, a plan, a canal: Panama", true],
+  ["Was it a car or a cat I saw?", true],
+  ["javascript", false],
+  ["open source", false],
+  ["", true],
+  ["12321", true],
+  ["12345", false],
 ];
 
-tests.forEach(test => {
-  console.log(`'${test}' -> is palindrome: ${isPalindrome(test)}`);
+testCases.forEach(([sample, expected]) => {
+  const result = isPalindrome(sample);
+  assert.strictEqual(result, expected, `For '${sample}', expected ${expected}, got ${result}`);
+  console.log(`✅ PASS | '${sample}' -> ${result}`);
 });
+
+console.log("✅ All tests passed successfully!");

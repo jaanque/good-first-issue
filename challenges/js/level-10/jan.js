@@ -1,6 +1,8 @@
 // Level 10: ES6 Classes & Object-Oriented Programming
 // Contributor: @jaanque (Jan)
 
+const assert = require("node:assert/strict");
+
 class ContributorProfile {
   constructor(username, name, languages = [], completedLevels = []) {
     this.username = username;
@@ -16,7 +18,12 @@ class ContributorProfile {
   }
 
   completeLevel(level) {
-    if (level >= 1 && level <= 10 && !this.completedLevels.includes(level)) {
+    if (
+      Number.isInteger(level) &&
+      level >= 1 &&
+      level <= 10 &&
+      !this.completedLevels.includes(level)
+    ) {
       this.completedLevels.push(level);
       this.completedLevels.sort((a, b) => a - b);
       return true;
@@ -29,8 +36,12 @@ class ContributorProfile {
   }
 
   introduce() {
-    const langs = this.languages.length > 0 ? this.languages.join(", ") : "none yet";
-    const completed = this.completedLevels.length > 0 ? this.completedLevels.join(", ") : "none";
+    const langs =
+      this.languages.length > 0 ? this.languages.join(", ") : "none yet";
+    const completed =
+      this.completedLevels.length > 0
+        ? this.completedLevels.join(", ")
+        : "none";
     return `Hi! I'm ${this.name} (@${this.username}). Progress: ${this.getProgress()}% (levels: ${completed}). Languages: ${langs}.`;
   }
 
@@ -45,12 +56,48 @@ class ContributorProfile {
   }
 }
 
-const profile = new ContributorProfile("jaanque", "Jan", ["JavaScript", "HTML", "CSS"]);
+const profile = new ContributorProfile("jaanque", "Jan", [
+  "JavaScript",
+  "HTML",
+  "CSS",
+]);
 console.log(profile.introduce());
 
-[1, 2, 3, 4, 5].forEach(lvl => profile.completeLevel(lvl));
-profile.addLanguage("Python");
+assert.strictEqual(profile.username, "jaanque");
+assert.strictEqual(profile.name, "Jan");
+assert.deepStrictEqual(profile.languages, ["JavaScript", "HTML", "CSS"]);
+assert.deepStrictEqual(profile.completedLevels, []);
+assert.strictEqual(profile.getProgress(), 0);
 
+// Prevent duplicate languages
+profile.addLanguage("JavaScript");
+assert.deepStrictEqual(profile.languages, ["JavaScript", "HTML", "CSS"]);
+
+// Complete levels
+[1, 2, 3, 4, 5].forEach((lvl) => {
+  assert.strictEqual(profile.completeLevel(lvl), true);
+});
+
+// Reject duplicate level
+assert.strictEqual(profile.completeLevel(3), false);
+
+// Reject out of range level
+assert.strictEqual(profile.completeLevel(0), false);
+assert.strictEqual(profile.completeLevel(11), false);
+assert.strictEqual(profile.completeLevel("5"), false);
+
+assert.deepStrictEqual(profile.completedLevels, [1, 2, 3, 4, 5]);
+assert.strictEqual(profile.getProgress(), 50);
+
+profile.addLanguage("Python");
 console.log("\nAfter progress:");
 console.log(profile.introduce());
-console.log("\nSerialized object:", profile.toJSON());
+
+const json = profile.toJSON();
+console.log("\nSerialized object:", json);
+assert.strictEqual(json.username, "jaanque");
+assert.strictEqual(json.progress, 50);
+assert.deepStrictEqual(json.completedLevels, [1, 2, 3, 4, 5]);
+assert.ok(json.languages.includes("Python"));
+
+console.log("✅ All tests passed successfully!");
