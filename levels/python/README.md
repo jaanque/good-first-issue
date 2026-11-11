@@ -1,44 +1,99 @@
-# 🐍 Python Levels
+# 🐍 Python Track — 10 Progressive Coding Levels
 
-Welcome to the **Python Track**! Here you will find 10 progressive coding challenges designed to take you from the absolute basics of Python to advanced problem solving and Object-Oriented Programming (OOP).
+Welcome to the **Python Track**!
+
+Whether you are writing your first Python script or deepening your knowledge of data structures, string manipulation, and Object-Oriented Programming (OOP), this track offers 10 hands-on, progressive challenges designed to take you from printing to the console all the way to building classes and analyzing datasets.
+
+---
+
+## 🛠️ Prerequisites
+
+To run and test your Python code on your computer, you need **Python 3** (version 3.8 or higher is recommended):
+
+1. Check if Python is installed:
+   ```bash
+   python --version
+   # or on Linux/macOS:
+   python3 --version
+   ```
+2. If it is not installed, download the latest version from [python.org/downloads](https://www.python.org/downloads/).
+
+All challenges are designed to work entirely with the **Python Standard Library** (`math`, `re`, `collections`, etc.). No `pip install` or external virtual environments are needed!
 
 ---
 
 ## 🪜 Level Progression
 
-| Level | Topic | Difficulty | Path |
-| :---: | :--- | :---: | :--- |
-| **Level 1** | Print Your Name & Welcome Message | 🟢 Very Easy | [`level-1/`](level-1/) |
-| **Level 2** | Variables & String Formatting (f-strings) | 🟢 Very Easy | [`level-2/`](level-2/) |
-| **Level 3** | Functions & Return Values | 🟢 Easy | [`level-3/`](level-3/) |
-| **Level 4** | Arithmetic Operations & Basic Calculator | 🟢 Easy | [`level-4/`](level-4/) |
-| **Level 5** | Conditionals & Logic (FizzBuzz) | 🟡 Easy+ | [`level-5/`](level-5/) |
-| **Level 6** | Lists & Loops (Filter & Transform) | 🟡 Intermediate- | [`level-6/`](level-6/) |
-| **Level 7** | String Manipulation & Palindrome Checker | 🟡 Intermediate | [`level-7/`](level-7/) |
-| **Level 8** | Dictionaries & Word Frequency Counter | 🟡 Intermediate | [`level-8/`](level-8/) |
-| **Level 9** | Data Aggregation & Score Analysis | 🔴 Intermediate+ | [`level-9/`](level-9/) |
-| **Level 10** | Object-Oriented Programming (Contributor Class) | 🔴 Advanced- | [`level-10/`](level-10/) |
+| Level | Challenge | Difficulty | Key Concepts | Path |
+| :---: | :--- | :---: | :--- | :---: |
+| **Level 1** | Print Welcome Message | 🟢 Very Easy | `print()`, standard output, script execution | [**Go to Level 1 →**](level-1/) |
+| **Level 2** | Variables & f-strings | 🟢 Very Easy | Dynamic typing, f-strings, string formatting | [**Go to Level 2 →**](level-2/) |
+| **Level 3** | Functions & Default Values | 🟢 Easy | `def`, default arguments, `return`, `__main__` | [**Go to Level 3 →**](level-3/) |
+| **Level 4** | Basic Arithmetic Calculator | 🟢 Easy | Math operators, `if-elif-else`, division by zero check | [**Go to Level 4 →**](level-4/) |
+| **Level 5** | Conditionals & Logic (FizzBuzz) | 🟡 Easy+ | Modulo operator `%`, `range()`, loops, sequence building | [**Go to Level 5 →**](level-5/) |
+| **Level 6** | Lists & Filtering | 🟡 Intermediate- | List comprehensions, condition filtering, squaring evens | [**Go to Level 6 →**](level-6/) |
+| **Level 7** | String Manipulation & Palindromes | 🟡 Intermediate | Regex (`re.sub`), case normalization, slicing `[::-1]` | [**Go to Level 7 →**](level-7/) |
+| **Level 8** | Dictionaries & Word Frequencies | 🟡 Intermediate | `dict`, regex tokens, `collections.Counter`, metrics | [**Go to Level 8 →**](level-8/) |
+| **Level 9** | Data Aggregation & Score Records | 🔴 Intermediate+ | Dataset processing, `lambda`, min/max/average stats | [**Go to Level 9 →**](level-9/) |
+| **Level 10** | OOP ContributorProfile Class | 🔴 Advanced- | `class`, `__init__`, `self`, encapsulation, `to_dict` | [**Go to Level 10 →**](level-10/) |
 
 ---
 
-## 🛠️ General Guidelines
+## 📚 4 Learning Phases
 
-1. **File Name:**  
-   Inside each level directory, create a file named with your exact GitHub username followed by `.py`:  
-   `levels/python/level-X/<your-username>.py` *(e.g. `octocat.py`)*
+```mermaid
+flowchart TD
+    subgraph Phase 1: Foundations
+        L1["Level 1: print() output"] --> L2["Level 2: Variables & f-strings"]
+        L2 --> L3["Level 3: Functions & Defaults"]
+    end
+    subgraph Phase 2: Control Flow & Operations
+        L3 --> L4["Level 4: Calculator & Safety"]
+        L4 --> L5["Level 5: FizzBuzz & Modulo"]
+    end
+    subgraph Phase 3: Collections & Text Processing
+        L5 --> L6["Level 6: List Comprehensions"]
+        L6 --> L7["Level 7: Palindrome & Slicing"]
+        L7 --> L8["Level 8: Dictionaries & Counter"]
+    end
+    subgraph Phase 4: Analytics & OOP
+        L8 --> L9["Level 9: Dataset Aggregations"]
+        L9 --> L10["Level 10: OOP Contributor Class"]
+    end
+```
 
-2. **Code Quality:**  
-   - Follow standard Python conventions ([PEP 8](https://peps.python.org/pep-0008/)).
-   - Include type hints where applicable (`name: str -> str`).
-   - Include an `if __name__ == "__main__":` block to demonstrate your code.
+---
 
-3. **No External Dependencies:**  
-   All challenges can be solved using the Python Standard Library only (`math`, `re`, `collections`, etc.).
+## 🚀 How to Complete a Challenge
 
-> [!NOTE]
-> Make sure your code runs cleanly without errors before submitting a Pull Request (use `python` or `python3` depending on your environment):
-> ```bash
-> python levels/python/level-1/<your-username>.py
-> # or:
-> python3 levels/python/level-1/<your-username>.py
-> ```
+1. **Pick a level:** Start with [`levels/python/level-1/`](level-1/) or navigate to any level.
+2. **Read the instructions:** Open the level's `README.md` to learn the concept and review requirements.
+3. **Create your file:** Inside the level folder, create a file named `<your-username>.py`:
+   ```text
+   levels/python/level-1/<your-username>.py
+   ```
+4. **Run your code:** Test your script in your terminal:
+   ```bash
+   python levels/python/level-1/<your-username>.py
+   # or:
+   python3 levels/python/level-1/<your-username>.py
+   ```
+5. **Compare:** Inspect [`jan.py`](level-1/jan.py) in each folder for a complete working reference solution.
+6. **Submit:** Commit your file and open a Pull Request!
+
+---
+
+## 📜 Python Track Guidelines
+
+- **File Naming:** Always use your exact GitHub username (e.g. `octocat.py`).
+- **Code Conventions:** Follow [PEP 8](https://peps.python.org/pep-0008/) style standards (4 spaces indentation, snake_case function names).
+- **Type Annotations:** Use Python type hints where applicable (`def greet(name: str = "World") -> str:`).
+- **Execution Guard:** Include an `if __name__ == "__main__":` block to demonstrate your code running.
+- **Self-Contained:** Rely only on standard library modules (`re`, `collections`, `math`).
+- **Respect Others:** Never edit or delete other contributors' solution files.
+
+---
+
+## 🏁 Ready to code?
+
+👉 **[Start with Level 1: Print Your Welcome Message →](level-1/)**

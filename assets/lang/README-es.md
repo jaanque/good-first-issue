@@ -421,6 +421,26 @@ Ahora que tu rama está subida a GitHub, ¡es hora de enviar tu contribución al
 Puedes ver el resultado en vivo de las contribuciones de todos aquí:
 👉 **[Nuestros Colaboradores](https://jaanque.github.io/good-first-issue/)**
 
+---
+
+## 🚀 ¡SUBE DE NIVEL TUS HABILIDADES DE CÓDIGO!
+
+¿Ya añadiste tu tarjeta de colaborador? ¡Lleva tus habilidades más lejos con nuestras rutas prácticas de programación!
+
+Hemos diseñado retos de programación estructurados y progresivos para acompañarte desde tus primeras líneas de código hasta la resolución de problemas avanzados y Programación Orientada a Objetos (POO), todo dentro de este repositorio practicando con Git y GitHub en el mundo real:
+
+👉 **[Explorar Todos los Niveles de Código (levels/)](../../levels/)**
+
+### 🌟 Rutas Activas (10 Niveles Cada Una)
+
+- 🐍 **[Ruta de Python (Niveles 1 al 10)](../../levels/python/)**: Desde tu primer `print()` hasta listas, diccionarios, algoritmos de texto y clases con POO.
+- 🟨 **[Ruta de JavaScript (Niveles 1 al 10)](../../levels/js/)**: Desde `console.log()` hasta ES6+ moderno, métodos funcionales de arrays (`.filter()`, `.map()`), objetos y clases ES6.
+
+> [!TIP]
+> Cada nivel cuenta con una guía dedicada con conceptos teóricos, explicaciones paso a paso, salidas de terminal esperadas y una solución de referencia funcional (`jan.py` / `jan.js`). ¡Empieza en el Nivel 1 y avanza a tu propio ritmo!
+
+---
+
 ##
 
 ¡Recuerda, esto es solo el comienzo! Hay miles de proyectos de código abierto esperando tu contribución, y el flujo de trabajo es básicamente el mismo en todas partes: haz un fork del repositorio, crea una rama, realiza tus cambios y envía un pull request.
