@@ -38,3 +38,11 @@ If you prefer reading the instructions in another language, check out the transl
 
 Once accepted, your card will automatically appear on our [Contributors Showcase](https://jaanque.github.io/good-first-issue/)!
 
+## 🚀 Want More Practice? Try Coding Levels!
+
+Take your contributions further with our progressive challenges grouped by language:
+👉 **[Explore Coding Levels (levels/)](levels/)**
+
+Currently available:
+- 🐍 **[Python Levels](levels/python/)**: Practice Python from basic greetings to OOP and data analysis.
+
