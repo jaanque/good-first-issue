@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resources & Learning Tools - Good First Issue</title>
+    <title>Frequently Asked Questions - Good First Issue</title>
     <link rel="icon"
         href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚀</text></svg>">
-    <meta name="description" content="Curated free resources, interactive games, and tutorials to master Git and Open Source.">
+    <meta name="description" content="Answers to common beginner questions about Git, GitHub, and contributing to Open Source.">
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -122,52 +122,39 @@
             line-height: 1.5;
         }
 
-        .resource-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-            gap: 16px;
-            margin-bottom: 28px;
-        }
-
-        .resource-card {
+        .faq-item {
             background: #ffffff;
             border: 1px solid #d0d7de;
             border-radius: 6px;
-            padding: 20px;
+            padding: 24px;
+            margin-bottom: 18px;
             box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
         }
 
-        .resource-card h3 {
-            font-size: 1.1rem;
+        .faq-item h2 {
+            font-size: 1.25rem;
             margin-top: 0;
-            margin-bottom: 8px;
+            margin-bottom: 12px;
             color: #24292f;
         }
 
-        .resource-card p {
+        .faq-item p {
             color: #57606a;
-            font-size: 0.9rem;
-            line-height: 1.5;
+            line-height: 1.6;
             margin-top: 0;
-            margin-bottom: 16px;
-            flex-grow: 1;
+            margin-bottom: 12px;
         }
 
-        .resource-link {
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
-            color: #0969da;
-            text-decoration: none;
-            font-size: 0.9rem;
-            font-weight: 600;
+        .faq-item p:last-child {
+            margin-bottom: 0;
         }
 
-        .resource-link:hover {
-            text-decoration: underline;
+        code {
+            font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+            background-color: rgba(175, 184, 193, 0.2);
+            padding: 2px 6px;
+            border-radius: 6px;
+            font-size: 0.88em;
         }
 
         footer {
@@ -202,15 +189,15 @@
 
     <nav class="navbar">
         <div class="nav-container">
-            <a href="../index.html" class="nav-brand">
+            <a href="../../index.html" class="nav-brand">
                 <span>🚀</span>
                 <span>Good First Issue</span>
             </a>
             <div class="nav-links">
-                <a href="../index.html" class="nav-link">Showcase</a>
+                <a href="../../index.html" class="nav-link">Showcase</a>
                 <a href="guide.html" class="nav-link">Git Guide</a>
-                <a href="faq.html" class="nav-link">FAQ</a>
-                <a href="resources.html" class="nav-link active">Resources</a>
+                <a href="faq.html" class="nav-link active">FAQ</a>
+                <a href="resources.html" class="nav-link">Resources</a>
                 <a href="levels.html" class="nav-link">Levels</a>
             </div>
             <a href="https://github.com/jaanque/good-first-issue" target="_blank" rel="noopener noreferrer"
@@ -226,64 +213,40 @@
     </nav>
 
     <div class="main-content">
-        <h1>Learning Resources & Tools 🛠️</h1>
-        <p class="subtitle">Hand-picked interactive tutorials, documentation, and tools to accelerate your Git journey.
-        </p>
+        <h1>Frequently Asked Questions ❓</h1>
+        <p class="subtitle">Quick clarity on the most common questions, terminology, and troubleshooting steps.</p>
 
-        <div class="resource-grid">
-            <div class="resource-card">
-                <div>
-                    <h3>Learn Git Branching</h3>
-                    <p>An interactive visual tutorial that simulates trees, branches, and merges step by step.</p>
-                </div>
-                <a href="https://learngitbranching.js.org/" target="_blank" rel="noopener noreferrer"
-                    class="resource-link">Visit Website ➔</a>
-            </div>
+        <div class="faq-item">
+            <h2>What is the difference between Fork and Clone?</h2>
+            <p>A <strong>Fork</strong> happens on GitHub's servers: it creates a personal copy of another user's
+                repository under your GitHub profile. A <strong>Clone</strong> happens locally: it downloads the files
+                from GitHub to your computer so you can open and edit them.</p>
+        </div>
 
-            <div class="resource-card">
-                <div>
-                    <h3>GitHub Skills</h3>
-                    <p>Interactive courses built by GitHub to practice directly inside real repositories.</p>
-                </div>
-                <a href="https://skills.github.com/" target="_blank" rel="noopener noreferrer"
-                    class="resource-link">Explore Courses ➔</a>
-            </div>
+        <div class="faq-item">
+            <h2>I made a typo in my card after opening the Pull Request. Do I need to open a new PR?</h2>
+            <p>No! Any new commit you make and push to the same branch on your fork will automatically update your
+                existing Pull Request. Just edit the file, commit your change, and run <code>git push</code>.</p>
+        </div>
 
-            <div class="resource-card">
-                <div>
-                    <h3>Oh My Git!</h3>
-                    <p>An open-source game that visualizes internal Git structures through card-based gameplay.</p>
-                </div>
-                <a href="https://ohmygit.org/" target="_blank" rel="noopener noreferrer" class="resource-link">Play
-                    Game ➔</a>
-            </div>
+        <div class="faq-item">
+            <h2>Why is my card not visible on the showcase yet?</h2>
+            <p>Your card appears after a project maintainer reviews and merges your Pull Request into the
+                <code>main</code> branch. Once merged, GitHub Actions will compile your card automatically within 1 to 2
+                minutes.</p>
+        </div>
 
-            <div class="resource-card">
-                <div>
-                    <h3>Pro Git Book</h3>
-                    <p>The definitive, comprehensive official book about Git. Completely free to read online.</p>
-                </div>
-                <a href="https://git-scm.com/book/en/v2" target="_blank" rel="noopener noreferrer"
-                    class="resource-link">Read Online ➔</a>
-            </div>
+        <div class="faq-item">
+            <h2>What is a Pull Request?</h2>
+            <p>A Pull Request (PR) is a formal request asking the repository owner to review the changes you made in your
+                branch and "pull" (merge) them into their project. It is the core collaboration mechanism in Open Source.
+            </p>
+        </div>
 
-            <div class="resource-card">
-                <div>
-                    <h3>GitHub Desktop</h3>
-                    <p>A clean graphical client to review diffs and push commits without typing commands.</p>
-                </div>
-                <a href="https://desktop.github.com/" target="_blank" rel="noopener noreferrer"
-                    class="resource-link">Download App ➔</a>
-            </div>
-
-            <div class="resource-card">
-                <div>
-                    <h3>First Contributions</h3>
-                    <p>Hands-on guide to help beginners navigate making their very first contribution on GitHub.</p>
-                </div>
-                <a href="https://firstcontributions.github.io/" target="_blank" rel="noopener noreferrer"
-                    class="resource-link">Visit Guide ➔</a>
-            </div>
+        <div class="faq-item">
+            <h2>Can I translate the guide into my native language?</h2>
+            <p>Yes, absolutely! We love multilingual contributions. You can add a new translation file in
+                <code>assets/lang/README-&lt;language-code&gt;.md</code> and submit it via Pull Request.</p>
         </div>
     </div>
 

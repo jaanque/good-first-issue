@@ -7,6 +7,8 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/jaanque/good-first-issue)
 [![GitHub last commit](https://img.shields.io/github/last-commit/jaanque/good-first-issue)](https://github.com/jaanque/good-first-issue/commits/main)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjaanque%2Fgood-first-issue&label=visitors&countColor=%230c7ebe&style=flat&labelStyle=none)](https://github.com/jaanque/good-first-issue)
+![GitHub repo size](https://img.shields.io/github/repo-size/jaanque/good-first-issue)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fjaanque.github.io%2Fgood-first-issue%2F)
 
 ##
 
@@ -439,6 +441,5 @@ Remember, this is just the beginning! There are thousands of open source project
 ## 🎉 **CONGRATULATIONS!**
 
 You've just submitted your first Open Source contribution! Once merged, your card will automatically be added to the contributors showcase.
-
 
 we 💖 you

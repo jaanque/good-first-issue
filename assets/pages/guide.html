@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Frequently Asked Questions - Good First Issue</title>
+    <title>Git & GitHub Guide - Good First Issue</title>
     <link rel="icon"
         href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚀</text></svg>">
-    <meta name="description" content="Answers to common beginner questions about Git, GitHub, and contributing to Open Source.">
+    <meta name="description" content="A beginner-friendly knowledge guide covering essential Git commands and workflow concepts.">
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -122,31 +122,42 @@
             line-height: 1.5;
         }
 
-        .faq-item {
+        .guide-section {
             background: #ffffff;
             border: 1px solid #d0d7de;
             border-radius: 6px;
             padding: 24px;
-            margin-bottom: 18px;
+            margin-bottom: 24px;
             box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
         }
 
-        .faq-item h2 {
-            font-size: 1.25rem;
+        .guide-section h2 {
+            font-size: 1.3rem;
             margin-top: 0;
             margin-bottom: 12px;
             color: #24292f;
+            display: flex;
+            align-items: center;
+            gap: 8px;
         }
 
-        .faq-item p {
+        .guide-section p {
             color: #57606a;
             line-height: 1.6;
             margin-top: 0;
-            margin-bottom: 12px;
+            margin-bottom: 16px;
         }
 
-        .faq-item p:last-child {
-            margin-bottom: 0;
+        pre {
+            background-color: #f6f8fa;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+            padding: 12px 16px;
+            overflow-x: auto;
+            font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+            font-size: 0.9rem;
+            color: #24292f;
+            margin: 0 0 12px 0;
         }
 
         code {
@@ -155,6 +166,23 @@
             padding: 2px 6px;
             border-radius: 6px;
             font-size: 0.88em;
+        }
+
+        pre code {
+            background-color: transparent;
+            padding: 0;
+            border-radius: 0;
+        }
+
+        .tip-box {
+            background-color: #ddf4ff;
+            border: 1px solid #54aeff;
+            border-radius: 6px;
+            padding: 12px 16px;
+            color: #0969da;
+            font-size: 0.9rem;
+            line-height: 1.5;
+            margin-top: 12px;
         }
 
         footer {
@@ -189,14 +217,14 @@
 
     <nav class="navbar">
         <div class="nav-container">
-            <a href="../index.html" class="nav-brand">
+            <a href="../../index.html" class="nav-brand">
                 <span>🚀</span>
                 <span>Good First Issue</span>
             </a>
             <div class="nav-links">
-                <a href="../index.html" class="nav-link">Showcase</a>
-                <a href="guide.html" class="nav-link">Git Guide</a>
-                <a href="faq.html" class="nav-link active">FAQ</a>
+                <a href="../../index.html" class="nav-link">Showcase</a>
+                <a href="guide.html" class="nav-link active">Git Guide</a>
+                <a href="faq.html" class="nav-link">FAQ</a>
                 <a href="resources.html" class="nav-link">Resources</a>
                 <a href="levels.html" class="nav-link">Levels</a>
             </div>
@@ -213,40 +241,68 @@
     </nav>
 
     <div class="main-content">
-        <h1>Frequently Asked Questions ❓</h1>
-        <p class="subtitle">Quick clarity on the most common questions, terminology, and troubleshooting steps.</p>
+        <h1>Git Knowledge Guide 📖</h1>
+        <p class="subtitle">Master the fundamental commands and mental models of version control to contribute with
+            confidence.</p>
 
-        <div class="faq-item">
-            <h2>What is the difference between Fork and Clone?</h2>
-            <p>A <strong>Fork</strong> happens on GitHub's servers: it creates a personal copy of another user's
-                repository under your GitHub profile. A <strong>Clone</strong> happens locally: it downloads the files
-                from GitHub to your computer so you can open and edit them.</p>
+        <div class="guide-section">
+            <h2>1. What is Git vs GitHub?</h2>
+            <p><strong>Git</strong> is a version control tool running locally on your computer that tracks changes to
+                files over time. <strong>GitHub</strong> is a cloud platform hosting Git repositories, providing social
+                coding features like Pull Requests, Issue tracking, and web showcases.</p>
         </div>
 
-        <div class="faq-item">
-            <h2>I made a typo in my card after opening the Pull Request. Do I need to open a new PR?</h2>
-            <p>No! Any new commit you make and push to the same branch on your fork will automatically update your
-                existing Pull Request. Just edit the file, commit your change, and run <code>git push</code>.</p>
+        <div class="guide-section">
+            <h2>2. Essential Commands Cheatsheet</h2>
+            <p>The everyday workflow from downloading code to submitting your changes:</p>
+
+            <pre><code># Clone your fork to your machine
+git clone https://github.com/&lt;your-username&gt;/good-first-issue.git
+
+# Move into the project directory
+cd good-first-issue
+
+# Create and switch to a new branch
+git checkout -b add-my-card
+
+# Check which files have changed
+git status
+
+# Stage the modified or new files
+git add assets/cards/&lt;your-username&gt;.json
+
+# Save changes with a clear message
+git commit -m "Add &lt;your-username&gt; contributor card"
+
+# Upload your branch to your GitHub fork
+git push -u origin add-my-card</code></pre>
+
+            <div class="tip-box">
+                💡 <strong>Tip:</strong> Always create a dedicated branch before making edits. Leaving the
+                <code>main</code> branch untouched keeps your repository organized and easy to synchronize.
+            </div>
         </div>
 
-        <div class="faq-item">
-            <h2>Why is my card not visible on the showcase yet?</h2>
-            <p>Your card appears after a project maintainer reviews and merges your Pull Request into the
-                <code>main</code> branch. Once merged, GitHub Actions will compile your card automatically within 1 to 2
-                minutes.</p>
+        <div class="guide-section">
+            <h2>3. The Open Source Contribution Cycle</h2>
+            <p>Every open source contribution follows five core steps:</p>
+            <p><strong>Fork</strong> ➔ create your personal copy on GitHub.</p>
+            <p><strong>Clone</strong> ➔ download files to your local environment.</p>
+            <p><strong>Branch & Edit</strong> ➔ make and verify your changes safely.</p>
+            <p><strong>Commit & Push</strong> ➔ save your work and upload it to GitHub.</p>
+            <p><strong>Pull Request (PR)</strong> ➔ propose merging your branch into the original project.</p>
         </div>
 
-        <div class="faq-item">
-            <h2>What is a Pull Request?</h2>
-            <p>A Pull Request (PR) is a formal request asking the repository owner to review the changes you made in your
-                branch and "pull" (merge) them into their project. It is the core collaboration mechanism in Open Source.
-            </p>
-        </div>
+        <div class="guide-section">
+            <h2>4. Keeping your Fork Synchronized</h2>
+            <p>When the original repository receives new updates, your fork might fall behind. You can synchronize it
+                directly from GitHub by clicking the <strong>"Sync fork"</strong> button on your repository page, or via
+                command line:</p>
 
-        <div class="faq-item">
-            <h2>Can I translate the guide into my native language?</h2>
-            <p>Yes, absolutely! We love multilingual contributions. You can add a new translation file in
-                <code>assets/lang/README-&lt;language-code&gt;.md</code> and submit it via Pull Request.</p>
+            <pre><code>git remote add upstream https://github.com/jaanque/good-first-issue.git
+git fetch upstream
+git checkout main
+git merge upstream/main</code></pre>
         </div>
     </div>
 

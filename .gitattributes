@@ -1,7 +1,7 @@
 levels/js/**/*.js linguist-detectable=true
 levels/python/**/*.py linguist-detectable=true
 
-pages/*.html linguist-detectable=false
+assets/pages/*.html linguist-detectable=false
 index.html linguist-detectable=false
 
 assets/cards/*.json linguist-detectable=false
