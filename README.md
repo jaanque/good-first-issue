@@ -9,7 +9,7 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fjaanque.github.io%2Fgood-first-issue%2F)](https://jaanque.github.io/good-first-issue/)
 [![GitHub last commit](https://img.shields.io/github/last-commit/jaanque/good-first-issue)](https://github.com/jaanque/good-first-issue/commits/main)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjaanque%2Fgood-first-issue&label=visitors&countColor=%230c7ebe&style=flat&labelStyle=none)](https://github.com/jaanque/good-first-issue)
 
 <br/>
@@ -221,6 +221,12 @@ Already submitted your contributor card? The next level is **[challenges/](chall
         <a href="https://github.com/BrochDev">
           <img src="https://github.com/BrochDev.png" width="80" height="80" style="border-radius: 50%;" alt="BrochDev" /><br />
           <sub><b>BrochDev</b></sub>
+        </a>
+      </td>
+      <td align="center" valign="top" width="100">
+        <a href="https://github.com/sabirhusseinbalal">
+          <img src="https://github.com/sabirhusseinbalal.png" width="80" height="80" style="border-radius: 50%;" alt="sabirhusseinbalal" /><br />
+          <sub><b>sabirhusseinbalal</b></sub>
         </a>
       </td>
     </tr>
