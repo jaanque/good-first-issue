@@ -28,11 +28,12 @@
       "avatar_url": "https://github.com/BrochDev.png",
       "profile": "https://github.com/BrochDev",
       "contributions": [
-        "ideas"
+        "ideas",
+        "code"
       ]
     }
   ],
   "contributorsPerLine": 7,
-  "linkToUsage": true
+  "linkToUsage": true,
+  "commitType": "docs"
 }
-
