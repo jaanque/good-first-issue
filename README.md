@@ -3,7 +3,7 @@
 <img width="1016" height="119" alt="image" src="https://github.com/user-attachments/assets/ca710c23-f696-47b4-b064-ac06aa2a8182" />
 
 
-### The friendliest way to make your very first Open Source contribution.
+### We don't care if you break something. We aren't born knowing everything; just try.
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Repo stars](https://img.shields.io/github/stars/jaanque/good-first-issue)](https://github.com/jaanque/good-first-issue/stargazers)
