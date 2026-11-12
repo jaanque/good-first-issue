@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="5856" height="704" alt="Gemini_Generated_Image_fbbxxufbbxxufbbx" src="https://github.com/user-attachments/assets/5c31bffc-031b-4106-b968-ca139793ec42" />
+<img width="1016" height="119" alt="image" src="https://github.com/user-attachments/assets/ca710c23-f696-47b4-b064-ac06aa2a8182" />
 
 
 ### The friendliest way to make your very first Open Source contribution.
