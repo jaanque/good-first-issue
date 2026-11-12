@@ -197,16 +197,6 @@ git push origin <your-branch-name>
 > [!TIP]
 > Once reviewed and merged, your card will automatically go live on the [Contributors Showcase](https://jaanque.github.io/good-first-issue/)!
 
----
-
-## 🎯 Level Up Your Coding Skills!
-
-Already submitted your contributor card? The next level is **[challenges/](challenges/)**! Take your skills further with progressive programming challenges:
-
-👉 **[Explore Coding Challenges (`challenges/`)](challenges/)**
-
----
-
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
