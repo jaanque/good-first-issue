@@ -1,14 +1,19 @@
 <div align="center">
 
-# 🚀 GOOD FIRST ISSUE
+<img width="1016" height="119" alt="image" src="https://github.com/user-attachments/assets/ca710c23-f696-47b4-b064-ac06aa2a8182" />
 
-### The friendliest way to make your very first Open Source contribution.
+
+### We don't care if you break something. We aren't born knowing everything; just try.
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Repo stars](https://img.shields.io/github/stars/jaanque/good-first-issue)](https://github.com/jaanque/good-first-issue/stargazers)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fjaanque.github.io%2Fgood-first-issue%2F)](https://jaanque.github.io/good-first-issue/)
 [![GitHub last commit](https://img.shields.io/github/last-commit/jaanque/good-first-issue)](https://github.com/jaanque/good-first-issue/commits/main)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
+![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/jaanque/good-first-issue?style=flat&color=black)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjaanque%2Fgood-first-issue&label=visitors&countColor=%230c7ebe&style=flat&labelStyle=none)](https://github.com/jaanque/good-first-issue)
 
 <br/>
@@ -28,6 +33,7 @@
 - [6. 💾 Commit and Push Your Changes](#6--commit-and-push-your-changes)
 - [7. 🚀 Create the Pull Request](#7--create-the-pull-request)
 - [🎯 Level Up Your Coding Skills!](#level-up-your-coding-skills)
+- [👥 Contributors](#contributors)
 
 </details>
 
@@ -198,6 +204,43 @@ git push origin <your-branch-name>
 Already submitted your contributor card? The next level is **[challenges/](challenges/)**! Take your skills further with progressive programming challenges:
 
 👉 **[Explore Coding Challenges (`challenges/`)](challenges/)**
+
+---
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/jaanque">
+          <img src="https://wsrv.nl/?url=github.com/jaanque.png&circle=1" width="100px" height="100px" alt="Jan"/><br />
+          <sub><b>Jan</b></sub>
+        </a>
+      </td>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/BrochDev">
+          <img src="https://wsrv.nl/?url=github.com/BrochDev.png&circle=1" width="100px" height="100px" alt="BrochDev"/><br />
+          <sub><b>BrochDev</b></sub>
+        </a>
+      </td>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/sabirhusseinbalal">
+          <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/246732079&circle=1" width="100px" height="100px" alt="Sabir Hussain Balal"/><br />
+          <sub><b>Sabir Hussain Balal</b></sub>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ---
 

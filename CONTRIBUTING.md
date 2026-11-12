@@ -111,30 +111,6 @@ Your card file must be saved as `assets/cards/<your-username>.json`:
 - [x] Valid JSON syntax (double quotes for keys and strings, no trailing commas).
 - [x] Placed in the `assets/cards/` directory.
 
----
-
-## 🎯 Coding Challenges
-
-Ready for the next step? Explore our progressive coding tracks:
-
-👉 **[Explore Coding Challenges (`challenges/`)](challenges/)**
-
-### Active Tracks:
-| Track | Difficulty | Key Concepts | Path |
-| :--- | :---: | :--- | :---: |
-| 🐍 **Python** | Levels 1 - 10 | `print()`, f-strings, functions, list comprehensions, regex, OOP | [`challenges/python/`](challenges/python/) |
-| 🟨 **JavaScript** | Levels 1 - 10 | `console.log()`, ES6+, array methods, hash maps, classes | [`challenges/js/`](challenges/js/) |
-| 🔷 **TypeScript** | Levels 1 - 10 | Types, interfaces, unions, generics, typed arrays, OOP | [`challenges/ts/`](challenges/ts/) |
-
-### How to Complete a Challenge:
-1. Navigate to the desired level (e.g. `challenges/python/level-1/`, `challenges/js/level-1/`, or `challenges/ts/level-1/`).
-2. Read the level's `README.md` for requirements, theory, and examples.
-3. Create your solution file named `<your-username>.<ext>` (e.g. `octocat.py`, `octocat.js`, or `octocat.ts`).
-4. Test locally using Python or Node.js.
-5. Open a Pull Request targeting `main`!
-
----
-
 ## 💡 Need Help?
 
 If you encounter any issues, have questions, or get stuck:
