@@ -213,20 +213,26 @@ Already submitted your contributor card? The next level is **[challenges/](chall
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jaanque"><img src="https://github.com/jaanque.png?size=100" width="100px" height="100px" alt="Jan"/><br /><sub><b>Jan</b></sub></a><br /><a href="https://github.com/jaanque/good-first-issue/commits?author=jaanque" title="Code">💻</a> <a href="https://github.com/jaanque/good-first-issue/commits?author=jaanque" title="Documentation">📖</a> <a href="#maintenance-jaanque" title="Maintenance">🚧</a> <a href="#ideas-jaanque" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BrochDev"><img src="https://github.com/BrochDev.png?size=100" width="100px" height="100px" alt="BrochDev"/><br /><sub><b>BrochDev</b></sub></a><br /><a href="#ideas-BrochDev" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/jaanque/good-first-issue/commits?author=BrochDev" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/sabirhusseinbalal"><img src="https://avatars.githubusercontent.com/u/246732079?v=4&size=100" width="100px" height="100px" alt="Sabir Hussain Balal"/><br /><sub><b>Sabir Hussain Balal</b></sub></a><br /><a href="https://github.com/jaanque/good-first-issue/commits?author=sabirhusseinbalal" title="Code">💻</a></td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td align="center" size="13px" colspan="7">
-        <img src="https://raw.githubusercontent.com/all-contributors/all-contributors-cli/1b8533af435da9854653492b1327a23a4dbd0a10/assets/logo-small.svg">
-          <a href="https://all-contributors.js.org/docs/en/bot/usage">Add your contributions</a>
-        </img>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/jaanque">
+          <img src="https://wsrv.nl/?url=github.com/jaanque.png&circle=1" width="100px" height="100px" alt="Jan"/><br />
+          <sub><b>Jan</b></sub>
+        </a>
+      </td>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/BrochDev">
+          <img src="https://wsrv.nl/?url=github.com/BrochDev.png&circle=1" width="100px" height="100px" alt="BrochDev"/><br />
+          <sub><b>BrochDev</b></sub>
+        </a>
+      </td>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/sabirhusseinbalal">
+          <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/246732079&circle=1" width="100px" height="100px" alt="Sabir Hussain Balal"/><br />
+          <sub><b>Sabir Hussain Balal</b></sub>
+        </a>
       </td>
     </tr>
-  </tfoot>
+  </tbody>
 </table>
 
 <!-- markdownlint-restore -->
