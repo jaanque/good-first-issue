@@ -10,7 +10,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/jaanque/good-first-issue)](https://github.com/jaanque/good-first-issue/commits/main)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjaanque%2Fgood-first-issue&label=visitors&countColor=%230c7ebe&style=flat&labelStyle=none)](https://github.com/jaanque/good-first-issue)
 
@@ -215,6 +215,7 @@ Already submitted your contributor card? The next level is **[challenges/](chall
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jaanque"><img src="https://github.com/jaanque.png?size=100" width="100px" height="100px" alt="Jan"/><br /><sub><b>Jan</b></sub></a><br /><a href="https://github.com/jaanque/good-first-issue/commits?author=jaanque" title="Code">💻</a> <a href="https://github.com/jaanque/good-first-issue/commits?author=jaanque" title="Documentation">📖</a> <a href="#maintenance-jaanque" title="Maintenance">🚧</a> <a href="#ideas-jaanque" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/BrochDev"><img src="https://github.com/BrochDev.png?size=100" width="100px" height="100px" alt="BrochDev"/><br /><sub><b>BrochDev</b></sub></a><br /><a href="#ideas-BrochDev" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/jaanque/good-first-issue/commits?author=BrochDev" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/sabirhusseinbalal"><img src="https://avatars.githubusercontent.com/u/246732079?v=4&size=100" width="100px" height="100px" alt="Sabir Hussain Balal"/><br /><sub><b>Sabir Hussain Balal</b></sub></a><br /><a href="https://github.com/jaanque/good-first-issue/commits?author=sabirhusseinbalal" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
