@@ -6,7 +6,7 @@
 ### We don't care if you break something. We aren't born knowing everything; just try.
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Repo stars](https://img.shields.io/github/stars/jaanque/good-first-issue)](https://github.com/jaanque/good-first-issue/stargazers)
+![GitHub Repo stars](https://img.shields.io/github/stars/jaanque/good-first-issue?style=flat)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fjaanque.github.io%2Fgood-first-issue%2F)](https://jaanque.github.io/good-first-issue/)
 [![GitHub last commit](https://img.shields.io/github/last-commit/jaanque/good-first-issue)](https://github.com/jaanque/good-first-issue/commits/main)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
