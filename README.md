@@ -210,30 +210,6 @@ Already submitted your contributor card? The next level is **[challenges/](chall
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="100">
-        <a href="https://github.com/jaanque">
-          <img src="https://github.com/jaanque.png" width="80" height="80" style="border-radius: 50%;" alt="Jan" /><br />
-          <sub><b>Jan</b></sub>
-        </a>
-      </td>
-      <td align="center" valign="top" width="100">
-        <a href="https://github.com/BrochDev">
-          <img src="https://github.com/BrochDev.png" width="80" height="80" style="border-radius: 50%;" alt="BrochDev" /><br />
-          <sub><b>BrochDev</b></sub>
-        </a>
-      </td>
-      <td align="center" valign="top" width="100">
-        <a href="https://github.com/sabirhusseinbalal">
-          <img src="https://github.com/sabirhusseinbalal.png" width="80" height="80" style="border-radius: 50%;" alt="sabirhusseinbalal" /><br />
-          <sub><b>sabirhusseinbalal</b></sub>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
