@@ -100,7 +100,7 @@ Your card file must be saved as `assets/cards/<your-username>.json`:
 
 ```json
 {
-  "name": "Your Name",
+  "name": "<your-username>",
   "img": "https://github.com/<your-username>.png",
   "github": "https://github.com/<your-username>"
 }
